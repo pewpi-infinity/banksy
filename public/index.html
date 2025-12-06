@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mongoose.OS - Login & Token Wallet</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚴 Mongoose.OS</h1>
+            <p class="tagline">Trick bike Freestyle BMX scripting</p>
+        </header>
+
+        <!-- Colored Word Links Section -->
+        <div class="navigation-links">
+            <h2>Co-Pilot Project Links</h2>
+            <div class="word-links">
+                <a href="#projects" class="word-link color-1" data-project="freestyle">Freestyle</a>
+                <a href="#projects" class="word-link color-2" data-project="bmx">BMX</a>
+                <a href="#projects" class="word-link color-3" data-project="tricks">Tricks</a>
+                <a href="#projects" class="word-link color-4" data-project="mongoose">Mongoose</a>
+                <a href="#projects" class="word-link color-5" data-project="scripting">Scripting</a>
+                <a href="#projects" class="word-link color-6" data-project="copilot">CoPilot</a>
+                <a href="#projects" class="word-link color-7" data-project="integration">Integration</a>
+                <a href="#projects" class="word-link color-8" data-project="projects">Projects</a>
+            </div>
+        </div>
+
+        <!-- Login Section -->
+        <div id="loginSection" class="section">
+            <h2>Login</h2>
+            <form id="loginForm">
+                <div class="form-group">
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" name="username" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Login</button>
+            </form>
+            <div id="loginMessage" class="message"></div>
+        </div>
+
+        <!-- Token Wallet Section -->
+        <div id="walletSection" class="section" style="display: none;">
+            <h2>Token Wallet</h2>
+            <div class="wallet-info">
+                <p>Welcome, <span id="currentUser"></span>!</p>
+                <p>Total Tokens: <span id="tokenBalance" class="balance">0</span></p>
+            </div>
+
+            <div class="add-token-form">
+                <h3>Add Tokens</h3>
+                <form id="addTokenForm">
+                    <div class="form-group">
+                        <label for="tokenType">Token Type:</label>
+                        <select id="tokenType" name="tokenType" required>
+                            <option value="trick">Trick Token</option>
+                            <option value="freestyle">Freestyle Token</option>
+                            <option value="bmx">BMX Token</option>
+                            <option value="reward">Reward Token</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="amount">Amount:</label>
+                        <input type="number" id="amount" name="amount" min="1" value="1" required>
+                    </div>
+                    <button type="submit" class="btn btn-secondary">Add Tokens</button>
+                </form>
+            </div>
+
+            <div class="wallet-tokens">
+                <h3>Your Tokens</h3>
+                <div id="tokenList"></div>
+            </div>
+
+            <button id="logoutBtn" class="btn btn-danger">Logout</button>
+        </div>
+
+        <!-- Server Commits Log -->
+        <div class="section">
+            <h2>Server-Side Commit Log</h2>
+            <div id="commitLog" class="commit-log"></div>
+            <button id="refreshCommits" class="btn btn-info">Refresh Commits</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
