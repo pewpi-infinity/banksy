@@ -10,6 +10,58 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+node_modules/
+npm-debug.log
+.env
+.DS_Store
+commit-log.txt
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build artifacts
+dist/
+build/
+.cache/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDEs
+*.egg-info/
+dist/
+build/
+
+# Logs
+logs/*.log
+logs/*.txt
 
 # IDE
 .vscode/
@@ -30,3 +82,43 @@ Thumbs.db
 # Build outputs
 dist/
 build/
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+# Environment variables
+.env
+.env.local
+
+# Node modules (if adding Node.js later)
+node_modules/
+# Temporary files
+/tmp/
+*.tmp
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg

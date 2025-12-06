@@ -19,5 +19,18 @@
   "license": "MIT",
   "engines": {
     "node": ">=14.0.0"
+  "name": "mongoose.os",
+  "version": "1.0.0",
+  "description": "Trick bike Freestyle BMX scripting",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
