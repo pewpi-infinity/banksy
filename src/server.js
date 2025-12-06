@@ -37,7 +37,12 @@ const server = http.createServer((req, res) => {
         } else {
             // Success
             res.writeHead(200, { 'Content-Type': contentType });
-            res.end(content, 'utf-8');
+            // Only use utf-8 encoding for text files, not binary files
+            if (contentType.startsWith('text/') || contentType.includes('javascript') || contentType.includes('json')) {
+                res.end(content, 'utf-8');
+            } else {
+                res.end(content);
+            }
         }
     });
 });

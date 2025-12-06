@@ -171,20 +171,16 @@ This project uses only Node.js built-in modules:
 ## File Structure
 
 ```
-mongoose.os/
-├── public/              # Frontend files
-│   ├── index.html      # Main HTML page
-│   ├── css/
-│   │   └── styles.css  # Styling
-│   ├── js/
-│   │   └── app.js      # Application logic
+infinity-research-hub/
+├── public/              # Frontend application
+│   ├── index.html      # Main interface
+│   ├── css/styles.css  # Styling (dark theme)
+│   ├── js/app.js       # Application logic
 │   └── research/       # Example research papers
-├── src/
-│   └── server.js       # Node.js server
-├── data/               # Data directory (future use)
-├── docs/               # Documentation
+├── src/server.js       # Node.js server
+├── docs/README.md      # Comprehensive documentation
 ├── package.json        # Project metadata
-└── README.md          # Project overview
+└── README.md          # Updated project overview
 ```
 
 ## Design Philosophy
