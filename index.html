@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mongoose Research Hub - Multi-Scale Discovery Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>🔬 Mongoose Research Hub</h1>
+        <p class="tagline">Multi-Scale Discovery Platform: From Microscale to Macroscale Research</p>
+    </header>
+
+    <nav class="main-nav">
+        <button class="nav-btn active" data-section="research">Research Portal</button>
+        <button class="nav-btn" data-section="video">Video Library</button>
+        <button class="nav-btn" data-section="audio">Audio Library</button>
+        <button class="nav-btn" data-section="resources">Resources</button>
+    </nav>
+
+    <main>
+        <!-- Research Portal Section -->
+        <section id="research-section" class="content-section active">
+            <div class="research-controls">
+                <h2>Multi-Page Research Interface</h2>
+                <div class="control-panel">
+                    <div class="control-group">
+                        <label>Search Topics:</label>
+                        <input type="text" id="search-input" placeholder="Enter search terms (e.g., quantum physics, AI, weather)">
+                        <button id="start-research">Start Research</button>
+                    </div>
+                    <div class="control-group">
+                        <label>Active Pages: <span id="page-count">0</span>/40</label>
+                        <button id="clear-pages">Clear All Pages</button>
+                    </div>
+                    <div class="control-group">
+                        <label>Term Extraction:</label>
+                        <button id="extract-terms">Extract & Combine Terms</button>
+                        <button id="expand-research">Expand Research</button>
+                    </div>
+                </div>
+                <div id="extracted-terms" class="terms-display"></div>
+            </div>
+
+            <div class="research-grid" id="research-grid">
+                <!-- Research pages will be dynamically added here -->
+            </div>
+
+            <div class="term-combinations" id="term-combinations">
+                <h3>Combined Search Terms</h3>
+                <div id="combined-terms-list"></div>
+            </div>
+        </section>
+
+        <!-- Video Library Section -->
+        <section id="video-section" class="content-section">
+            <h2>Research Video Library</h2>
+            <div class="video-controls">
+                <input type="text" id="video-url" placeholder="Enter video URL (YouTube, Vimeo, direct link)">
+                <button id="add-video">Add Video</button>
+            </div>
+            <div class="video-grid" id="video-grid">
+                <div class="video-player-container">
+                    <video id="main-video-player" controls>
+                        <source src="" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                    <div class="player-controls">
+                        <button class="control-btn" id="video-play">▶️ Play</button>
+                        <button class="control-btn" id="video-pause">⏸️ Pause</button>
+                        <button class="control-btn" id="video-stop">⏹️ Stop</button>
+                        <input type="range" id="video-volume" min="0" max="100" value="50">
+                        <label>Volume</label>
+                    </div>
+                </div>
+                <div id="video-playlist" class="playlist">
+                    <h3>Video Playlist</h3>
+                    <ul id="video-list"></ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Audio Library Section -->
+        <section id="audio-section" class="content-section">
+            <h2>Live Audio & Spaces Library</h2>
+            <div class="audio-controls">
+                <input type="text" id="audio-url" placeholder="Enter audio URL (podcast, live stream, audio file)">
+                <button id="add-audio">Add Audio</button>
+            </div>
+            <div class="audio-grid">
+                <div class="audio-player-container">
+                    <audio id="main-audio-player" controls>
+                        <source src="" type="audio/mpeg">
+                        Your browser does not support the audio tag.
+                    </audio>
+                    <div class="player-controls">
+                        <button class="control-btn" id="audio-play">▶️ Play</button>
+                        <button class="control-btn" id="audio-pause">⏸️ Pause</button>
+                        <button class="control-btn" id="audio-stop">⏹️ Stop</button>
+                        <input type="range" id="audio-volume" min="0" max="100" value="50">
+                        <label>Volume</label>
+                        <button class="control-btn" id="audio-speed">Speed: 1x</button>
+                    </div>
+                </div>
+                <div id="audio-playlist" class="playlist">
+                    <h3>Audio Playlist</h3>
+                    <ul id="audio-list"></ul>
+                </div>
+            </div>
+            <div class="live-spaces">
+                <h3>Live Spaces & Podcasts</h3>
+                <div id="live-spaces-list"></div>
+            </div>
+        </section>
+
+        <!-- Resources Section -->
+        <section id="resources-section" class="content-section">
+            <h2>Curated Research Resources</h2>
+            <div class="resources-grid">
+                <div class="resource-category">
+                    <h3>🔬 Science & Physics</h3>
+                    <ul id="science-links"></ul>
+                </div>
+                <div class="resource-category">
+                    <h3>💻 Technology & AI</h3>
+                    <ul id="tech-links"></ul>
+                </div>
+                <div class="resource-category">
+                    <h3>🌍 Nature & Environment</h3>
+                    <ul id="nature-links"></ul>
+                </div>
+                <div class="resource-category">
+                    <h3>🌤️ Weather & Atmosphere</h3>
+                    <ul id="weather-links"></ul>
+                </div>
+                <div class="resource-category">
+                    <h3>🚀 Space & Solar System</h3>
+                    <ul id="space-links"></ul>
+                </div>
+                <div class="resource-category">
+                    <h3>📱 Computing & Phones</h3>
+                    <ul id="computing-links"></ul>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Mongoose Research Hub - Exploring the universe from microscale to macroscale</p>
+        <p>Combining multiple search terms to narrow searches while opening universes of minute details</p>
+    </footer>
+
+    <script src="websites-database.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
