@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Infinity Cart Engine</title>
+  <title>Infinity‑OS Cart Index</title>
   <link rel="stylesheet" href="styles.css">
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(135deg, #1e3c72, #2a5298);
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
       color: #fff;
       text-align: center;
       padding: 2rem;
@@ -15,20 +15,20 @@
     h1 {
       font-size: 2.5rem;
       margin-bottom: 1rem;
-      color: #ffdd57;
+      color: #00ff9d;
       text-shadow: 2px 2px #000;
     }
     .cart-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
       gap: 1rem;
       margin-top: 2rem;
     }
     .cart-btn {
       background: #ff6f61;
       border: none;
-      border-radius: 12px;
-      padding: 1rem;
+      border-radius: 10px;
+      padding: 0.8rem;
       font-size: 1rem;
       font-weight: bold;
       cursor: pointer;
@@ -43,7 +43,7 @@
     .output {
       margin-top: 2rem;
       text-align: left;
-      background: rgba(0,0,0,0.4);
+      background: rgba(0,0,0,0.5);
       padding: 1rem;
       border-radius: 8px;
       max-height: 300px;
@@ -59,19 +59,23 @@
   </style>
 </head>
 <body>
-  <h1>Infinity Cart Engine</h1>
+  <h1>Infinity‑OS Cart Index</h1>
   <p>Press a cart to run it through the backend 🚀</p>
 
   <div class="cart-grid" id="cartGrid"></div>
-
   <div class="output" id="output"></div>
 
   <script>
-    const cartIDs = [
-      '000','001A','002','003','004','005','006','007','008','009','010',
-      '011','012','013','014','015','016','017','018','019','020','021',
-      '022','023','024','025','026','027','028','029','030','031','032',
-      '033','034','035','036','037','038','039','040','041'
+    // All carts + JSON engines
+    const carts = [
+      "cart801_terminal_engine.py",
+      "cart804_feed_generator.py",
+      "cart805_wallet_engine.py",
+      "CART804_FEED_BUFFER.json",
+      "CART805_WALLET.json",
+      "CART803_TOKENS.json",
+      "WORLD_TOKEN_LEDGER.json",
+      "PEWPI_USER_CAPSULE.json"
     ];
 
     const cartGrid = document.getElementById('cartGrid');
@@ -85,26 +89,26 @@
       output.scrollTop = output.scrollHeight;
     }
 
-    function runCart(id) {
-      log(`🔗 Running cart ${id}…`);
-      fetch(`http://localhost:5000/run?cart=${id}`)
+    function runCart(cart) {
+      log(`🔗 Running ${cart}…`);
+      fetch(`http://192.168.1.42:5000/run?cart=${cart}`)
         .then(res => res.json())
         .then(data => {
           if (data.output) {
-            log(`✅ Cart ${id} output: ${data.output}`, "success");
+            log(`✅ ${cart} output: ${data.output}`, "success");
           } else {
-            log(`❌ Cart ${id} error: ${data.error}`, "error");
+            log(`❌ ${cart} error: ${data.error}`, "error");
           }
         })
         .catch(err => log(`❌ Network error: ${err}`, "error"));
     }
 
     // Build buttons dynamically
-    cartIDs.forEach(id => {
+    carts.forEach(cart => {
       const btn = document.createElement('button');
       btn.className = 'cart-btn';
-      btn.textContent = `Cart ${id}`;
-      btn.onclick = () => runCart(id);
+      btn.textContent = cart;
+      btn.onclick = () => runCart(cart);
       cartGrid.appendChild(btn);
     });
   </script>
