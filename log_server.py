@@ -1,104 +1,30 @@
-#!/usr/bin/env python3
-"""
-Simple HTTP server to view Octave logs.
-Serves the index.html page and provides real-time log viewing.
-"""
+# File: log_server.py
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import json, os, time
 
-import http.server
-import socketserver
-import os
-import json
-from pathlib import Path
-from urllib.parse import urlparse
+ROOT = os.getcwd()
+LOGS = os.path.join(ROOT, 'logs')
+os.makedirs(LOGS, exist_ok=True)
 
-
-PORT = 8000
-LOG_FILE = Path("logs/txt.log")
-
-
-class LogServerHandler(http.server.SimpleHTTPRequestHandler):
-    """Custom handler to serve logs and static files."""
-    
-    def do_GET(self):
-        """Handle GET requests."""
-        parsed_path = urlparse(self.path)
-        
-        if parsed_path.path == '/':
-            # Serve index.html
-            self.path = '/index.html'
-            return http.server.SimpleHTTPRequestHandler.do_GET(self)
-        
-        elif parsed_path.path == '/api/logs':
-            # Serve log content
-            self.send_response(200)
-            self.send_header('Content-type', 'application/json')
-            self.send_header('Access-Control-Allow-Origin', '*')
-            self.end_headers()
-            
-            try:
-                if LOG_FILE.exists():
-                    with open(LOG_FILE, 'r', encoding='utf-8') as f:
-                        logs = f.read()
-                    response = {
-                        'success': True,
-                        'logs': logs,
-                        'lines': logs.count('\n')
-                    }
-                else:
-                    response = {
-                        'success': False,
-                        'error': 'Log file not found',
-                        'logs': '',
-                        'lines': 0
-                    }
-            except Exception as e:
-                response = {
-                    'success': False,
-                    'error': str(e),
-                    'logs': '',
-                    'lines': 0
-                }
-            
-            self.wfile.write(json.dumps(response).encode('utf-8'))
-        
-        elif parsed_path.path == '/api/clear':
-            # Clear log file
-            self.send_response(200)
-            self.send_header('Content-type', 'application/json')
-            self.send_header('Access-Control-Allow-Origin', '*')
-            self.end_headers()
-            
-            try:
-                if LOG_FILE.exists():
-                    LOG_FILE.unlink()
-                response = {'success': True, 'message': 'Logs cleared'}
-            except Exception as e:
-                response = {'success': False, 'error': str(e)}
-            
-            self.wfile.write(json.dumps(response).encode('utf-8'))
-        
-        else:
-            # Serve other static files
-            return http.server.SimpleHTTPRequestHandler.do_GET(self)
-    
-    def log_message(self, format, *args):
-        """Override to customize log messages."""
-        print(f"[{self.log_date_time_string()}] {format % args}")
-
-
-def run_server():
-    """Start the HTTP server."""
-    os.chdir(os.path.dirname(os.path.abspath(__file__)))
-    
-    with socketserver.TCPServer(("", PORT), LogServerHandler) as httpd:
-        print(f"Log server running at http://localhost:{PORT}/")
-        print(f"Serving logs from: {LOG_FILE.absolute()}")
-        print("Press Ctrl+C to stop the server")
+class Handler(BaseHTTPRequestHandler):
+    def do_POST(self):
+        if self.path != '/api/logs':
+            self.send_response(404); self.end_headers(); return
+        length = int(self.headers.get('Content-Length','0'))
+        body = self.rfile.read(length)
         try:
-            httpd.serve_forever()
-        except KeyboardInterrupt:
-            print("\nServer stopped.")
+            data = json.loads(body)
+            msg = data.get('msg','')
+            fname = f'log-{int(time.time()*1000)}.txt'
+            with open(os.path.join(LOGS, fname), 'w') as f:
+                f.write(f"{time.strftime('%Y-%m-%dT%H:%M:%S')} :: {msg}\n")
+            self.send_response(200)
+            self.send_header('Content-Type','application/json')
+            self.end_headers()
+            self.wfile.write(json.dumps({'ok':True,'path':f'logs/{fname}'}).encode('utf-8'))
+        except Exception as e:
+            self.send_response(500); self.end_headers()
+            self.wfile.write(json.dumps({'error':str(e)}).encode('utf-8'))
 
-
-if __name__ == "__main__":
-    run_server()
+if __name__ == '__main__':
+    HTTPServer(('0.0.0.0', 8080), Handler).serve_forever()
