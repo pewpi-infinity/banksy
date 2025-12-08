@@ -31,7 +31,7 @@ def generate_body(topic):
             f"\n\n### SECTION {i}: {topic.upper()}\n"
             f"Deep multi-page technical expansion exploring {topic}, "
             f"hydrogen-electron doorway theory, frequency harmonics, "
-            f"quantmic lattice mechanics, portal physics, and energetic "
+            f"quantum lattice mechanics, portal physics, and energetic "
             f"resonance behavior.\n\n"
             f"Mathematical Model {i}:\n"
             f"ψ(x) = e^(-x²) * sin({i}πx)\n"
@@ -57,17 +57,24 @@ with open(TERMS_FILE, "r") as f:
     terms = [t.strip() for t in f.readlines() if t.strip()]
 
 for topic in terms:
+
+    # ---- SAFE FILENAME ----
+    base = re.sub(r'[^A-Za-z0-9_-]+', '_', topic)[:80]
+
+    # ---- FIND NEXT AVAILABLE NEW FILE ----
+    index = 1
+    while True:
+        fname = f"{base}_{index:04d}.txt"
+        fullpath = os.path.join(OUTPUT_DIR, fname)
+        if not os.path.exists(fullpath):
+            break
+        index += 1
+
+    # ---- WRITE NEW RESEARCH FILE ONLY ----
     header = make_token_header(topic)
     summary = f"\n## Executive Summary\nFull-depth investigation into: {topic}\n"
     body = generate_body(topic)
     links = generate_links(topic)
-
-    # ---- SAFE FILENAME ----
-    safe = re.sub(r'[^A-Za-z0-9_-]+', '_', topic)
-    safe = safe[:80]
-    fname = safe + ".txt"
-
-    fullpath = os.path.join(OUTPUT_DIR, fname)
 
     with open(fullpath, "w") as f:
         f.write(header)
@@ -77,5 +84,5 @@ for topic in terms:
         f.write("\n")
         f.write(links)
 
-    print(f"[∞] Wrote → {fullpath}")
+    print(f"[∞] Wrote NEW → {fullpath}")
 
