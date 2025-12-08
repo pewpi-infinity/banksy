@@ -1,0 +1,181 @@
+{
+  "header": {
+    "token_number": 235599,
+    "token_value": 2960,
+    "token_color": "\ud83e\ude75 BLUE",
+    "generated": "2025-12-07T20:45:28.822656",
+    "topic": "sodium linear equations non chaotic"
+  },
+  "articles": [
+    {
+      "title": "Chaotic states in a random world: Relationship between the nonlinear differential equations of excitability and the stochastic properties of ion channels",
+      "url": "https://link.springer.com/article/10.1007/BF01053972",
+      "authors": "",
+      "abstract": "\u2026 We call these solutions chaotic, not in the strict sense of positive Liapunov exponents, but \u2026 \nWanke, Postassium and sodium ion current noise in the membrane of the squid giant axon, \u2026",
+      "pdf_url": null,
+      "source_id": 4,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 845094,
+        "article_value": 973,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T20:45:59.234889",
+        "title": "Chaotic states in a random world: Relationship between the nonlinear differential equations of excitability and the stochastic properties of ion channels"
+      }
+    },
+    {
+      "title": "Edge of chaos theory sheds light into the all-to-none phenomenon in neurons\u2014Part I: On the fundamental role of the sodium ion channel",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10384651/",
+      "authors": "A Ascoli, AS Demirkol",
+      "abstract": "\u2026 contribution, the Edge of Chaos Principle is invoked to explain the \u2026 sodium ion channel, \nincluding leakage effects. Our in-depth investigation of the Local Activity and Edge of Chaos of \u2026",
+      "pdf_url": null,
+      "source_id": 4,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 312926,
+        "article_value": 2706,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T20:45:59.234979",
+        "title": "Edge of chaos theory sheds light into the all-to-none phenomenon in neurons\u2014Part I: On the fundamental role of the sodium ion channel"
+      }
+    },
+    {
+      "title": "On the reliability of computed chaotic solutions of non-linear differential equations",
+      "url": "https://www.tandfonline.com/doi/abs/10.1111/j.1600-0870.2009.00402.x",
+      "authors": "",
+      "abstract": "\u2026 solution with chaotic behaviour is \u2018indeed\u2019 chaotic but not a so-called computational chaos \n(CC), and that a computed long-term solution with periodicity is \u2018indeed\u2019 periodic but not a \u2026",
+      "pdf_url": null,
+      "source_id": 4,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 323716,
+        "article_value": 922,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-07T20:45:59.235018",
+        "title": "On the reliability of computed chaotic solutions of non-linear differential equations"
+      }
+    },
+    {
+      "title": "Simple chaotic systems and circuits",
+      "url": "http://home.ustc.edu.cn/~yangsang/CM-project2/classical-mechanics-projects-Simple-chaotic-systems-and-circuits.pdf",
+      "authors": "JC Sprott",
+      "abstract": "\u2026 now call chaos can occur in systems of autonomous ordinary differential equations ODEs \nwith \u2026 Both the Lorenz and R\u00f6ssler systems contain seven terms when written as three first-order \u2026",
+      "pdf_url": "http://home.ustc.edu.cn/~yangsang/CM-project2/classical-mechanics-projects-Simple-chaotic-systems-and-circuits.pdf",
+      "source_id": 4,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 395627,
+        "article_value": 3863,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T20:45:59.235051",
+        "title": "Simple chaotic systems and circuits"
+      }
+    },
+    {
+      "title": "Chaos and nonlinear stochastic dynamics",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0266892099000077",
+      "authors": "A Naess",
+      "abstract": "\u2026 quick appraisal of the literature on chaotic systems. This should not, however, be construed \nto the effect that the analysis of simple chaotic systems is straightforward. On the contrary, the \u2026",
+      "pdf_url": null,
+      "source_id": 4,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 802990,
+        "article_value": 1301,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T20:45:59.235087",
+        "title": "Chaos and nonlinear stochastic dynamics"
+      }
+    },
+    {
+      "title": "Chaotic dynamics of non-linear processes in atomic and molecular systems in electromagnetic field and semiconductor and fiber laser devices: new approaches\u00a0\u2026",
+      "url": "http://semst.onu.edu.ua/article/view/108364",
+      "authors": "\u0413\u041f \u041f\u0440\u0435\u043f\u0435\u043b\u0438\u0446\u044f, \u041e\u0412 \u0413\u043b\u0443\u0448\u043a\u043e\u0432",
+      "abstract": "\u2026 present the results of modelling the chaotic dynamics of atomic systems in the crossed \nelectric F1 and magnetic g fields, based on the numerical solution of the Schr\u00f6dinger equation: \u2026",
+      "pdf_url": null,
+      "source_id": 4,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 453667,
+        "article_value": 2810,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T20:45:59.235121",
+        "title": "Chaotic dynamics of non-linear processes in atomic and molecular systems in electromagnetic field and semiconductor and fiber laser devices: new approaches\u00a0\u2026"
+      }
+    },
+    {
+      "title": "Nonlinear dynamics and chaos methods in neurodynamics and complex data analysis",
+      "url": "https://link.springer.com/article/10.1007/s11071-008-9376-9",
+      "authors": "",
+      "abstract": "\u2026 deformations of the closest linear systems and they live in \u2026 sodium, potassium, and a leak \ncurrent that consists mainly of Cl \u2026 Specific voltage-dependent ion channels, one for sodium and \u2026",
+      "pdf_url": null,
+      "source_id": 4,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 646441,
+        "article_value": 2048,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-07T20:45:59.235155",
+        "title": "Nonlinear dynamics and chaos methods in neurodynamics and complex data analysis"
+      }
+    },
+    {
+      "title": "Nonlinear stability analysis of sodium cooled fast reactors",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0029549324003121",
+      "authors": "",
+      "abstract": "\u2026 In this paper we apply this methodology for the first time to sodium cooled fast neutron \u2026 \nbased linear stability analysis. In a MOX fuelled fast reactor, stability of the system with sodium \u2026",
+      "pdf_url": null,
+      "source_id": 4,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 94463,
+        "article_value": 3631,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T20:45:59.235189",
+        "title": "Nonlinear stability analysis of sodium cooled fast reactors"
+      }
+    },
+    {
+      "title": "Nonlinear chaotic dynamics of arterial blood pressure and renal blood flow",
+      "url": "https://journals.physiology.org/doi/abs/10.1152/ajpheart.1995.268.2.H621",
+      "authors": "",
+      "abstract": "\u2026 dynamic processes (chaotic), we measured resting AP and RBF over 4 h in six conscious \ndogs\u2026 After the animals were killed with a high dose of pentobarbital sodium, the implanted flow \u2026",
+      "pdf_url": null,
+      "source_id": 4,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 910358,
+        "article_value": 2470,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T20:45:59.235222",
+        "title": "Nonlinear chaotic dynamics of arterial blood pressure and renal blood flow"
+      }
+    },
+    {
+      "title": "Chaos and non-linear phenomena in renal vascular control",
+      "url": "https://academic.oup.com/cardiovascres/article-abstract/31/3/359/342243",
+      "authors": "KP Yip, NH Holstein-Rathlou",
+      "abstract": "\u2026 non-linear systems [23,24]. Such apparently random behavior in a deterministic system is \ntechnically known as \u201cchaos\u2026 in the excretory patterns for sodium and water, and thus the long-\u2026",
+      "pdf_url": null,
+      "source_id": 4,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 752311,
+        "article_value": 4628,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T20:45:59.235256",
+        "title": "Chaos and non-linear phenomena in renal vascular control"
+      }
+    }
+  ]
+}

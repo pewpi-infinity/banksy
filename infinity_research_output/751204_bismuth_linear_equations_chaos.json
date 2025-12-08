@@ -1,0 +1,181 @@
+{
+  "header": {
+    "token_number": 751204,
+    "token_value": 3033,
+    "token_color": "\ud83d\udc9a GREEN",
+    "generated": "2025-12-07T20:56:27.656701",
+    "topic": "bismuth linear equations chaos"
+  },
+  "articles": [
+    {
+      "title": "Bifurcations and chaos in nonlinear Lindblad equations",
+      "url": "https://iopscience.iop.org/article/10.1088/1751-8121/abaa85/meta",
+      "authors": "B Drossel",
+      "abstract": "\u2026 By using techniques developed for classical dynamical systems we show that various types \nof bifurcations and even chaotic dynamics can occur. As specific examples that display the \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 555508,
+        "article_value": 3730,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T20:56:54.592167",
+        "title": "Bifurcations and chaos in nonlinear Lindblad equations"
+      }
+    },
+    {
+      "title": "Bifurcation, chaos, modulation instability, and soliton analysis of the Schr\u00f6dinger equation with cubic nonlinearity",
+      "url": "https://www.nature.com/articles/s41598-025-96327-6",
+      "authors": "MS Rahaman, MS Ullah",
+      "abstract": "\u2026 We then apply diverse chaos detection processes to pinpoint the chaotic state within the \ngoverning model. Therefore, our implemented procedures are effective and can enhance our \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 192529,
+        "article_value": 4286,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T20:56:54.592247",
+        "title": "Bifurcation, chaos, modulation instability, and soliton analysis of the Schr\u00f6dinger equation with cubic nonlinearity"
+      }
+    },
+    {
+      "title": "Instability of rapidly-oscillating periodic solutions for discontinuous differential delay equations",
+      "url": "https://projecteuclid.org/journals/differential-and-integral-equations/volume-15/issue-1/Instability-of-rapidly-oscillating-periodic-solutions-for-discontinuous-differential/die/1356060883.full",
+      "authors": "",
+      "abstract": "\u2026 We first consider the equation $\\dot{x}(t)=- h(x(t-1))$, corresponding to $f\\equiv 0$. We \nfind the admissible shapes of \u2026 We then extend these results to our general equation $(\\star)$. \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 75080,
+        "article_value": 2852,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T20:56:54.592282",
+        "title": "Instability of rapidly-oscillating periodic solutions for discontinuous differential delay equations"
+      }
+    },
+    {
+      "title": "Nonlinearities in bismuth under supersonic electron drift",
+      "url": "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.51.16568",
+      "authors": "P Finkel",
+      "abstract": "\u2026 Under certain conditions the electroacoustic oscillations of V& were transformed into noise, \nmarking the presence of acoustic turbulence and the onset of chaos. At high values of the \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 380519,
+        "article_value": 2659,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T20:56:54.592317",
+        "title": "Nonlinearities in bismuth under supersonic electron drift"
+      }
+    },
+    {
+      "title": "Chaotic scattering in nano-electronic systems: from billiards to clusters",
+      "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJNT.2009.022929",
+      "authors": "CA Marlow",
+      "abstract": "\u2026 scattering and chaotic scattering induced by the host material. We discuss the implications \nof this model for self-assembled nanoscale systems by considering bismuth nanoclusters. \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 126729,
+        "article_value": 3895,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-07T20:56:54.592350",
+        "title": "Chaotic scattering in nano-electronic systems: from billiards to clusters"
+      }
+    },
+    {
+      "title": "Disordered Ballistic Bismuth Nano\u2010waveguides for Highly Efficient Thermoelectric Energy Conversion",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202402485",
+      "authors": "Y Selzer",
+      "abstract": "\u2026 used to form very stable chaotic ballistic waveguides that can be \u201c\u2026 , we suggest using EM to \nform chaotic waveguides in Bi. The \u2026 In both directions the resulting confinement is chaotic with \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 886206,
+        "article_value": 3634,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-07T20:56:54.592382",
+        "title": "Disordered Ballistic Bismuth Nano\u2010waveguides for Highly Efficient Thermoelectric Energy Conversion"
+      }
+    },
+    {
+      "title": "Stochastic modeling of flow-structure interactions using generalized polynomial chaos",
+      "url": "https://asmedigitalcollection.asme.org/fluidsengineering/article-abstract/124/1/51/462814",
+      "authors": "D Xiu, D Lucor",
+      "abstract": "\u2026 In this paper we apply the chaos expansions to coupled Navier-Stokes/structure \nequations. We first demonstrate the convergence of chaos expansions by solving a second-order \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 587860,
+        "article_value": 2972,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T20:56:54.592414",
+        "title": "Stochastic modeling of flow-structure interactions using generalized polynomial chaos"
+      }
+    },
+    {
+      "title": "Vortex-induced vibration in lead\u2013bismuth eutectic: High-efficiency coupling framework, stability analysis, and nonlinear effects",
+      "url": "https://pubs.aip.org/aip/pof/article/37/6/067140/3350209",
+      "authors": "",
+      "abstract": "\u2026 of in-line and cross-flow amplitudes observed in LBE across a wider reduced velocity range. \nThis behavior stems from enhanced in-line fluid forces induced by asymmetric and chaotic \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 434626,
+        "article_value": 2935,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T20:56:54.592448",
+        "title": "Vortex-induced vibration in lead\u2013bismuth eutectic: High-efficiency coupling framework, stability analysis, and nonlinear effects"
+      }
+    },
+    {
+      "title": "Discerning order from chaos: characterising the surface structure of liquid gallium",
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2024/mh/d4mh01415d",
+      "authors": "KG Steenbergen, N Gaston",
+      "abstract": "\u2026 -disrupted), we find that the disorder introduced by a bismuth dopant at the surface creates \na local environment more similar to the disordered bulk liquid than the geometrically ordered \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 645028,
+        "article_value": 4887,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T20:56:54.592480",
+        "title": "Discerning order from chaos: characterising the surface structure of liquid gallium"
+      }
+    },
+    {
+      "title": "Chaos, complexity and morphogenesis: Optical-pattern formation and recognition",
+      "url": "https://link.springer.com/article/10.1007/BF02458788",
+      "authors": "FT Arecchi",
+      "abstract": "\u2026 The gain medium is a photorefractive (5 \u2022 5 \u2022 10)mm s BSO (bismuth silicon oxide) crystal to \n\u2026 Being three non-linear equations, they provide the minimal conditions for deterministic chaos\u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 24414,
+        "article_value": 2256,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T20:56:54.592513",
+        "title": "Chaos, complexity and morphogenesis: Optical-pattern formation and recognition"
+      }
+    }
+  ]
+}

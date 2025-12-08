@@ -1,0 +1,181 @@
+{
+  "header": {
+    "token_number": 303362,
+    "token_value": 288,
+    "token_color": "\ud83d\udc9c PURPLE",
+    "generated": "2025-12-07T21:12:37.628890",
+    "topic": "manganese equations linear non linear"
+  },
+  "articles": [
+    {
+      "title": "Associations of intrauterine exposure to manganese with fetal and early-childhood growth: a prospective prenatal cohort study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38273082/",
+      "authors": "Zuo J, Zhang H, Gang H, Mai Q, Jia Z, Liu H, Xia W, Xu S, Li Y.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 658924,
+        "article_value": 4604,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T21:13:23.364271",
+        "title": "Associations of intrauterine exposure to manganese with fetal and early-childhood growth: a prospective prenatal cohort study."
+      }
+    },
+    {
+      "title": "Neurobehavioral function in school-age children exposed to manganese in drinking water.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25260096/",
+      "authors": "Oulhote Y, Mergler D, Barbeau B, Bellinger DC, Bouffard T, Brodeur M\u00c8, Saint-Amour D, Legrand M, Sauv\u00e9 S, Bouchard MF.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 238361,
+        "article_value": 1377,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T21:13:23.364469",
+        "title": "Neurobehavioral function in school-age children exposed to manganese in drinking water."
+      }
+    },
+    {
+      "title": "Synthesis, characterization and photocatalytic activity of porous manganese oxide doped titania for toluene decomposition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17321673/",
+      "authors": "Jothiramalingam R, Wang MK.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 913188,
+        "article_value": 1701,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-07T21:13:23.364506",
+        "title": "Synthesis, characterization and photocatalytic activity of porous manganese oxide doped titania for toluene decomposition."
+      }
+    },
+    {
+      "title": "Non-essential and essential trace element mixtures and kidney function in early pregnancy - A cross-sectional analysis in project viva.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36402181/",
+      "authors": "Lin PD, Cardenas A, Rifas-Shiman SL, Zota AR, Hivert MF, Aris IM, Sanders AP.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 138077,
+        "article_value": 4746,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T21:13:23.364540",
+        "title": "Non-essential and essential trace element mixtures and kidney function in early pregnancy - A cross-sectional analysis in project viva."
+      }
+    },
+    {
+      "title": "Critical Windows for Associations between Manganese Exposure during Pregnancy and Size at Birth: A Longitudinal Cohort Study in Wuhan, China.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30675808/",
+      "authors": "Hu J, Wu C, Zheng T, Zhang B, Xia W, Peng Y, Liu W, Jiang M, Liu S, Buka SL, Zhou A, Zhang Y, Jiang Y, Hu C, Chen X, Zeng Q, Chen X, Xu B, Zhang X, Truong A, Shi K, Qian Z, Li Y, Xu S.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 79853,
+        "article_value": 2608,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T21:13:23.364574",
+        "title": "Critical Windows for Associations between Manganese Exposure during Pregnancy and Size at Birth: A Longitudinal Cohort Study in Wuhan, China."
+      }
+    },
+    {
+      "title": "Small Molecule Interactions with Biomacromolecules: DNA Binding Interactions of a Manganese(III) Schiff Base Complex with Potential Anticancer Activities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37548990/",
+      "authors": "Khatun R, Modak R, Islam ASM, Moni D, Sepay N, Mukherjee R, Das G, Murmu N, Ali M.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 949057,
+        "article_value": 1893,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-07T21:13:23.364607",
+        "title": "Small Molecule Interactions with Biomacromolecules: DNA Binding Interactions of a Manganese(III) Schiff Base Complex with Potential Anticancer Activities."
+      }
+    },
+    {
+      "title": "Multiple metal exposure and platelet counts during pregnancy: A repeated measure study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31991237/",
+      "authors": "Bao S, Xia W, Xu S, Li Y, Lu B, Wu C, Liao J, Liu H, Sun X, Zhou A.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 611778,
+        "article_value": 175,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-07T21:13:23.364640",
+        "title": "Multiple metal exposure and platelet counts during pregnancy: A repeated measure study."
+      }
+    },
+    {
+      "title": "Manganese and iron oxide immobilized activated carbons precursor to dead biomasses in the remediation of cadmium-contaminated waters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23589235/",
+      "authors": "Lee SM, Lalhmunsiama, Choi SI, Tiwari D.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 467781,
+        "article_value": 1043,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T21:13:23.364673",
+        "title": "Manganese and iron oxide immobilized activated carbons precursor to dead biomasses in the remediation of cadmium-contaminated waters."
+      }
+    },
+    {
+      "title": "Permeation and block of N-methyl-D-aspartic acid receptor channels by divalent cations in mouse cultured central neurones.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2451020/",
+      "authors": "Mayer ML, Westbrook GL.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 848562,
+        "article_value": 2328,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-07T21:13:23.364705",
+        "title": "Permeation and block of N-methyl-D-aspartic acid receptor channels by divalent cations in mouse cultured central neurones."
+      }
+    },
+    {
+      "title": "In utero and peripubertal metals exposure in relation to reproductive hormones and sexual maturation and progression among girls in Mexico City.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31421446/",
+      "authors": "Ashrap P, S\u00e1nchez BN, T\u00e9llez-Rojo MM, Basu N, Tamayo-Ortiz M, Peterson KE, Meeker JD, Watkins DJ.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 640740,
+        "article_value": 2569,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-07T21:13:23.364738",
+        "title": "In utero and peripubertal metals exposure in relation to reproductive hormones and sexual maturation and progression among girls in Mexico City."
+      }
+    }
+  ]
+}

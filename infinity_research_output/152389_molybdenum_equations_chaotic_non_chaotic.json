@@ -1,0 +1,181 @@
+{
+  "header": {
+    "token_number": 152389,
+    "token_value": 3722,
+    "token_color": "\u2764\ufe0f RED",
+    "generated": "2025-12-07T20:51:09.974122",
+    "topic": "molybdenum equations chaotic non chaotic"
+  },
+  "articles": [
+    {
+      "title": "Laser-induced two-dimensional periodic and chaotic motions on molten tantalum and molybdenum surfaces",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/13642819708202309",
+      "authors": "",
+      "abstract": "\u2026 This paper deals with laser-induced 2D regular and chaotic fluid motion on tantalum and \nmolybdenum surfaces associated with Re M 1-lo2 experimentally and by numerical simulations \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 416467,
+        "article_value": 943,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T20:51:41.011285",
+        "title": "Laser-induced two-dimensional periodic and chaotic motions on molten tantalum and molybdenum surfaces"
+      }
+    },
+    {
+      "title": "An optimization-based equilibrium measure describes non-equilibrium steady state dynamics: application to edge of chaos",
+      "url": "https://arxiv.org/abs/2401.10009",
+      "authors": "J Qiu, H Huang",
+      "abstract": "\u2026 not be captured by our equilibrium approximation, and in that case, integro-differential \nequations \u2026 We next show how physical insights about a complicated non-gradient dynamics can \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 648271,
+        "article_value": 428,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-07T20:51:41.011364",
+        "title": "An optimization-based equilibrium measure describes non-equilibrium steady state dynamics: application to edge of chaos"
+      }
+    },
+    {
+      "title": "The origin of diffusion: the case of non-chaotic systems",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0167278903000514",
+      "authors": "F Cecconi, D del-Castillo-Negrete",
+      "abstract": "\u2026 Then we present two non-chaotic, one-dimensional models that \u2026 models can be viewed as \nnon-chaotic space\u2013time billiards, \u2026 see that there is no need to invoke chaos to induce diffusive \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 532439,
+        "article_value": 812,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T20:51:41.011404",
+        "title": "The origin of diffusion: the case of non-chaotic systems"
+      }
+    },
+    {
+      "title": "On the reliability of computed chaotic solutions of non-linear differential equations",
+      "url": "https://www.tandfonline.com/doi/abs/10.1111/j.1600-0870.2009.00402.x",
+      "authors": "",
+      "abstract": "\u2026 solution with chaotic behaviour is \u2018indeed\u2019 chaotic but not a so-called computational chaos \n(CC), and that a computed long-term solution with periodicity is \u2018indeed\u2019 periodic but not a \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 860707,
+        "article_value": 2217,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T20:51:41.011438",
+        "title": "On the reliability of computed chaotic solutions of non-linear differential equations"
+      }
+    },
+    {
+      "title": "Recycling solar cells for hydrogen production coupling hydrazine degradation with entropy-driven high-chaos nickel molybdenum phosphorus sulfide oxides",
+      "url": "https://pubs.acs.org/doi/abs/10.1021/acscatal.2c04205",
+      "authors": "X Gao, D Zhou, X Sun",
+      "abstract": "\u2026 An entropy-driven high-chaos nickel molybdenum phosphorus sulfide oxide monolithic \nelectrode is reported with an extremely small voltage of 0.039 V at 10 mA cm \u20132 and an excellent \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 91453,
+        "article_value": 3979,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T20:51:41.011471",
+        "title": "Recycling solar cells for hydrogen production coupling hydrazine degradation with entropy-driven high-chaos nickel molybdenum phosphorus sulfide oxides"
+      }
+    },
+    {
+      "title": "Analysis on reservoir activation with the nonlinearity harnessed from solution-processed molybdenum disulfide",
+      "url": "https://arxiv.org/abs/2403.17676",
+      "authors": "",
+      "abstract": "\u2026 Our ESN running at the edge-of-chaos, however, may not be robust as the fitted activation \nfunction, \ud835\udc53dev(\u2219), may not be well bounded and the reservoir may lack negative feedback as a \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 74082,
+        "article_value": 1218,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-07T20:51:41.011504",
+        "title": "Analysis on reservoir activation with the nonlinearity harnessed from solution-processed molybdenum disulfide"
+      }
+    },
+    {
+      "title": "Relativistic quantum chaos",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0370157318301480",
+      "authors": "HY Xu, C Grebogi, YC Lai",
+      "abstract": "\u2026 equation. Recent years have witnessed a rapid growth of interest in Dirac materials such as \ngraphene, topological insulators, molybdenum \u2026 by the Dirac equation in relativistic quantum \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 295844,
+        "article_value": 2397,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T20:51:41.011536",
+        "title": "Relativistic quantum chaos"
+      }
+    },
+    {
+      "title": "Modeling and analysis of a three-terminal-memristor-based conservative chaotic system",
+      "url": "https://www.mdpi.com/1099-4300/23/1/71",
+      "authors": "Z Wang",
+      "abstract": "\u2026 chaotic system based on the 4D Euler equation given in [18]. The 4D Euler equation is a \nvery delicate ordinary differential equation \u2026 orbit instead of the chaos. By coupling the Euler \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 294555,
+        "article_value": 2416,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T20:51:41.011569",
+        "title": "Modeling and analysis of a three-terminal-memristor-based conservative chaotic system"
+      }
+    },
+    {
+      "title": "Optimal synchronization of fractal\u2013fractional differentials on chaotic convection for Newtonian and non-Newtonian fluids",
+      "url": "https://link.springer.com/article/10.1140/epjs/s11734-023-00913-6",
+      "authors": "KA Abro",
+      "abstract": "\u2026 the chaotic behavior of non-Newtonian fluid saturated by porosity for the chaotic behavior \nof \u2026 The mathematical modeling of governing equations of non-Newtonian fluid saturated by \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 305856,
+        "article_value": 4342,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-07T20:51:41.011601",
+        "title": "Optimal synchronization of fractal\u2013fractional differentials on chaotic convection for Newtonian and non-Newtonian fluids"
+      }
+    },
+    {
+      "title": "Improving thermal efficiency through Cu-MoS2 hybrid nanomaterials: A numerical and statistical approach",
+      "url": "https://www.sciencedirect.com/science/article/pii/S096007792500027X",
+      "authors": "K Muhammad, M Sarfraz, NA Ahammad",
+      "abstract": "\u2026 Our approach involves integrating molybdenum disulfide and copper nanoparticles into a \nwater-based fluid. It considers stretching along the z-axis and delves into heat transfer and \u2026",
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 419164,
+        "article_value": 680,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T20:51:41.011635",
+        "title": "Improving thermal efficiency through Cu-MoS2 hybrid nanomaterials: A numerical and statistical approach"
+      }
+    }
+  ]
+}

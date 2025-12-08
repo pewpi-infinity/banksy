@@ -1,0 +1,79 @@
+{
+  "header": {
+    "token_number": 824244,
+    "token_value": 695,
+    "token_color": "\ud83d\udc9b YELLOW",
+    "generated": "2025-12-07T20:46:42.302064",
+    "topic": "aluminum non linear dynamics order strontium non chaotic equations hydrogen linear equations chaos theory holmium linear periodic table"
+  },
+  "articles": [
+    {
+      "title": "Introduction to the dynamic self-organization of chemical systems: Part II: Dynamic instabilities in selected chemical systems",
+      "url": "https://link.springer.com/article/10.1007/s40828-017-0050-z",
+      "authors": "M Orlik",
+      "abstract": "\u2026 chaos and the principle of its control as the modern subject of \u2026 Hydrogen peroxide is a \ncomponent of several homogeneous \u2026 (4\u20136) appear to be of similar order of magnitudes. This is a \u2026",
+      "pdf_url": null,
+      "source_id": 1,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 864045,
+        "article_value": 4050,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-07T20:46:46.845542",
+        "title": "Introduction to the dynamic self-organization of chemical systems: Part II: Dynamic instabilities in selected chemical systems"
+      }
+    },
+    {
+      "title": "Advanced modeling of short and ultrashort laser irradiation of metals in micro-nano down to sub-atomic scale",
+      "url": "https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/62542/Alexopoulou%20-%20PhD%20thesis.pdf?sequence=1",
+      "authors": "",
+      "abstract": "\u2026 structure this thesis, in order to be as clear, coherent and impactful as possible for the reader. \n\u2026 right path through the fog of a chaotic simulation, he always provided clarity and direction. \u2026",
+      "pdf_url": "https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/62542/Alexopoulou%20-%20PhD%20thesis.pdf?sequence=1",
+      "source_id": 1,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 498697,
+        "article_value": 353,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T20:46:46.845628",
+        "title": "Advanced modeling of short and ultrashort laser irradiation of metals in micro-nano down to sub-atomic scale"
+      }
+    },
+    {
+      "title": "The Greening of Pharmaceutical Engineering, Theories and Solutions",
+      "url": "https://books.google.com/books?hl=en&lr=&id=9EWPDAAAQBAJ&oi=fnd&pg=PP2&dq=aluminum+non+linear+dynamics+order+strontium+non+chaotic+equations+hydrogen+linear+equations+chaos+theory+holmium+linear+periodic+table&ots=lBD28do8qJ&sig=iykympzhaxgNfuslS1Ju5f2-0Fs",
+      "authors": "MR Islam, JS Islam, MS Rahman",
+      "abstract": "\u2026 The only function that is valid is with infinite order of periodicity (ie, beyond chaotic). In order \n\u2026 position of all molecules and not just the principal components (hydrogen and carbon in this \u2026",
+      "pdf_url": null,
+      "source_id": 1,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 527581,
+        "article_value": 1717,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-07T20:46:46.845665",
+        "title": "The Greening of Pharmaceutical Engineering, Theories and Solutions"
+      }
+    },
+    {
+      "title": "Utopia or oblivion: The prospects for humanity",
+      "url": "https://books.google.com/books?hl=en&lr=&id=eTmDDQAAQBAJ&oi=fnd&pg=PA8&dq=aluminum+non+linear+dynamics+order+strontium+non+chaotic+equations+hydrogen+linear+equations+chaos+theory+holmium+linear+periodic+table&ots=_t_pIXc05t&sig=fAn1V9YKEytYrWreNdYhkJDjcfY",
+      "authors": "",
+      "abstract": "\u2026 universe as is manifest, for instance, by the hydrogen atom, how then can the economic and \n\u2026 ; wall charts of the periodic table of the elements; a world globe; a wall-mounted chart of the \u2026",
+      "pdf_url": null,
+      "source_id": 1,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 689295,
+        "article_value": 4289,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T20:46:46.845699",
+        "title": "Utopia or oblivion: The prospects for humanity"
+      }
+    }
+  ]
+}

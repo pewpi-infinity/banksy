@@ -1,0 +1,215 @@
+{
+  "header": {
+    "token_number": 987467,
+    "token_value": 3205,
+    "token_color": "\ud83e\ude75 BLUE",
+    "generated": "2025-12-07T21:06:08.986891",
+    "topic": "tellurium equations order dynamics"
+  },
+  "articles": [
+    {
+      "title": "The lattice dynamics of tellurium",
+      "url": "https://www.sciencedirect.com/science/article/pii/002236977590205X",
+      "authors": "",
+      "abstract": "\u2026 of phonon dispersion curves in tellurium by the coherent inelastic neutron \u2026 lattice dynamical \nmodels. A preliminary report of these measurements has been given earlier [ 11. Tellurium \u2026",
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 349219,
+        "article_value": 2236,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-07T21:06:26.437547",
+        "title": "The lattice dynamics of tellurium"
+      }
+    },
+    {
+      "title": "Local order in liquid tellurium",
+      "url": "https://jphys.journaldephysique.org/articles/jphys/abs/1971/01/jphys_1971__32_1_73_0/jphys_1971__32_1_73_0.html",
+      "authors": "",
+      "abstract": "\u2026 At this point, it is no longer clear whether it is possible to define any chains in the liquid \nstate of tellurium. Now let us compare the dynamic properties of liquid tellurium with those of \u2026",
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 552074,
+        "article_value": 2993,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T21:06:26.437623",
+        "title": "Local order in liquid tellurium"
+      }
+    },
+    {
+      "title": "Raman spectra and lattice dynamics of tellurium",
+      "url": "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.4.356",
+      "authors": "",
+      "abstract": "\u2026 The Raman spectrum of trigonal tellurium has been obtained at 295 and \u2026 are resolved and \nsome weak second-order structure is evident. \u2026 tellurium is also presented. The data on trigonal \u2026",
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 247746,
+        "article_value": 455,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T21:06:26.437657",
+        "title": "Raman spectra and lattice dynamics of tellurium"
+      }
+    },
+    {
+      "title": "Static and dynamic structures of liquid tellurium",
+      "url": "https://journals.jps.jp/doi/abs/10.1143/JPSJ.64.485",
+      "authors": "T Tsuzuki",
+      "abstract": "\u2026 The dynamic structure of liquid Te was also studied by means of quasielastic and inelastic \nneutron scatterings. It is found that near the melting point, liquid Te has a twofold coordinated \u2026",
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 585078,
+        "article_value": 524,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T21:06:26.437691",
+        "title": "Static and dynamic structures of liquid tellurium"
+      }
+    },
+    {
+      "title": "LATTICE DYNAMICS OF TELLURIUM",
+      "url": "https://www.sciencedirect.com/science/article/pii/B978148319838550025X",
+      "authors": "",
+      "abstract": "\u2026 HULIN Ecole Normale Superieure, Laboratoire de Physique, Paris Abstract--We have \napplied Born and Huang's method to the low symmetry crystals of Tellurium from both points of \u2026",
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 400257,
+        "article_value": 3098,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T21:06:26.437786",
+        "title": "LATTICE DYNAMICS OF TELLURIUM"
+      }
+    },
+    {
+      "title": "Tellurium Oxides: Thermodynamics and Phase Relations in the Te\u2013O System",
+      "url": "https://link.springer.com/article/10.1007/s11669-025-01175-6",
+      "authors": "",
+      "abstract": "\u2026 In the nuclear field, tellurium is a high-yield fission product well \u2026 to tellurium largely influence \nthe lifetime of the assemblies in the power plant. [7] Both the interactions between tellurium \u2026",
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 313051,
+        "article_value": 4444,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T21:06:26.437822",
+        "title": "Tellurium Oxides: Thermodynamics and Phase Relations in the Te\u2013O System"
+      }
+    },
+    {
+      "title": "Lattice dynamics of crystalline tellurium: a valence force field approach",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/00268977500101741",
+      "authors": "",
+      "abstract": "\u2026 CONCLUSION The results of this study on the lattice dynamics of the tellurium crystal have \nbeen rather instructive. Its simple crystalline structure, the small number of atoms in the unit \u2026",
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 976082,
+        "article_value": 1085,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T21:06:26.437855",
+        "title": "Lattice dynamics of crystalline tellurium: a valence force field approach"
+      }
+    },
+    {
+      "title": "Time-Resolved High-Order Harmonic Generation in Tellurium",
+      "url": "https://www.politesi.polimi.it/handle/10589/215377",
+      "authors": "",
+      "abstract": "\u2026 as the results of the experiment performed on a tellurium sample. This novel technique, in \n\u2026 the temporal dynamics of the harmonics. Many harmonic orders presented a depletion in \u2026",
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 994905,
+        "article_value": 2149,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T21:06:26.437887",
+        "title": "Time-Resolved High-Order Harmonic Generation in Tellurium"
+      }
+    },
+    {
+      "title": "Crystallization mechanism of liquid tellurium from classical molecular dynamics simulation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0254058419310508",
+      "authors": "HG Abbas, JR Hahn",
+      "abstract": "\u2026 Crystallization of liquid tellurium (Te) has been studied using classical molecular dynamics \nat different \u2026 We also study the temperature dependence on the dynamics of liquid Te. \u2026",
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 524475,
+        "article_value": 1234,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T21:06:26.437920",
+        "title": "Crystallization mechanism of liquid tellurium from classical molecular dynamics simulation"
+      }
+    },
+    {
+      "title": "Structure of liquid tellurium: entangled, broken chains",
+      "url": "https://iopscience.iop.org/article/10.1088/0953-8984/2/5/018/meta",
+      "authors": "",
+      "abstract": "\u2026 -dynamics calculation of the structure of molten tellurium, \u2026 The analysis of the local topology \nshows that in liquid tellurium \u2026 calculating the structure of liquid tellurium, starting from a very \u2026",
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "scholar.google.com",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 752622,
+        "article_value": 547,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T21:06:26.437953",
+        "title": "Structure of liquid tellurium: entangled, broken chains"
+      }
+    },
+    {
+      "title": "Pressure-induced phase transition in wurtzite ZnTe: an ab initio study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21681441/",
+      "authors": "Alptekin S.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 967286,
+        "article_value": 529,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-07T21:06:42.521813",
+        "title": "Pressure-induced phase transition in wurtzite ZnTe: an ab initio study."
+      }
+    },
+    {
+      "title": "Hydrothermal synthetic mercaptopropionic acid stabled CdTe quantum dots as fluorescent probes for detection of Ag\u207a.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23041923/",
+      "authors": "Gan TT, Zhang YJ, Zhao NJ, Xiao X, Yin GF, Yu SH, Wang HB, Duan JB, Shi CY, Liu WQ.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 678898,
+        "article_value": 221,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T21:06:42.521888",
+        "title": "Hydrothermal synthetic mercaptopropionic acid stabled CdTe quantum dots as fluorescent probes for detection of Ag\u207a."
+      }
+    }
+  ]
+}
