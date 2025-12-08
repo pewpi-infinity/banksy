@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 563833,
+    "token_value": 3279,
+    "token_color": "\ud83e\ude75 BLUE",
+    "generated": "2025-12-08T00:19:28.108952",
+    "topic": "cerium linear chaotic teaching"
+  },
+  "articles": [
+    {
+      "source_id": 5,
+      "url": "https://arxiv.org/search/?query=cerium+linear+chaotic+teaching",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
