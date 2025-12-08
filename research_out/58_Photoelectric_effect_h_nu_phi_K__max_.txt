@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 3130
-Token Value: 2063
-Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:39:31.112554 / 00:00
+Token #: 4356
+Token Value: 3928
+Token Color: GREEN
+Token Date & Time: 2025-12-07T18:40:28.339217 / 00:00
 Topic: 58. Photoelectric effect: \( h\nu = \phi + K_{max} \)
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://arxiv.org/search/?query=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+1. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
 2. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-3. https://arxiv.org/search/?query=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-4. https://www.nature.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-6. https://arxiv.org/search/?query=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-7. https://research.ibm.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-8. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+3. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+4. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+5. https://dash.harvard.edu/server/api/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+6. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+7. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+8. https://www.nature.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
 9. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-10. https://dash.harvard.edu/server/api/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-11. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-12. https://dash.harvard.edu/server/api/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+10. https://www.nature.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+11. https://dash.harvard.edu/server/api/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+12. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
 13. https://arxiv.org/search/?query=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-14. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-15. https://dash.harvard.edu/server/api/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-16. https://www.nature.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+14. https://research.ibm.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+16. https://research.ibm.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
 17. https://dash.harvard.edu/server/api/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-18. https://arxiv.org/search/?query=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-19. https://dash.harvard.edu/server/api/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-20. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-21. https://research.ibm.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+18. https://research.ibm.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+19. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
 22. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
 23. https://dash.harvard.edu/server/api/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-24. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-25. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-26. https://arxiv.org/search/?query=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-27. https://www.nature.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-28. https://arxiv.org/search/?query=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-29. https://research.ibm.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+24. https://arxiv.org/search/?query=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+25. https://research.ibm.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+26. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+27. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+28. https://research.ibm.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+29. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
 30. https://arxiv.org/search/?query=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-31. https://research.ibm.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-32. https://dash.harvard.edu/server/api/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+31. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+32. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
 33. https://www.nature.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
 34. https://arxiv.org/search/?query=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-35. https://research.ibm.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-36. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-37. https://dash.harvard.edu/server/api/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+35. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+36. https://www.nature.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+37. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+38. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
 39. https://www.nature.com/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
-40. https://ocw.mit.edu/search/?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)
+40. https://dash.harvard.edu/server/api/search?q=58.+Photoelectric+effect:+\(+h\nu+=+\phi+++K_{max}+\)

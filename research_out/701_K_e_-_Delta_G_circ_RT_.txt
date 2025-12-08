@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 8252
-Token Value: 4237
+Token #: 1129
+Token Value: 5841
 Token Color: RED
-Token Date & Time: 2025-12-07T18:39:49.040346 / 00:00
+Token Date & Time: 2025-12-07T18:40:29.035572 / 00:00
 Topic: 701. K = e^{-\Delta G^\circ / RT}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-2. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-4. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-5. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-6. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-7. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+1. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+2. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+3. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+4. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+5. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+6. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+7. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
 8. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-9. https://arxiv.org/search/?query=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-10. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-11. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-12. https://arxiv.org/search/?query=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-13. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+9. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+10. https://ui.adsabs.harvard.edu/v1/search/query?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+11. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+12. https://ui.adsabs.harvard.edu/v1/search/query?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+13. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
 14. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-15. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-16. https://arxiv.org/search/?query=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-17. https://arxiv.org/search/?query=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+15. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+16. https://ui.adsabs.harvard.edu/v1/search/query?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+17. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
 18. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-19. https://arxiv.org/search/?query=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-20. https://ui.adsabs.harvard.edu/v1/search/query?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-21. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-22. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-23. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-24. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-25. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-26. https://arxiv.org/search/?query=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-27. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-28. https://arxiv.org/search/?query=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-30. https://ui.adsabs.harvard.edu/v1/search/query?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-31. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-32. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-33. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-34. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-35. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+19. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+20. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+21. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+22. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+23. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+24. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+25. https://arxiv.org/search/?query=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+26. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+27. https://ui.adsabs.harvard.edu/v1/search/query?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+28. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+29. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+30. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+31. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+32. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+33. https://research.ibm.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+34. https://ui.adsabs.harvard.edu/v1/search/query?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+35. https://www.nature.com/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
 36. https://ui.adsabs.harvard.edu/v1/search/query?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-37. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-38. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+37. https://dash.harvard.edu/server/api/search?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+38. https://arxiv.org/search/?query=701.+K+=+e^{-\Delta+G^\circ+/+RT}
 39. https://arxiv.org/search/?query=701.+K+=+e^{-\Delta+G^\circ+/+RT}
-40. https://ocw.mit.edu/search/?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}
+40. https://ui.adsabs.harvard.edu/v1/search/query?q=701.+K+=+e^{-\Delta+G^\circ+/+RT}

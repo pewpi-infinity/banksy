@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 9064
-Token Value: 4342
-Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:38:50.786414 / 00:00
+Token #: 5425
+Token Value: 3546
+Token Color: GREEN
+Token Date & Time: 2025-12-07T18:40:28.209253 / 00:00
 Topic: 8. Tolman–Oppenheimer–Volkoff limit
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-2. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
-6. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
-7. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
-8. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-9. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-10. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-11. https://arxiv.org/search/?query=8.+Tolman–Oppenheimer–Volkoff+limit
+1. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
+2. https://arxiv.org/search/?query=8.+Tolman–Oppenheimer–Volkoff+limit
+3. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+4. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+5. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+6. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+7. https://arxiv.org/search/?query=8.+Tolman–Oppenheimer–Volkoff+limit
+8. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+9. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+10. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
+11. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
 12. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-13. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-14. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-15. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-16. https://arxiv.org/search/?query=8.+Tolman–Oppenheimer–Volkoff+limit
-17. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+13. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
+14. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+15. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+16. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+17. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
 18. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
 19. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-20. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
-21. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-22. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
-23. https://arxiv.org/search/?query=8.+Tolman–Oppenheimer–Volkoff+limit
+20. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+21. https://arxiv.org/search/?query=8.+Tolman–Oppenheimer–Volkoff+limit
+22. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
+23. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
 24. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
-25. https://arxiv.org/search/?query=8.+Tolman–Oppenheimer–Volkoff+limit
-26. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
-27. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-28. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
-30. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-31. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-32. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
-33. https://arxiv.org/search/?query=8.+Tolman–Oppenheimer–Volkoff+limit
-34. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-35. https://arxiv.org/search/?query=8.+Tolman–Oppenheimer–Volkoff+limit
-36. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-37. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
-38. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-39. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
-40. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+25. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+26. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
+27. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
+28. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+29. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
+30. https://www.nature.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+31. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
+32. https://arxiv.org/search/?query=8.+Tolman–Oppenheimer–Volkoff+limit
+33. https://dash.harvard.edu/server/api/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+34. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+Tolman–Oppenheimer–Volkoff+limit
+35. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
+36. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+37. https://research.ibm.com/search?q=8.+Tolman–Oppenheimer–Volkoff+limit
+38. https://arxiv.org/search/?query=8.+Tolman–Oppenheimer–Volkoff+limit
+39. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit
+40. https://ocw.mit.edu/search/?q=8.+Tolman–Oppenheimer–Volkoff+limit

@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 3071
-Token Value: 5667
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:39:48.754848 / 00:00
+Token #: 4633
+Token Value: 3617
+Token Color: RED
+Token Date & Time: 2025-12-07T18:40:28.565176 / 00:00
 Topic: 38. PV = nRT
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://www.nature.com/search?q=38.+PV+=+nRT
-2. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
-4. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
-5. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
-6. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
-7. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
-8. https://arxiv.org/search/?query=38.+PV+=+nRT
+1. https://research.ibm.com/search?q=38.+PV+=+nRT
+2. https://arxiv.org/search/?query=38.+PV+=+nRT
+3. https://research.ibm.com/search?q=38.+PV+=+nRT
+4. https://arxiv.org/search/?query=38.+PV+=+nRT
+5. https://arxiv.org/search/?query=38.+PV+=+nRT
+6. https://research.ibm.com/search?q=38.+PV+=+nRT
+7. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
+8. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
 9. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
 10. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
-11. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
-12. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
-13. https://arxiv.org/search/?query=38.+PV+=+nRT
-14. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
-15. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
-16. https://arxiv.org/search/?query=38.+PV+=+nRT
-17. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
+11. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
+12. https://research.ibm.com/search?q=38.+PV+=+nRT
+13. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
+14. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
+15. https://research.ibm.com/search?q=38.+PV+=+nRT
+16. https://www.nature.com/search?q=38.+PV+=+nRT
+17. https://research.ibm.com/search?q=38.+PV+=+nRT
 18. https://arxiv.org/search/?query=38.+PV+=+nRT
-19. https://arxiv.org/search/?query=38.+PV+=+nRT
-20. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
-21. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
-22. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
-23. https://www.nature.com/search?q=38.+PV+=+nRT
-24. https://research.ibm.com/search?q=38.+PV+=+nRT
+19. https://research.ibm.com/search?q=38.+PV+=+nRT
+20. https://arxiv.org/search/?query=38.+PV+=+nRT
+21. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
+22. https://arxiv.org/search/?query=38.+PV+=+nRT
+23. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
+24. https://arxiv.org/search/?query=38.+PV+=+nRT
 25. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
-26. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
-27. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
-28. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
-29. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
-30. https://www.nature.com/search?q=38.+PV+=+nRT
-31. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
+26. https://research.ibm.com/search?q=38.+PV+=+nRT
+27. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
+28. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
+29. https://www.nature.com/search?q=38.+PV+=+nRT
+30. https://arxiv.org/search/?query=38.+PV+=+nRT
+31. https://arxiv.org/search/?query=38.+PV+=+nRT
 32. https://arxiv.org/search/?query=38.+PV+=+nRT
-33. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
-34. https://www.nature.com/search?q=38.+PV+=+nRT
-35. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
-36. https://arxiv.org/search/?query=38.+PV+=+nRT
+33. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
+34. https://arxiv.org/search/?query=38.+PV+=+nRT
+35. https://www.nature.com/search?q=38.+PV+=+nRT
+36. https://research.ibm.com/search?q=38.+PV+=+nRT
 37. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
-38. https://www.nature.com/search?q=38.+PV+=+nRT
-39. https://dash.harvard.edu/server/api/search?q=38.+PV+=+nRT
-40. https://ui.adsabs.harvard.edu/v1/search/query?q=38.+PV+=+nRT
+38. https://ocw.mit.edu/search/?q=38.+PV+=+nRT
+39. https://www.nature.com/search?q=38.+PV+=+nRT
+40. https://www.nature.com/search?q=38.+PV+=+nRT

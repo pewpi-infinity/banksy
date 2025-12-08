@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 8563
-Token Value: 4939
+Token #: 5219
+Token Value: 2133
 Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:39:49.023683 / 00:00
+Token Date & Time: 2025-12-07T18:40:29.021012 / 00:00
 Topic: 601–700: Solid state & nuclear
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
+1. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
 2. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
-3. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
-4. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
-5. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
+3. https://ui.adsabs.harvard.edu/v1/search/query?q=601–700:+Solid+state+&+nuclear
+4. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
+5. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
 6. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
-7. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
+7. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
 8. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
-9. https://arxiv.org/search/?query=601–700:+Solid+state+&+nuclear
-10. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
-11. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
-12. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
-13. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
-14. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
-15. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
-16. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
-17. https://ui.adsabs.harvard.edu/v1/search/query?q=601–700:+Solid+state+&+nuclear
+9. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
+10. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
+11. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
+12. https://arxiv.org/search/?query=601–700:+Solid+state+&+nuclear
+13. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
+14. https://arxiv.org/search/?query=601–700:+Solid+state+&+nuclear
+15. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
+16. https://ui.adsabs.harvard.edu/v1/search/query?q=601–700:+Solid+state+&+nuclear
+17. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
 18. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
-19. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
-20. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
-21. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
-22. https://arxiv.org/search/?query=601–700:+Solid+state+&+nuclear
+19. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
+20. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
+21. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
+22. https://ui.adsabs.harvard.edu/v1/search/query?q=601–700:+Solid+state+&+nuclear
 23. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
-24. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
+24. https://arxiv.org/search/?query=601–700:+Solid+state+&+nuclear
 25. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
 26. https://arxiv.org/search/?query=601–700:+Solid+state+&+nuclear
 27. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
-28. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
-29. https://arxiv.org/search/?query=601–700:+Solid+state+&+nuclear
-30. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
+28. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
+29. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
+30. https://arxiv.org/search/?query=601–700:+Solid+state+&+nuclear
 31. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
-32. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
-33. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
-34. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
+32. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
+33. https://ui.adsabs.harvard.edu/v1/search/query?q=601–700:+Solid+state+&+nuclear
+34. https://arxiv.org/search/?query=601–700:+Solid+state+&+nuclear
 35. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
-36. https://ui.adsabs.harvard.edu/v1/search/query?q=601–700:+Solid+state+&+nuclear
-37. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear
-38. https://arxiv.org/search/?query=601–700:+Solid+state+&+nuclear
-39. https://research.ibm.com/search?q=601–700:+Solid+state+&+nuclear
-40. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
+36. https://ocw.mit.edu/search/?q=601–700:+Solid+state+&+nuclear
+37. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
+38. https://www.nature.com/search?q=601–700:+Solid+state+&+nuclear
+39. https://arxiv.org/search/?query=601–700:+Solid+state+&+nuclear
+40. https://dash.harvard.edu/server/api/search?q=601–700:+Solid+state+&+nuclear

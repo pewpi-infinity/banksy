@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 5744
-Token Value: 4163
-Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:39:48.934257 / 00:00
+Token #: 7879
+Token Value: 5975
+Token Color: GREEN
+Token Date & Time: 2025-12-07T18:40:28.939097 / 00:00
 Topic: 107. \frac{d}{dt} \frac{\partial L}{\partial \dot{q}} - \frac{\partial L}{\partial q} = 0
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+1. https://dash.harvard.edu/server/api/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
 2. https://dash.harvard.edu/server/api/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-3. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+3. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
 4. https://dash.harvard.edu/server/api/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-5. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-6. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-7. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-8. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-9. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+5. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+6. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+7. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+8. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+9. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
 10. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-11. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-12. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-13. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-14. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-16. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-17. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-18. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-19. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-20. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-21. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+11. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+12. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+13. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+14. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+15. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+16. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+17. https://dash.harvard.edu/server/api/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+18. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+19. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+20. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+21. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
 22. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-23. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+23. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
 24. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-25. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-26. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+25. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+26. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
 27. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-28. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-29. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-30. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-31. https://dash.harvard.edu/server/api/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-32. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-33. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-34. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-35. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-36. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-37. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-39. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
-40. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+28. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+29. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+30. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+31. https://arxiv.org/search/?query=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+32. https://dash.harvard.edu/server/api/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+33. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+34. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+35. https://research.ibm.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+38. https://ocw.mit.edu/search/?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+39. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0
+40. https://www.nature.com/search?q=107.+\frac{d}{dt}+\frac{\partial+L}{\partial+\dot{q}}+-+\frac{\partial+L}{\partial+q}+=+0

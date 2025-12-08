@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 4893
-Token Value: 3277
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:39:49.034543 / 00:00
+Token #: 6495
+Token Value: 5070
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:40:29.030659 / 00:00
 Topic: 604. E_F = \frac{\hbar^2}{2m} (3\pi^2 n)^{2/3}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-2. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-3. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-6. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-7. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-8. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-9. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-10. https://dash.harvard.edu/server/api/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-11. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-12. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-13. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-14. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+1. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+2. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+3. https://arxiv.org/search/?query=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+4. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+5. https://arxiv.org/search/?query=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+6. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+7. https://arxiv.org/search/?query=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+8. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+9. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+10. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+11. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+12. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+13. https://arxiv.org/search/?query=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+14. https://ui.adsabs.harvard.edu/v1/search/query?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
 15. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-16. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-17. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-18. https://dash.harvard.edu/server/api/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-19. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-20. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-21. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-22. https://ui.adsabs.harvard.edu/v1/search/query?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-23. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-24. https://ui.adsabs.harvard.edu/v1/search/query?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-25. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-26. https://arxiv.org/search/?query=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+16. https://dash.harvard.edu/server/api/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+17. https://ui.adsabs.harvard.edu/v1/search/query?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+18. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+19. https://arxiv.org/search/?query=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+21. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+22. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+23. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+24. https://arxiv.org/search/?query=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+25. https://dash.harvard.edu/server/api/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+26. https://dash.harvard.edu/server/api/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
 27. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-28. https://dash.harvard.edu/server/api/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-29. https://arxiv.org/search/?query=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-30. https://arxiv.org/search/?query=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-31. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-32. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-33. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-34. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-35. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-36. https://ui.adsabs.harvard.edu/v1/search/query?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-37. https://ui.adsabs.harvard.edu/v1/search/query?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+28. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+29. https://dash.harvard.edu/server/api/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+30. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+31. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+32. https://dash.harvard.edu/server/api/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+33. https://arxiv.org/search/?query=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+34. https://dash.harvard.edu/server/api/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+35. https://dash.harvard.edu/server/api/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+36. https://research.ibm.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+37. https://www.nature.com/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
 38. https://dash.harvard.edu/server/api/search?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-39. https://ui.adsabs.harvard.edu/v1/search/query?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
-40. https://ocw.mit.edu/search/?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+39. https://arxiv.org/search/?query=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}
+40. https://ui.adsabs.harvard.edu/v1/search/query?q=604.+E_F+=+\frac{\hbar^2}{2m}+(3\pi^2+n)^{2/3}

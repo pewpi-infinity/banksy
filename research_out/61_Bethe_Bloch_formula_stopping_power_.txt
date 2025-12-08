@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 2235
-Token Value: 3750
-Token Color: BLUE
-Token Date & Time: 2025-12-07T18:39:34.993249 / 00:00
+Token #: 1931
+Token Value: 5188
+Token Color: YELLOW
+Token Date & Time: 2025-12-07T18:40:28.346658 / 00:00
 Topic: 61. Bethe–Bloch formula (stopping power)
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-2. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-3. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-4. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-5. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
-6. https://dash.harvard.edu/server/api/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-7. https://dash.harvard.edu/server/api/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-8. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
+1. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
+2. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
+3. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
+4. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+Bethe–Bloch+formula+(stopping+power)
+5. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
+6. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
+7. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
+8. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
 9. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-10. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-11. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
-12. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+Bethe–Bloch+formula+(stopping+power)
-13. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
-14. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-15. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
+10. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
+11. https://dash.harvard.edu/server/api/search?q=61.+Bethe–Bloch+formula+(stopping+power)
+12. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
+13. https://dash.harvard.edu/server/api/search?q=61.+Bethe–Bloch+formula+(stopping+power)
+14. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
+15. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
 16. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
-17. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-18. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-19. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-20. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-21. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
-22. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
-23. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
+17. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
+18. https://dash.harvard.edu/server/api/search?q=61.+Bethe–Bloch+formula+(stopping+power)
+19. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
+20. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+Bethe–Bloch+formula+(stopping+power)
+22. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
+23. https://dash.harvard.edu/server/api/search?q=61.+Bethe–Bloch+formula+(stopping+power)
 24. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
 25. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
 26. https://dash.harvard.edu/server/api/search?q=61.+Bethe–Bloch+formula+(stopping+power)
 27. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-28. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
+28. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+Bethe–Bloch+formula+(stopping+power)
 29. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
 30. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
 31. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-32. https://dash.harvard.edu/server/api/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-33. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
-34. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
-35. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
+32. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+Bethe–Bloch+formula+(stopping+power)
+33. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
+34. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
+35. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
 36. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-37. https://dash.harvard.edu/server/api/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+Bethe–Bloch+formula+(stopping+power)
-39. https://research.ibm.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
-40. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
+37. https://www.nature.com/search?q=61.+Bethe–Bloch+formula+(stopping+power)
+38. https://ocw.mit.edu/search/?q=61.+Bethe–Bloch+formula+(stopping+power)
+39. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+Bethe–Bloch+formula+(stopping+power)
+40. https://arxiv.org/search/?query=61.+Bethe–Bloch+formula+(stopping+power)
