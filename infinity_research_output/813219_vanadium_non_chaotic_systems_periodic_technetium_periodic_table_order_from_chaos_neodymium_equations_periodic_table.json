@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 813219,
+    "token_value": 2589,
+    "token_color": "\ud83d\udc9b YELLOW",
+    "generated": "2025-12-08T02:52:01.274620",
+    "topic": "vanadium non chaotic systems periodic technetium periodic table order from chaos neodymium equations periodic table"
+  },
+  "articles": [
+    {
+      "source_id": 2,
+      "url": "https://arxiv.org/search/?query=vanadium+non+chaotic+systems+periodic+technetium+periodic+table+order+from+chaos+neodymium+equations+periodic+table",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
