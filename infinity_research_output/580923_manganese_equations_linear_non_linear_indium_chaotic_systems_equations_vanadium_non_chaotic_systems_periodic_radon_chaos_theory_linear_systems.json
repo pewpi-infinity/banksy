@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 580923,
+    "token_value": 2520,
+    "token_color": "\ud83d\udc9a GREEN",
+    "generated": "2025-12-08T01:14:36.745514",
+    "topic": "manganese equations linear non linear indium chaotic systems equations vanadium non chaotic systems periodic radon chaos theory linear systems"
+  },
+  "articles": [
+    {
+      "source_id": 5,
+      "url": "https://arxiv.org/search/?query=manganese+equations+linear+non+linear+indium+chaotic+systems+equations+vanadium+non+chaotic+systems+periodic+radon+chaos+theory+linear+systems",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
