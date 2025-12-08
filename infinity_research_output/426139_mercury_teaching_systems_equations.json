@@ -1,0 +1,136 @@
+{
+  "header": {
+    "token_number": 426139,
+    "token_value": 2613,
+    "token_color": "\ud83e\ude75 BLUE",
+    "generated": "2025-12-08T01:46:15.483283",
+    "topic": "mercury teaching systems equations"
+  },
+  "articles": [
+    {
+      "source_id": 1,
+      "url": "https://arxiv.org/search/?query=mercury+teaching+systems+equations",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    },
+    {
+      "title": "AHA PREVENT Equations and Cardiovascular Disease Risk in Diverse Health Care Populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40669956/",
+      "authors": "Cho SMJ, Levin M, Chen R, Samarakoon R, Judy R, Hartmann K, Postupaka D, Viscosi V, Farber-Eger E, Fahed AC, Honigberg MC, Patel CJ, Hornsby W, Wells QS, Damrauer SM, Do R, Natarajan P.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 226825,
+        "article_value": 2389,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-08T01:47:07.884005",
+        "title": "AHA PREVENT Equations and Cardiovascular Disease Risk in Diverse Health Care Populations."
+      }
+    },
+    {
+      "title": "Asymmetry induced suppression of chaos.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32973133/",
+      "authors": "Biswas A, Chaurasia SS, Parmananda P, Sinha S.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 186008,
+        "article_value": 4413,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-08T01:47:07.884089",
+        "title": "Asymmetry induced suppression of chaos."
+      }
+    },
+    {
+      "title": "Confounding effects of seasonality and anthropogenic river regulation on suspended particulate matter-driven mercury transport to coastal seas.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38492396/",
+      "authors": "Liu X, Wang Y, Zhang Q, Liu C, Song Y, Li Y, Yin Y, Cai Y.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 537552,
+        "article_value": 4648,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-08T01:47:07.884126",
+        "title": "Confounding effects of seasonality and anthropogenic river regulation on suspended particulate matter-driven mercury transport to coastal seas."
+      }
+    },
+    {
+      "title": "Effective Strategies for Accelerating the Phase-Out of Mercury Thermometers in Underdeveloped Regions: A Critical Step Towards Implementing the Minamata Convention on Mercury.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40299052/",
+      "authors": "Lin W, Yang Q, Zhang Z, Sheng X, Zhang T, Lin Y.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 250319,
+        "article_value": 899,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-08T01:47:07.884160",
+        "title": "Effective Strategies for Accelerating the Phase-Out of Mercury Thermometers in Underdeveloped Regions: A Critical Step Towards Implementing the Minamata Convention on Mercury."
+      }
+    },
+    {
+      "title": "Fluorescent probes for \"off-on\" highly sensitive detection of Hg\u00b2\u207a and L-cysteine based on nitrogen-doped carbon dots.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26992523/",
+      "authors": "Zhang Y, Cui P, Zhang F, Feng X, Wang Y, Yang Y, Liu X.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 881258,
+        "article_value": 4549,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-08T01:47:07.884193",
+        "title": "Fluorescent probes for \"off-on\" highly sensitive detection of Hg\u00b2\u207a and L-cysteine based on nitrogen-doped carbon dots."
+      }
+    },
+    {
+      "title": "Characteristics of equilibrium, kinetics studies for adsorption of Hg(II), Cu(II), and Ni(II) ions by thiourea-modified magnetic chitosan microspheres.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18538924/",
+      "authors": "Zhou L, Wang Y, Liu Z, Huang Q.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 608612,
+        "article_value": 1037,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-08T01:47:07.884227",
+        "title": "Characteristics of equilibrium, kinetics studies for adsorption of Hg(II), Cu(II), and Ni(II) ions by thiourea-modified magnetic chitosan microspheres."
+      }
+    },
+    {
+      "title": "Nitrogen doped graphene quantum dots as a fluorescent probe for mercury(II) ions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30707370/",
+      "authors": "Liu Y, Tang X, Deng M, Cao Y, Li Y, Zheng H, Li F, Yan F, Lan T, Shi L, Gao L, Huang L, Zhu T, Lin H, Bai Y, Qu D, Huang X, Qiu F.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 231704,
+        "article_value": 1585,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T01:47:07.884259",
+        "title": "Nitrogen doped graphene quantum dots as a fluorescent probe for mercury(II) ions."
+      }
+    }
+  ]
+}
