@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 267145,
+    "token_value": 4039,
+    "token_color": "\ud83d\udc9a GREEN",
+    "generated": "2025-12-08T01:41:04.118709",
+    "topic": "plutonium equations linear systems"
+  },
+  "articles": [
+    {
+      "source_id": 7,
+      "url": "https://arxiv.org/search/?query=plutonium+equations+linear+systems",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}

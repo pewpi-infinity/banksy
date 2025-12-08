@@ -1,0 +1,181 @@
+{
+  "header": {
+    "token_number": 57052,
+    "token_value": 143,
+    "token_color": "\ud83e\ude75 BLUE",
+    "generated": "2025-12-08T01:43:21.925599",
+    "topic": "copper periodic equations order"
+  },
+  "articles": [
+    {
+      "title": "Metal ion release kinetics from nanoparticle silicone composites.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21645564/",
+      "authors": "Hahn A, Brandes G, Wagener P, Barcikowski S.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 391419,
+        "article_value": 662,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-08T01:43:35.124777",
+        "title": "Metal ion release kinetics from nanoparticle silicone composites."
+      }
+    },
+    {
+      "title": "Influence of soil copper content on the kinetics of thiram adsorption and on thiram leachability from soils.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22951356/",
+      "authors": "Filipe OM, Costa CA, Vidal MM, Santos EB.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 751569,
+        "article_value": 870,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T01:43:35.124854",
+        "title": "Influence of soil copper content on the kinetics of thiram adsorption and on thiram leachability from soils."
+      }
+    },
+    {
+      "title": "Superadsorbent hydrogel based on lignin and montmorillonite for Cu(II) ions removal from aqueous solution.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30660568/",
+      "authors": "Sun XF, Hao Y, Cao Y, Zeng Q.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 338997,
+        "article_value": 4183,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T01:43:35.124889",
+        "title": "Superadsorbent hydrogel based on lignin and montmorillonite for Cu(II) ions removal from aqueous solution."
+      }
+    },
+    {
+      "title": "STUDIES ON THE LACTASE OF ESCHERICHIA COLI.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19873223/",
+      "authors": "Knopfmacher HP, Salle AJ.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 982155,
+        "article_value": 4894,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T01:43:35.124922",
+        "title": "STUDIES ON THE LACTASE OF ESCHERICHIA COLI."
+      }
+    },
+    {
+      "title": "Photocatalytic TMO-NMs adsorbent: Temperature-Time dependent Safranine degradation, sorption study validated under optimized effective equilibrium models parameter with standardized statistical analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28195174/",
+      "authors": "Wahab R, Khan F, Kaushik NK, Musarrat J, Al-Khedhairy AA.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 923455,
+        "article_value": 936,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-08T01:43:35.124956",
+        "title": "Photocatalytic TMO-NMs adsorbent: Temperature-Time dependent Safranine degradation, sorption study validated under optimized effective equilibrium models parameter with standardized statistical analysis."
+      }
+    },
+    {
+      "title": "In-situ hydrothermal synthesis of CNT decorated by nano ZnS/CuO for simultaneous removal of acid food dyes from binary water samples.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35858982/",
+      "authors": "Sharifpour E, Arabkhani P, Sadegh F, Mousavizadeh A, Asfaram A.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 118498,
+        "article_value": 4467,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-08T01:43:35.124990",
+        "title": "In-situ hydrothermal synthesis of CNT decorated by nano ZnS/CuO for simultaneous removal of acid food dyes from binary water samples."
+      }
+    },
+    {
+      "title": "Mesoporous activated carbon as a green adsorbent for the removal of heavy metals and Congo red: Characterization, adsorption kinetics, and isotherm studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34418820/",
+      "authors": "Mandal S, Calderon J, Marpu SB, Omary MA, Shi SQ.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 388249,
+        "article_value": 4423,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-08T01:43:35.125022",
+        "title": "Mesoporous activated carbon as a green adsorbent for the removal of heavy metals and Congo red: Characterization, adsorption kinetics, and isotherm studies."
+      }
+    },
+    {
+      "title": "Study of the heat transfer in solids using infrared photothermal radiometry and simulation by COMSOL Multiphysics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23684428/",
+      "authors": "Suarez V, Hern\u00e1ndez Wong J, Nogal U, Calder\u00f3n A, Rojas-Trigos JB, Ju\u00e1rez AG, Mar\u00edn E.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 588125,
+        "article_value": 3406,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-08T01:43:35.125054",
+        "title": "Study of the heat transfer in solids using infrared photothermal radiometry and simulation by COMSOL Multiphysics."
+      }
+    },
+    {
+      "title": "[Release of copper ions after insertion of VCu200 IUDs].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12267398/",
+      "authors": "Jing BH, Huang ZL.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 331923,
+        "article_value": 1395,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T01:43:35.125087",
+        "title": "[Release of copper ions after insertion of VCu200 IUDs]."
+      }
+    },
+    {
+      "title": "The response of larvae Brachymystax lenok during continuous and single pulses exposure to copper, zinc, lead and cadmium.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30195207/",
+      "authors": "Zhang F, Xu J.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 904892,
+        "article_value": 4587,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-08T01:43:35.125119",
+        "title": "The response of larvae Brachymystax lenok during continuous and single pulses exposure to copper, zinc, lead and cadmium."
+      }
+    }
+  ]
+}

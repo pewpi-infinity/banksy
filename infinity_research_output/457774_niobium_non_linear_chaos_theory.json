@@ -1,0 +1,68 @@
+{
+  "header": {
+    "token_number": 457774,
+    "token_value": 522,
+    "token_color": "\u2764\ufe0f RED",
+    "generated": "2025-12-08T01:38:28.135198",
+    "topic": "niobium non linear chaos theory"
+  },
+  "articles": [
+    {
+      "source_id": 5,
+      "url": "https://arxiv.org/search/?query=niobium+non+linear+chaos+theory",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    },
+    {
+      "title": "On Local Activity and Edge of Chaos in a NaMLab Memristor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33958985/",
+      "authors": "Ascoli A, Demirkol AS, Tetzlaff R, Slesazeck S, Mikolajick T, Chua LO.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 676825,
+        "article_value": 725,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T01:39:19.562873",
+        "title": "On Local Activity and Edge of Chaos in a NaMLab Memristor."
+      }
+    },
+    {
+      "title": "Efficient second harmonic generation using nonlinear substrates patterned by nano-antenna arrays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24514468/",
+      "authors": "Bar-Lev D, Scheuer J.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 216238,
+        "article_value": 3637,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T01:39:19.563015",
+        "title": "Efficient second harmonic generation using nonlinear substrates patterned by nano-antenna arrays."
+      }
+    },
+    {
+      "title": "Linear and nonlinear discrete light propagation in weakly modulated large-area two-dimensional photonic lattice slab in LiNbO3:Fe crystal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20052234/",
+      "authors": "Qi X, Zhang G, Xu N, Qi Y, Han B, Fu Y, Duan C, Xu J.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 7,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 791127,
+        "article_value": 2219,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-08T01:39:19.563055",
+        "title": "Linear and nonlinear discrete light propagation in weakly modulated large-area two-dimensional photonic lattice slab in LiNbO3:Fe crystal."
+      }
+    }
+  ]
+}
