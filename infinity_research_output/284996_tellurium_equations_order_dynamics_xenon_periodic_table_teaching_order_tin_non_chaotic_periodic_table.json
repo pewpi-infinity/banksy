@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 284996,
+    "token_value": 2585,
+    "token_color": "\ud83d\udc9c PURPLE",
+    "generated": "2025-12-08T01:48:35.785665",
+    "topic": "tellurium equations order dynamics xenon periodic table teaching order tin non chaotic periodic table"
+  },
+  "articles": [
+    {
+      "source_id": 6,
+      "url": "https://arxiv.org/search/?query=tellurium+equations+order+dynamics+xenon+periodic+table+teaching+order+tin+non+chaotic+periodic+table",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}

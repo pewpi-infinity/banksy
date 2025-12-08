@@ -86,7 +86,7 @@ URL: https://pubmed.ncbi.nlm.nih.gov?q=hydrogen+superconductors
   
 
   
-    <meta name="ncbi_phid" content="C7F400018A6823D500003A007EB67ABD.1.m_1" />
+    <meta name="ncbi_phid" content="14B900015F49A5750000383F720D0755.1.m_1" />
   
 
   
@@ -294,7 +294,7 @@ URL: https://pubmed.ncbi.nlm.nih.gov?q=hydrogen+superconductors
 
 
 
-<input type="hidden" name="csrfmiddlewaretoken" value="mDkES6XkyOej2WVQ0RWniTCz9zUyByMWxsB40jNxDG3Y0H7tyDSaT0s4p6KuW0Fg">
+<input type="hidden" name="csrfmiddlewaretoken" value="xjertjwEr5ieOmqkuiEvnEGKVpUEUc94Nb2EUUc5GYpf92MAFy2rpnboOtqcT7Pv">
 <form action="/" method="get" autocomplete="off" class="usa-search usa-search-big search-form " id="search-form" role="search">
   <div class="inner-wrap">
     <a class="pubmed-logo"
