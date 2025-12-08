@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 863650,
+    "token_value": 1109,
+    "token_color": "\ud83d\udc9a GREEN",
+    "generated": "2025-12-08T02:33:49.259405",
+    "topic": "indium chaotic systems equations"
+  },
+  "articles": [
+    {
+      "source_id": 7,
+      "url": "https://arxiv.org/search/?query=indium+chaotic+systems+equations",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
