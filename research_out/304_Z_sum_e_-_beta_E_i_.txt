@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 4599
-Token Value: 3653
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:48:23.222792 / 00:00
+Token #: 9247
+Token Value: 5046
+Token Color: PURPLE
+Token Date & Time: 2025-12-07T18:48:43.307355 / 00:00
 Topic: 304. Z = \sum e^{-\beta E_i}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://arxiv.org/search/?query=304.+Z+=+\sum+e^{-\beta+E_i}
+1. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
 2. https://ocw.mit.edu/search/?q=304.+Z+=+\sum+e^{-\beta+E_i}
-3. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-4. https://arxiv.org/search/?query=304.+Z+=+\sum+e^{-\beta+E_i}
-5. https://ocw.mit.edu/search/?q=304.+Z+=+\sum+e^{-\beta+E_i}
-6. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-7. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
-10. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
-11. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-12. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
+3. https://ocw.mit.edu/search/?q=304.+Z+=+\sum+e^{-\beta+E_i}
+4. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
+5. https://arxiv.org/search/?query=304.+Z+=+\sum+e^{-\beta+E_i}
+6. https://ocw.mit.edu/search/?q=304.+Z+=+\sum+e^{-\beta+E_i}
+7. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+8. https://ocw.mit.edu/search/?q=304.+Z+=+\sum+e^{-\beta+E_i}
+9. https://arxiv.org/search/?query=304.+Z+=+\sum+e^{-\beta+E_i}
+10. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+11. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+12. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
 13. https://ocw.mit.edu/search/?q=304.+Z+=+\sum+e^{-\beta+E_i}
-14. https://arxiv.org/search/?query=304.+Z+=+\sum+e^{-\beta+E_i}
-15. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-16. https://www.nature.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-17. https://arxiv.org/search/?query=304.+Z+=+\sum+e^{-\beta+E_i}
-18. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-19. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-20. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-21. https://www.nature.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-22. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
-23. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
-24. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-25. https://arxiv.org/search/?query=304.+Z+=+\sum+e^{-\beta+E_i}
-26. https://www.nature.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-27. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-28. https://ocw.mit.edu/search/?q=304.+Z+=+\sum+e^{-\beta+E_i}
-29. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-30. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-31. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-32. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-33. https://ocw.mit.edu/search/?q=304.+Z+=+\sum+e^{-\beta+E_i}
-34. https://ocw.mit.edu/search/?q=304.+Z+=+\sum+e^{-\beta+E_i}
-35. https://www.nature.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-36. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-37. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-38. https://arxiv.org/search/?query=304.+Z+=+\sum+e^{-\beta+E_i}
-39. https://www.nature.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
-40. https://www.nature.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+14. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+15. https://arxiv.org/search/?query=304.+Z+=+\sum+e^{-\beta+E_i}
+16. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+17. https://www.nature.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+18. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+19. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
+20. https://ocw.mit.edu/search/?q=304.+Z+=+\sum+e^{-\beta+E_i}
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
+22. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+23. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+24. https://arxiv.org/search/?query=304.+Z+=+\sum+e^{-\beta+E_i}
+25. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+26. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+27. https://www.nature.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+28. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+29. https://dash.harvard.edu/server/api/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+30. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+31. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+32. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
+33. https://research.ibm.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+34. https://arxiv.org/search/?query=304.+Z+=+\sum+e^{-\beta+E_i}
+35. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
+36. https://www.nature.com/search?q=304.+Z+=+\sum+e^{-\beta+E_i}
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
+38. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
+39. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}
+40. https://ui.adsabs.harvard.edu/v1/search/query?q=304.+Z+=+\sum+e^{-\beta+E_i}

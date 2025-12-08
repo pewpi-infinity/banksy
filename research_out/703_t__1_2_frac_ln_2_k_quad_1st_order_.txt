@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 7606
-Token Value: 3801
-Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:48:23.283554 / 00:00
+Token #: 3363
+Token Value: 2429
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:48:44.406766 / 00:00
 Topic: 703. t_{1/2} = \frac{\ln 2}{k} \quad (1st order)
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+1. https://research.ibm.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
 2. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
 3. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-4. https://ocw.mit.edu/search/?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+4. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
 5. https://ocw.mit.edu/search/?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-6. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-7. https://research.ibm.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-8. https://dash.harvard.edu/server/api/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-10. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-11. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-12. https://ocw.mit.edu/search/?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+6. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+7. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+8. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+9. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+10. https://dash.harvard.edu/server/api/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+11. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+12. https://dash.harvard.edu/server/api/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
 13. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-14. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+14. https://ocw.mit.edu/search/?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
 15. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-16. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+16. https://research.ibm.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
 17. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-18. https://research.ibm.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+18. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
 19. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-20. https://dash.harvard.edu/server/api/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+20. https://ocw.mit.edu/search/?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
 21. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-22. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-23. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-24. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-25. https://dash.harvard.edu/server/api/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-26. https://dash.harvard.edu/server/api/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-27. https://dash.harvard.edu/server/api/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-28. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-29. https://research.ibm.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-30. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-31. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-32. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+22. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+23. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+24. https://research.ibm.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+26. https://ocw.mit.edu/search/?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+27. https://ocw.mit.edu/search/?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+28. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+29. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+30. https://dash.harvard.edu/server/api/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+31. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+32. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
 33. https://dash.harvard.edu/server/api/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-34. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-35. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-36. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-37. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-38. https://arxiv.org/search/?query=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
-39. https://research.ibm.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+34. https://dash.harvard.edu/server/api/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+35. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+37. https://ocw.mit.edu/search/?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+38. https://research.ibm.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
+39. https://www.nature.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)
 40. https://research.ibm.com/search?q=703.+t_{1/2}+=+\frac{\ln+2}{k}+\quad+(1st+order)

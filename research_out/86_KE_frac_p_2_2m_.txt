@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 8142
-Token Value: 4700
+Token #: 7213
+Token Value: 4619
 Token Color: GREEN
-Token Date & Time: 2025-12-07T18:48:23.123062 / 00:00
+Token Date & Time: 2025-12-07T18:48:41.907764 / 00:00
 Topic: 86. KE = \frac{p^2}{2m}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}
+1. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
 2. https://ocw.mit.edu/search/?q=86.+KE+=+\frac{p^2}{2m}
-3. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
-4. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
-5. https://dash.harvard.edu/server/api/search?q=86.+KE+=+\frac{p^2}{2m}
-6. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
-7. https://dash.harvard.edu/server/api/search?q=86.+KE+=+\frac{p^2}{2m}
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+KE+=+\frac{p^2}{2m}
-9. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}
-10. https://arxiv.org/search/?query=86.+KE+=+\frac{p^2}{2m}
-11. https://arxiv.org/search/?query=86.+KE+=+\frac{p^2}{2m}
-12. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
-13. https://ocw.mit.edu/search/?q=86.+KE+=+\frac{p^2}{2m}
-14. https://ocw.mit.edu/search/?q=86.+KE+=+\frac{p^2}{2m}
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+KE+=+\frac{p^2}{2m}
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+KE+=+\frac{p^2}{2m}
-17. https://dash.harvard.edu/server/api/search?q=86.+KE+=+\frac{p^2}{2m}
-18. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}
-19. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
-20. https://arxiv.org/search/?query=86.+KE+=+\frac{p^2}{2m}
-21. https://ocw.mit.edu/search/?q=86.+KE+=+\frac{p^2}{2m}
-22. https://arxiv.org/search/?query=86.+KE+=+\frac{p^2}{2m}
+3. https://ocw.mit.edu/search/?q=86.+KE+=+\frac{p^2}{2m}
+4. https://ocw.mit.edu/search/?q=86.+KE+=+\frac{p^2}{2m}
+5. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
+6. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+KE+=+\frac{p^2}{2m}
+7. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+KE+=+\frac{p^2}{2m}
+8. https://arxiv.org/search/?query=86.+KE+=+\frac{p^2}{2m}
+9. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
+10. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
+11. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}
+12. https://ocw.mit.edu/search/?q=86.+KE+=+\frac{p^2}{2m}
+13. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}
+14. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}
+15. https://ocw.mit.edu/search/?q=86.+KE+=+\frac{p^2}{2m}
+16. https://arxiv.org/search/?query=86.+KE+=+\frac{p^2}{2m}
+17. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
+18. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
+19. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+KE+=+\frac{p^2}{2m}
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+KE+=+\frac{p^2}{2m}
+21. https://arxiv.org/search/?query=86.+KE+=+\frac{p^2}{2m}
+22. https://dash.harvard.edu/server/api/search?q=86.+KE+=+\frac{p^2}{2m}
 23. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
-24. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
-25. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
-26. https://ocw.mit.edu/search/?q=86.+KE+=+\frac{p^2}{2m}
-27. https://arxiv.org/search/?query=86.+KE+=+\frac{p^2}{2m}
-28. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+KE+=+\frac{p^2}{2m}
-30. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
-31. https://ocw.mit.edu/search/?q=86.+KE+=+\frac{p^2}{2m}
-32. https://dash.harvard.edu/server/api/search?q=86.+KE+=+\frac{p^2}{2m}
+24. https://dash.harvard.edu/server/api/search?q=86.+KE+=+\frac{p^2}{2m}
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+KE+=+\frac{p^2}{2m}
+26. https://dash.harvard.edu/server/api/search?q=86.+KE+=+\frac{p^2}{2m}
+27. https://dash.harvard.edu/server/api/search?q=86.+KE+=+\frac{p^2}{2m}
+28. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
+29. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
+30. https://arxiv.org/search/?query=86.+KE+=+\frac{p^2}{2m}
+31. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
+32. https://ocw.mit.edu/search/?q=86.+KE+=+\frac{p^2}{2m}
 33. https://arxiv.org/search/?query=86.+KE+=+\frac{p^2}{2m}
-34. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}
-35. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}
-36. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}
-37. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}
+34. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
+35. https://arxiv.org/search/?query=86.+KE+=+\frac{p^2}{2m}
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+KE+=+\frac{p^2}{2m}
+37. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
 38. https://www.nature.com/search?q=86.+KE+=+\frac{p^2}{2m}
-39. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+KE+=+\frac{p^2}{2m}
-40. https://dash.harvard.edu/server/api/search?q=86.+KE+=+\frac{p^2}{2m}
+39. https://dash.harvard.edu/server/api/search?q=86.+KE+=+\frac{p^2}{2m}
+40. https://research.ibm.com/search?q=86.+KE+=+\frac{p^2}{2m}

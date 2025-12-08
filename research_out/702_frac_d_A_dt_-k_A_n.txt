@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 1150
-Token Value: 4101
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:48:23.281269 / 00:00
+Token #: 1367
+Token Value: 5654
+Token Color: RED
+Token Date & Time: 2025-12-07T18:48:44.402735 / 00:00
 Topic: 702. \frac{d[A]}{dt} = -k [A]^n
 ============================================
 
@@ -297,42 +297,42 @@ Mathematical Model 40:
 
 ## Reference Index (40 Sources)
 1. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-2. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-3. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+2. https://arxiv.org/search/?query=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+3. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
 4. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-5. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-6. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-7. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-8. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-9. https://arxiv.org/search/?query=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-10. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-11. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+5. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+6. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+7. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+8. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+9. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+10. https://dash.harvard.edu/server/api/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+11. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
 12. https://dash.harvard.edu/server/api/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-13. https://dash.harvard.edu/server/api/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-14. https://arxiv.org/search/?query=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-16. https://ocw.mit.edu/search/?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-17. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-18. https://ocw.mit.edu/search/?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-19. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+13. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+14. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+15. https://ocw.mit.edu/search/?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+16. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+17. https://arxiv.org/search/?query=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+18. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+19. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
 20. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-21. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-22. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-23. https://ocw.mit.edu/search/?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-24. https://arxiv.org/search/?query=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-25. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-26. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-27. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-28. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-29. https://arxiv.org/search/?query=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-30. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+21. https://arxiv.org/search/?query=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+22. https://arxiv.org/search/?query=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+23. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+24. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+25. https://arxiv.org/search/?query=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+26. https://arxiv.org/search/?query=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+27. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+28. https://dash.harvard.edu/server/api/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+29. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+30. https://ocw.mit.edu/search/?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
 31. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-32. https://dash.harvard.edu/server/api/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-33. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-34. https://dash.harvard.edu/server/api/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-35. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-36. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-37. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-39. https://arxiv.org/search/?query=702.+\frac{d[A]}{dt}+=+-k+[A]^n
-40. https://ocw.mit.edu/search/?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+32. https://ocw.mit.edu/search/?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+33. https://ocw.mit.edu/search/?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+34. https://www.nature.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+35. https://dash.harvard.edu/server/api/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+37. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+38. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+39. https://research.ibm.com/search?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n
+40. https://ui.adsabs.harvard.edu/v1/search/query?q=702.+\frac{d[A]}{dt}+=+-k+[A]^n

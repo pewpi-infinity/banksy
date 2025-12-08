@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 5262
-Token Value: 3467
-Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:48:23.250882 / 00:00
+Token #: 1809
+Token Value: 2691
+Token Color: GREEN
+Token Date & Time: 2025-12-07T18:48:43.749542 / 00:00
 Topic: 501. \frac{1}{f} = (n-1) \left( \frac{1}{R_1} - \frac{1}{R_2} \right)
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-2. https://research.ibm.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+1. https://ui.adsabs.harvard.edu/v1/search/query?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+2. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
 3. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
 4. https://ui.adsabs.harvard.edu/v1/search/query?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-5. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-6. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-7. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-8. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+5. https://ui.adsabs.harvard.edu/v1/search/query?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+6. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+7. https://dash.harvard.edu/server/api/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+8. https://dash.harvard.edu/server/api/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
 9. https://research.ibm.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-10. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-11. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-12. https://dash.harvard.edu/server/api/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-13. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+10. https://www.nature.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+11. https://dash.harvard.edu/server/api/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+12. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+13. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
 14. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-15. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-17. https://www.nature.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-18. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+16. https://www.nature.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+17. https://research.ibm.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+18. https://research.ibm.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
 19. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-20. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-21. https://research.ibm.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-22. https://research.ibm.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+22. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
 23. https://dash.harvard.edu/server/api/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-24. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-25. https://ui.adsabs.harvard.edu/v1/search/query?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-26. https://www.nature.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+24. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+25. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+26. https://dash.harvard.edu/server/api/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
 27. https://research.ibm.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-28. https://ui.adsabs.harvard.edu/v1/search/query?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+28. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
 29. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-30. https://research.ibm.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+30. https://ui.adsabs.harvard.edu/v1/search/query?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
 31. https://dash.harvard.edu/server/api/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-32. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-33. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+32. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+33. https://www.nature.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
 34. https://dash.harvard.edu/server/api/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-35. https://www.nature.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-36. https://dash.harvard.edu/server/api/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-37. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-38. https://dash.harvard.edu/server/api/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-39. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
-40. https://ui.adsabs.harvard.edu/v1/search/query?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+35. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+36. https://research.ibm.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+37. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+38. https://arxiv.org/search/?query=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+39. https://ocw.mit.edu/search/?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)
+40. https://www.nature.com/search?q=501.+\frac{1}{f}+=+(n-1)+\left(+\frac{1}{R_1}+-+\frac{1}{R_2}+\right)

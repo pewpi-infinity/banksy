@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 6605
-Token Value: 3333
+Token #: 5129
+Token Value: 2400
 Token Color: RED
-Token Date & Time: 2025-12-07T18:48:23.049413 / 00:00
+Token Date & Time: 2025-12-07T18:48:40.798462 / 00:00
 Topic: 56. \frac{dE}{dt} = \frac{dW}{dt} + \frac{dQ}{dt}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-2. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-3. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-4. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-5. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+1. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+2. https://research.ibm.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+3. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+4. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+5. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
 6. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-7. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-8. https://research.ibm.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-9. https://research.ibm.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-10. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-11. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-12. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+7. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+8. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+9. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+10. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+11. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+12. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
 13. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-14. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-15. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-16. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-17. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+14. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+16. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+17. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
 18. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-19. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+19. https://research.ibm.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
 20. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-21. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-22. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-23. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-24. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-25. https://research.ibm.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-26. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-27. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-28. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-29. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-30. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+21. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+22. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+23. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+24. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+25. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+26. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+27. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+28. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+29. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+30. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
 31. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-32. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-33. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+32. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+33. https://research.ibm.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
 34. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-35. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-36. https://arxiv.org/search/?query=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-37. https://research.ibm.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-38. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-39. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
-40. https://research.ibm.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+35. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+38. https://dash.harvard.edu/server/api/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+39. https://www.nature.com/search?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}
+40. https://ocw.mit.edu/search/?q=56.+\frac{dE}{dt}+=+\frac{dW}{dt}+++\frac{dQ}{dt}

@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 5694
-Token Value: 2588
-Token Color: RED
-Token Date & Time: 2025-12-07T18:48:23.297727 / 00:00
+Token #: 5336
+Token Value: 2296
+Token Color: YELLOW
+Token Date & Time: 2025-12-07T18:48:44.626673 / 00:00
 Topic: 803. M = -\frac{c^2}{2G} r_s
 ============================================
 
@@ -297,42 +297,42 @@ Mathematical Model 40:
 
 ## Reference Index (40 Sources)
 1. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
-2. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
-3. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+2. https://ocw.mit.edu/search/?q=803.+M+=+-\frac{c^2}{2G}+r_s
+3. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
 4. https://dash.harvard.edu/server/api/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
-6. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-7. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
-8. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
-10. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+5. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
+6. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+7. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+8. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+9. https://dash.harvard.edu/server/api/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+10. https://dash.harvard.edu/server/api/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
 11. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-12. https://ocw.mit.edu/search/?q=803.+M+=+-\frac{c^2}{2G}+r_s
-13. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
-14. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
-15. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
+12. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
+13. https://ocw.mit.edu/search/?q=803.+M+=+-\frac{c^2}{2G}+r_s
+14. https://ocw.mit.edu/search/?q=803.+M+=+-\frac{c^2}{2G}+r_s
+15. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
 16. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
-17. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-18. https://ocw.mit.edu/search/?q=803.+M+=+-\frac{c^2}{2G}+r_s
-19. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
-20. https://dash.harvard.edu/server/api/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-21. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-22. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
-23. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-24. https://dash.harvard.edu/server/api/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+17. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+18. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+19. https://dash.harvard.edu/server/api/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+20. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+21. https://dash.harvard.edu/server/api/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+22. https://dash.harvard.edu/server/api/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+23. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
+24. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
 25. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
-26. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
+26. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
 27. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-28. https://ocw.mit.edu/search/?q=803.+M+=+-\frac{c^2}{2G}+r_s
-29. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
-30. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-31. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-32. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
-33. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-34. https://dash.harvard.edu/server/api/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-35. https://ocw.mit.edu/search/?q=803.+M+=+-\frac{c^2}{2G}+r_s
-36. https://www.nature.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
-37. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
-38. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
-39. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
+28. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+29. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+30. https://dash.harvard.edu/server/api/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+31. https://arxiv.org/search/?query=803.+M+=+-\frac{c^2}{2G}+r_s
+32. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+33. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
+34. https://ocw.mit.edu/search/?q=803.+M+=+-\frac{c^2}{2G}+r_s
+35. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
+36. https://research.ibm.com/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+37. https://dash.harvard.edu/server/api/search?q=803.+M+=+-\frac{c^2}{2G}+r_s
+38. https://ocw.mit.edu/search/?q=803.+M+=+-\frac{c^2}{2G}+r_s
+39. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s
 40. https://ui.adsabs.harvard.edu/v1/search/query?q=803.+M+=+-\frac{c^2}{2G}+r_s

@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 8609
-Token Value: 4337
-Token Color: RED
-Token Date & Time: 2025-12-07T18:48:23.139787 / 00:00
+Token #: 7774
+Token Value: 3344
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:48:42.150137 / 00:00
 Topic: 93. a_c = \frac{v^2}{r} = \omega^2 r
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://www.nature.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-2. https://ocw.mit.edu/search/?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-4. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-5. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-6. https://ui.adsabs.harvard.edu/v1/search/query?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+1. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+2. https://arxiv.org/search/?query=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+3. https://ocw.mit.edu/search/?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+4. https://ui.adsabs.harvard.edu/v1/search/query?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+5. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+6. https://www.nature.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 7. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-8. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-9. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-10. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-11. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-12. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+8. https://arxiv.org/search/?query=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+9. https://ocw.mit.edu/search/?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+10. https://ui.adsabs.harvard.edu/v1/search/query?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+11. https://ui.adsabs.harvard.edu/v1/search/query?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+12. https://www.nature.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 13. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-14. https://arxiv.org/search/?query=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-15. https://ocw.mit.edu/search/?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+14. https://ui.adsabs.harvard.edu/v1/search/query?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+15. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 16. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 17. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 18. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 19. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-20. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-21. https://ocw.mit.edu/search/?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-22. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-23. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-24. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-25. https://arxiv.org/search/?query=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-26. https://ui.adsabs.harvard.edu/v1/search/query?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+20. https://arxiv.org/search/?query=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+21. https://www.nature.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+22. https://www.nature.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+23. https://www.nature.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+24. https://ocw.mit.edu/search/?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+26. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 27. https://arxiv.org/search/?query=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 28. https://ui.adsabs.harvard.edu/v1/search/query?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-29. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-30. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-31. https://ui.adsabs.harvard.edu/v1/search/query?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-32. https://arxiv.org/search/?query=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+29. https://ui.adsabs.harvard.edu/v1/search/query?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+30. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+31. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+32. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 33. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 34. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-35. https://arxiv.org/search/?query=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+35. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 36. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-37. https://ocw.mit.edu/search/?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-38. https://dash.harvard.edu/server/api/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+37. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+38. https://ocw.mit.edu/search/?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
 39. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
-40. https://research.ibm.com/search?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r
+40. https://ocw.mit.edu/search/?q=93.+a_c+=+\frac{v^2}{r}+=+\omega^2+r

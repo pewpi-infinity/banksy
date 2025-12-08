@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 7695
-Token Value: 2001
-Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:48:22.814949 / 00:00
+Token #: 9624
+Token Value: 2484
+Token Color: GREEN
+Token Date & Time: 2025-12-07T18:48:39.785332 / 00:00
 Topic: 79. Oberth effect
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=79.+Oberth+effect
+1. https://www.nature.com/search?q=79.+Oberth+effect
 2. https://www.nature.com/search?q=79.+Oberth+effect
-3. https://www.nature.com/search?q=79.+Oberth+effect
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=79.+Oberth+effect
-5. https://research.ibm.com/search?q=79.+Oberth+effect
+3. https://arxiv.org/search/?query=79.+Oberth+effect
+4. https://www.nature.com/search?q=79.+Oberth+effect
+5. https://arxiv.org/search/?query=79.+Oberth+effect
 6. https://www.nature.com/search?q=79.+Oberth+effect
 7. https://ocw.mit.edu/search/?q=79.+Oberth+effect
-8. https://dash.harvard.edu/server/api/search?q=79.+Oberth+effect
-9. https://ocw.mit.edu/search/?q=79.+Oberth+effect
-10. https://ocw.mit.edu/search/?q=79.+Oberth+effect
+8. https://research.ibm.com/search?q=79.+Oberth+effect
+9. https://research.ibm.com/search?q=79.+Oberth+effect
+10. https://research.ibm.com/search?q=79.+Oberth+effect
 11. https://arxiv.org/search/?query=79.+Oberth+effect
 12. https://www.nature.com/search?q=79.+Oberth+effect
-13. https://research.ibm.com/search?q=79.+Oberth+effect
-14. https://arxiv.org/search/?query=79.+Oberth+effect
-15. https://www.nature.com/search?q=79.+Oberth+effect
+13. https://dash.harvard.edu/server/api/search?q=79.+Oberth+effect
+14. https://dash.harvard.edu/server/api/search?q=79.+Oberth+effect
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=79.+Oberth+effect
 16. https://ocw.mit.edu/search/?q=79.+Oberth+effect
-17. https://research.ibm.com/search?q=79.+Oberth+effect
+17. https://arxiv.org/search/?query=79.+Oberth+effect
 18. https://ui.adsabs.harvard.edu/v1/search/query?q=79.+Oberth+effect
-19. https://research.ibm.com/search?q=79.+Oberth+effect
-20. https://ocw.mit.edu/search/?q=79.+Oberth+effect
-21. https://ui.adsabs.harvard.edu/v1/search/query?q=79.+Oberth+effect
-22. https://ui.adsabs.harvard.edu/v1/search/query?q=79.+Oberth+effect
-23. https://www.nature.com/search?q=79.+Oberth+effect
-24. https://arxiv.org/search/?query=79.+Oberth+effect
-25. https://dash.harvard.edu/server/api/search?q=79.+Oberth+effect
-26. https://research.ibm.com/search?q=79.+Oberth+effect
-27. https://ocw.mit.edu/search/?q=79.+Oberth+effect
-28. https://www.nature.com/search?q=79.+Oberth+effect
+19. https://arxiv.org/search/?query=79.+Oberth+effect
+20. https://www.nature.com/search?q=79.+Oberth+effect
+21. https://ocw.mit.edu/search/?q=79.+Oberth+effect
+22. https://research.ibm.com/search?q=79.+Oberth+effect
+23. https://ocw.mit.edu/search/?q=79.+Oberth+effect
+24. https://ocw.mit.edu/search/?q=79.+Oberth+effect
+25. https://ocw.mit.edu/search/?q=79.+Oberth+effect
+26. https://ocw.mit.edu/search/?q=79.+Oberth+effect
+27. https://arxiv.org/search/?query=79.+Oberth+effect
+28. https://ocw.mit.edu/search/?q=79.+Oberth+effect
 29. https://ui.adsabs.harvard.edu/v1/search/query?q=79.+Oberth+effect
-30. https://www.nature.com/search?q=79.+Oberth+effect
-31. https://research.ibm.com/search?q=79.+Oberth+effect
-32. https://dash.harvard.edu/server/api/search?q=79.+Oberth+effect
-33. https://ui.adsabs.harvard.edu/v1/search/query?q=79.+Oberth+effect
+30. https://arxiv.org/search/?query=79.+Oberth+effect
+31. https://www.nature.com/search?q=79.+Oberth+effect
+32. https://www.nature.com/search?q=79.+Oberth+effect
+33. https://www.nature.com/search?q=79.+Oberth+effect
 34. https://www.nature.com/search?q=79.+Oberth+effect
-35. https://ui.adsabs.harvard.edu/v1/search/query?q=79.+Oberth+effect
-36. https://ui.adsabs.harvard.edu/v1/search/query?q=79.+Oberth+effect
-37. https://arxiv.org/search/?query=79.+Oberth+effect
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=79.+Oberth+effect
-39. https://dash.harvard.edu/server/api/search?q=79.+Oberth+effect
-40. https://ui.adsabs.harvard.edu/v1/search/query?q=79.+Oberth+effect
+35. https://ocw.mit.edu/search/?q=79.+Oberth+effect
+36. https://research.ibm.com/search?q=79.+Oberth+effect
+37. https://ocw.mit.edu/search/?q=79.+Oberth+effect
+38. https://research.ibm.com/search?q=79.+Oberth+effect
+39. https://arxiv.org/search/?query=79.+Oberth+effect
+40. https://research.ibm.com/search?q=79.+Oberth+effect

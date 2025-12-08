@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 7635
-Token Value: 5261
-Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:48:22.980173 / 00:00
+Token #: 5011
+Token Value: 3471
+Token Color: PURPLE
+Token Date & Time: 2025-12-07T18:48:40.317730 / 00:00
 Topic: 27. \int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-2. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-3. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-6. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+1. https://dash.harvard.edu/server/api/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+2. https://dash.harvard.edu/server/api/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+3. https://dash.harvard.edu/server/api/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+4. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+5. https://research.ibm.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+6. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
 7. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-8. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-10. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-11. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-12. https://dash.harvard.edu/server/api/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+8. https://dash.harvard.edu/server/api/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+9. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+10. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+11. https://research.ibm.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+12. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
 13. https://research.ibm.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
 14. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-16. https://dash.harvard.edu/server/api/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-17. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-18. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-19. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-20. https://dash.harvard.edu/server/api/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-21. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-22. https://dash.harvard.edu/server/api/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-23. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-24. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-25. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-26. https://dash.harvard.edu/server/api/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-27. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-28. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-29. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-30. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-31. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-32. https://dash.harvard.edu/server/api/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-33. https://research.ibm.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-34. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-35. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-36. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-37. https://research.ibm.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-38. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-39. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
-40. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+15. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+16. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+17. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+18. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+19. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+20. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+21. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+22. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+23. https://dash.harvard.edu/server/api/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+24. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+25. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+26. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+27. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+28. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+29. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+30. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+32. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+33. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+34. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+35. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+36. https://arxiv.org/search/?query=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+38. https://ui.adsabs.harvard.edu/v1/search/query?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+39. https://ocw.mit.edu/search/?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}
+40. https://www.nature.com/search?q=27.+\int_{-\infty}^{\infty}+e^{-x^2}+\,+dx+=+\sqrt{\pi}

@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 9514
-Token Value: 2748
-Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:48:23.065656 / 00:00
+Token #: 9528
+Token Value: 3209
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:48:41.017902 / 00:00
 Topic: 63. Nernst: E = E^\circ - \frac{RT}{nF} \ln Q
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+1. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
 2. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-3. https://research.ibm.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+3. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
 4. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-5. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-6. https://dash.harvard.edu/server/api/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-7. https://ocw.mit.edu/search/?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-8. https://ocw.mit.edu/search/?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+5. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+6. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+7. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+8. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
 9. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-10. https://ocw.mit.edu/search/?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-11. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-12. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-13. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-14. https://research.ibm.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-15. https://research.ibm.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+10. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+11. https://dash.harvard.edu/server/api/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+12. https://ocw.mit.edu/search/?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+13. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+14. https://dash.harvard.edu/server/api/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+15. https://dash.harvard.edu/server/api/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
 16. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
 17. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-18. https://dash.harvard.edu/server/api/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-19. https://research.ibm.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+18. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+19. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
 20. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-21. https://dash.harvard.edu/server/api/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-22. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-23. https://research.ibm.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+21. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+22. https://ocw.mit.edu/search/?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+23. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
 24. https://ocw.mit.edu/search/?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-25. https://research.ibm.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
 26. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-27. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+27. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
 28. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-29. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-30. https://ocw.mit.edu/search/?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-31. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-32. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-33. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-34. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+29. https://research.ibm.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+30. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+32. https://research.ibm.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+33. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+34. https://dash.harvard.edu/server/api/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
 35. https://ui.adsabs.harvard.edu/v1/search/query?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-36. https://research.ibm.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-37. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-38. https://dash.harvard.edu/server/api/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-39. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
-40. https://dash.harvard.edu/server/api/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+36. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+37. https://dash.harvard.edu/server/api/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+38. https://research.ibm.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+39. https://arxiv.org/search/?query=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q
+40. https://www.nature.com/search?q=63.+Nernst:+E+=+E^\circ+-+\frac{RT}{nF}+\ln+Q

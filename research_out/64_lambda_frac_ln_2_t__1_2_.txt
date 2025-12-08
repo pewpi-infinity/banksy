@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 7164
-Token Value: 3705
+Token #: 6016
+Token Value: 3731
 Token Color: RED
-Token Date & Time: 2025-12-07T18:48:23.068118 / 00:00
+Token Date & Time: 2025-12-07T18:48:41.021840 / 00:00
 Topic: 64. \lambda = \frac{\ln 2}{t_{1/2}}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-2. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-3. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-4. https://arxiv.org/search/?query=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-5. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-6. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-7. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-8. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-9. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+1. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+2. https://arxiv.org/search/?query=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+3. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+4. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+5. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+6. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+7. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+8. https://ui.adsabs.harvard.edu/v1/search/query?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+9. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
 10. https://ui.adsabs.harvard.edu/v1/search/query?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-11. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-12. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-13. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-14. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-15. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-17. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-18. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-19. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-20. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-21. https://ui.adsabs.harvard.edu/v1/search/query?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-22. https://ui.adsabs.harvard.edu/v1/search/query?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-23. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-24. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-25. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+11. https://ui.adsabs.harvard.edu/v1/search/query?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+12. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+13. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+14. https://arxiv.org/search/?query=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+15. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+16. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+17. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+18. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+19. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+21. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+22. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+23. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+24. https://ui.adsabs.harvard.edu/v1/search/query?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+25. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
 26. https://arxiv.org/search/?query=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
 27. https://arxiv.org/search/?query=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-28. https://ui.adsabs.harvard.edu/v1/search/query?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-29. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-30. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-31. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-32. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-33. https://ui.adsabs.harvard.edu/v1/search/query?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+28. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+29. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+30. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+31. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+32. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+33. https://ocw.mit.edu/search/?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
 34. https://arxiv.org/search/?query=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-35. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+35. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
 36. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-37. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-39. https://arxiv.org/search/?query=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
-40. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+37. https://www.nature.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+38. https://arxiv.org/search/?query=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+39. https://dash.harvard.edu/server/api/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}
+40. https://research.ibm.com/search?q=64.+\lambda+=+\frac{\ln+2}{t_{1/2}}

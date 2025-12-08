@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 4225
-Token Value: 2092
-Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:48:22.648289 / 00:00
+Token #: 5023
+Token Value: 3179
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:48:39.618489 / 00:00
 Topic: 14. de Sitter horizon
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=14.+de+Sitter+horizon
+1. https://arxiv.org/search/?query=14.+de+Sitter+horizon
 2. https://ocw.mit.edu/search/?q=14.+de+Sitter+horizon
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
-5. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
-6. https://research.ibm.com/search?q=14.+de+Sitter+horizon
+3. https://ocw.mit.edu/search/?q=14.+de+Sitter+horizon
+4. https://arxiv.org/search/?query=14.+de+Sitter+horizon
+5. https://research.ibm.com/search?q=14.+de+Sitter+horizon
+6. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
 7. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
-8. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
-9. https://ocw.mit.edu/search/?q=14.+de+Sitter+horizon
-10. https://research.ibm.com/search?q=14.+de+Sitter+horizon
-11. https://arxiv.org/search/?query=14.+de+Sitter+horizon
-12. https://research.ibm.com/search?q=14.+de+Sitter+horizon
-13. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
-14. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
-15. https://ocw.mit.edu/search/?q=14.+de+Sitter+horizon
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
-17. https://research.ibm.com/search?q=14.+de+Sitter+horizon
-18. https://arxiv.org/search/?query=14.+de+Sitter+horizon
+8. https://www.nature.com/search?q=14.+de+Sitter+horizon
+9. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
+10. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
+11. https://research.ibm.com/search?q=14.+de+Sitter+horizon
+12. https://arxiv.org/search/?query=14.+de+Sitter+horizon
+13. https://ocw.mit.edu/search/?q=14.+de+Sitter+horizon
+14. https://ocw.mit.edu/search/?q=14.+de+Sitter+horizon
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
+16. https://research.ibm.com/search?q=14.+de+Sitter+horizon
+17. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
+18. https://www.nature.com/search?q=14.+de+Sitter+horizon
 19. https://www.nature.com/search?q=14.+de+Sitter+horizon
-20. https://arxiv.org/search/?query=14.+de+Sitter+horizon
-21. https://research.ibm.com/search?q=14.+de+Sitter+horizon
+20. https://www.nature.com/search?q=14.+de+Sitter+horizon
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
 22. https://research.ibm.com/search?q=14.+de+Sitter+horizon
 23. https://arxiv.org/search/?query=14.+de+Sitter+horizon
-24. https://www.nature.com/search?q=14.+de+Sitter+horizon
-25. https://arxiv.org/search/?query=14.+de+Sitter+horizon
-26. https://ocw.mit.edu/search/?q=14.+de+Sitter+horizon
-27. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
-28. https://www.nature.com/search?q=14.+de+Sitter+horizon
+24. https://arxiv.org/search/?query=14.+de+Sitter+horizon
+25. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
+26. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
+27. https://www.nature.com/search?q=14.+de+Sitter+horizon
+28. https://research.ibm.com/search?q=14.+de+Sitter+horizon
 29. https://arxiv.org/search/?query=14.+de+Sitter+horizon
-30. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
-31. https://arxiv.org/search/?query=14.+de+Sitter+horizon
-32. https://www.nature.com/search?q=14.+de+Sitter+horizon
-33. https://arxiv.org/search/?query=14.+de+Sitter+horizon
+30. https://research.ibm.com/search?q=14.+de+Sitter+horizon
+31. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
+32. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
+33. https://research.ibm.com/search?q=14.+de+Sitter+horizon
 34. https://research.ibm.com/search?q=14.+de+Sitter+horizon
-35. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
+35. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
 36. https://ui.adsabs.harvard.edu/v1/search/query?q=14.+de+Sitter+horizon
-37. https://www.nature.com/search?q=14.+de+Sitter+horizon
-38. https://ocw.mit.edu/search/?q=14.+de+Sitter+horizon
-39. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
-40. https://arxiv.org/search/?query=14.+de+Sitter+horizon
+37. https://ocw.mit.edu/search/?q=14.+de+Sitter+horizon
+38. https://arxiv.org/search/?query=14.+de+Sitter+horizon
+39. https://arxiv.org/search/?query=14.+de+Sitter+horizon
+40. https://dash.harvard.edu/server/api/search?q=14.+de+Sitter+horizon
