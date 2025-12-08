@@ -1,0 +1,147 @@
+{
+  "header": {
+    "token_number": 687426,
+    "token_value": 4455,
+    "token_color": "\ud83d\udc9a GREEN",
+    "generated": "2025-12-07T23:53:29.598414",
+    "topic": "lead non chaotic order emergence"
+  },
+  "articles": [
+    {
+      "title": "The Unreasonable Effectiveness of Reaction Diffusion in Vertebrate Skin Color Patterning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37843926/",
+      "authors": "Milinkovitch MC, Jahanbakhsh E, Zakany S.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 527800,
+        "article_value": 3286,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T23:53:48.944903",
+        "title": "The Unreasonable Effectiveness of Reaction Diffusion in Vertebrate Skin Color Patterning."
+      }
+    },
+    {
+      "title": "[Mathematical structure of episodic memory].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18646617/",
+      "authors": "Tsuda I.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 972398,
+        "article_value": 3711,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T23:53:48.944986",
+        "title": "[Mathematical structure of episodic memory]."
+      }
+    },
+    {
+      "title": "Controlling quantum many-body dynamics in driven Rydberg atom arrays.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33632894/",
+      "authors": "Bluvstein D, Omran A, Levine H, Keesling A, Semeghini G, Ebadi S, Wang TT, Michailidis AA, Maskara N, Ho WW, Choi S, Serbyn M, Greiner M, Vuleti\u0107 V, Lukin MD.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 481201,
+        "article_value": 623,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T23:53:48.945021",
+        "title": "Controlling quantum many-body dynamics in driven Rydberg atom arrays."
+      }
+    },
+    {
+      "title": "[Kinematic deterministic chaos of fluids and fractal geometry in the carotid system].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9528050/",
+      "authors": "Mart\u00edn-Araguz A, Ruiz-Al\u00e1ez A, Garc\u00eda de la Rocha ML, Fern\u00e1ndez-Armayor V, Delgado-Reyes S, Moreno-Mart\u00ednez JM.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 201548,
+        "article_value": 4951,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-07T23:53:48.945056",
+        "title": "[Kinematic deterministic chaos of fluids and fractal geometry in the carotid system]."
+      }
+    },
+    {
+      "title": "Extreme and superextreme events in a loss-modulated CO_{2} laser: Nonlinear resonance route and precursors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29347097/",
+      "authors": "Bonatto C, Endler A.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 162586,
+        "article_value": 3441,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-07T23:53:48.945090",
+        "title": "Extreme and superextreme events in a loss-modulated CO_{2} laser: Nonlinear resonance route and precursors."
+      }
+    },
+    {
+      "title": "Dynamical inference: where phase synchronization and generalized synchronization meet.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25019853/",
+      "authors": "Stankovski T, McClintock PV, Stefanovska A.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 803938,
+        "article_value": 479,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T23:53:48.945126",
+        "title": "Dynamical inference: where phase synchronization and generalized synchronization meet."
+      }
+    },
+    {
+      "title": "Training residents to lead emergency teams: A qualitative review of barriers, challenges and learning goals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30603684/",
+      "authors": "Larsen T, Beier-Holgersen R, \u00d8stergaard D, Dieckmann P.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 786105,
+        "article_value": 2691,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-07T23:53:48.945159",
+        "title": "Training residents to lead emergency teams: A qualitative review of barriers, challenges and learning goals."
+      }
+    },
+    {
+      "title": "[Dynamic paradigm in psychopathology: \"chaos theory\", from physics to psychiatry].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11488256/",
+      "authors": "Pezard L, Nandrino JL.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 3,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 686781,
+        "article_value": 1438,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-07T23:53:48.945192",
+        "title": "[Dynamic paradigm in psychopathology: \"chaos theory\", from physics to psychiatry]."
+      }
+    }
+  ]
+}

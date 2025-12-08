@@ -941,9 +941,9 @@ URL: https://www.nature.com?q=hydrogen+embrittlement
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=250136937&amp;t=pos%3Dbillboard%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=266671756&amp;t=pos%3Dbillboard%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=250136937&amp;t=pos%3Dbillboard%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=266671756&amp;t=pos%3Dbillboard%26artid%3D/nature"
                  alt="Advertisement"
                  width="970"
                  height="250"/>
@@ -1497,9 +1497,9 @@ URL: https://www.nature.com?q=hydrogen+embrittlement
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=1645200131&amp;t=pos%3Dnative%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=1468394901&amp;t=pos%3Dnative%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=1645200131&amp;t=pos%3Dnative%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=1468394901&amp;t=pos%3Dnative%26artid%3D/nature"
                  alt="Advertisement"
                  width="2"
                  height="2"/>
@@ -2608,9 +2608,9 @@ URL: https://www.nature.com?q=hydrogen+embrittlement
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1595400733&amp;t=pos%3Dright%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1013795776&amp;t=pos%3Dright%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1595400733&amp;t=pos%3Dright%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1013795776&amp;t=pos%3Dright%26artid%3D/nature"
                  alt="Advertisement"
                  width="300"
                  height="250"/>
@@ -2884,9 +2884,9 @@ URL: https://www.nature.com?q=hydrogen+embrittlement
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1196877753&amp;t=pos%3Dright%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=1098400933&amp;t=pos%3Dright%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1196877753&amp;t=pos%3Dright%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=1098400933&amp;t=pos%3Dright%26artid%3D/nature"
                  alt="Advertisement"
                  width="300"
                  height="250"/>
