@@ -1,31 +1,39 @@
 #!/usr/bin/env bash
+set -e
 
 LOCKFILE=".infinity_push_lock"
 
-# If another push is happening, wait.
+echo "∞ [GATE] Starting commit/push cycle at $(date)"
+
+# If another push is happening, bail out safely
 if [ -f "$LOCKFILE" ]; then
-    echo "⏳ Infinity Gatekeeper: Push in progress. Waiting…"
+    echo "∞ [GATE] Another push is in progress (lockfile present). Skipping."
     exit 0
 fi
 
-# Create lock
 touch "$LOCKFILE"
 
-# Add only tracked + new research files safely
+echo "∞ [GATE] Staging all changes (git add -A)…"
 git add -A
 
-# If nothing changed, release lock and exit
+# Check if anything actually changed
 if git diff --cached --quiet; then
-    rm "$LOCKFILE"
-    echo "✔ Nothing new to push."
+    echo "∞ [GATE] No NEW changes to commit."
+    echo "∞ [GATE] Still pushing to origin/main so you SEE it work…"
+    git push origin main || true
+    rm -f "$LOCKFILE"
+    echo "∞ [GATE] Done (no new commit, push attempted)."
     exit 0
 fi
 
-# Commit + push safely
-git commit -m "∞ Infinity Sync $(date '+%Y-%m-%d %H:%M:%S')"
+COMMIT_MSG="∞ Infinity sync $(date '+%Y-%m-%d %H:%M:%S')"
+echo "∞ [GATE] Committing with message:"
+echo "          $COMMIT_MSG"
+
+git commit -m "$COMMIT_MSG"
+
+echo "∞ [GATE] Pushing to origin/main…"
 git push origin main
 
-# Remove lock
-rm "$LOCKFILE"
-
-echo "✔ Push completed safely."
+rm -f "$LOCKFILE"
+echo "∞ [GATE] ✅ Done. Repo synced clean."
