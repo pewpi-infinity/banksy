@@ -1,0 +1,45 @@
+{
+  "header": {
+    "token_number": 202633,
+    "token_value": 1941,
+    "token_color": "\ud83d\udc9a GREEN",
+    "generated": "2025-12-08T03:05:05.456214",
+    "topic": "rubidium linear systems teaching"
+  },
+  "articles": [
+    {
+      "title": "Is cardiopulmonary transit time (CPTT) measured by using dynamic rubidium cardiac PET/CT a predictor for cardiac function?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39953314/",
+      "authors": "Seige LC, Zhang B, Heimer J, Spielhofer N, Popescu C, Murray K, La Foug\u00e8re C, Burger IA, Sauter AW.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 6,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 814904,
+        "article_value": 1816,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-08T03:05:51.195483",
+        "title": "Is cardiopulmonary transit time (CPTT) measured by using dynamic rubidium cardiac PET/CT a predictor for cardiac function?"
+      }
+    },
+    {
+      "title": "Combined 82-rubidium PET and coronary computed tomography in coronary artery disease: insights into the association between calcium score, coronary artery disease-reporting and data system, ischemia, and blood flow.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40665772/",
+      "authors": "Bhure U, Bossard M, Gr\u00fcnig H, Lima T, Leike T, Lampe N, Cuculi F, Strobel K.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 6,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 81915,
+        "article_value": 4563,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-08T03:05:51.195593",
+        "title": "Combined 82-rubidium PET and coronary computed tomography in coronary artery disease: insights into the association between calcium score, coronary artery disease-reporting and data system, ischemia, and blood flow."
+      }
+    }
+  ]
+}
