@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 753997,
+    "token_value": 689,
+    "token_color": "\ud83d\udc9c PURPLE",
+    "generated": "2025-12-08T01:56:50.336697",
+    "topic": "germanium linear non chaotic equations"
+  },
+  "articles": [
+    {
+      "source_id": 2,
+      "url": "https://arxiv.org/search/?query=germanium+linear+non+chaotic+equations",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}

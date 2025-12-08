@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 780972,
+    "token_value": 4939,
+    "token_color": "\ud83d\udc9b YELLOW",
+    "generated": "2025-12-08T01:54:24.218139",
+    "topic": "neptunium teaching order from chaos"
+  },
+  "articles": [
+    {
+      "source_id": 4,
+      "url": "https://arxiv.org/search/?query=neptunium+teaching+order+from+chaos",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
