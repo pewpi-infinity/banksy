@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 791854,
+    "token_value": 1582,
+    "token_color": "\ud83d\udc9a GREEN",
+    "generated": "2025-12-08T03:00:48.349016",
+    "topic": "scandium chaos dynamics bringing order"
+  },
+  "articles": [
+    {
+      "source_id": 5,
+      "url": "https://arxiv.org/search/?query=scandium+chaos+dynamics+bringing+order",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
