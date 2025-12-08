@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 780853,
+    "token_value": 1045,
+    "token_color": "\ud83d\udc9a GREEN",
+    "generated": "2025-12-08T03:06:21.875353",
+    "topic": "helium non chaotic systems order from chaos"
+  },
+  "articles": [
+    {
+      "source_id": 4,
+      "url": "https://arxiv.org/search/?query=helium+non+chaotic+systems+order+from+chaos",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
