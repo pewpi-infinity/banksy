@@ -1,0 +1,187 @@
+{
+  "header": {
+    "token_number": 783781,
+    "token_value": 4709,
+    "token_color": "\u2764\ufe0f RED",
+    "generated": "2025-12-08T01:34:35.061861",
+    "topic": "aluminum non linear dynamics order"
+  },
+  "articles": [
+    {
+      "source_id": 3,
+      "url": "https://www.semanticscholar.org/search?q=aluminum+non+linear+dynamics+order",
+      "error": "HTTPSConnectionPool(host='www.semanticscholar.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    },
+    {
+      "title": "Modeling of Adhesion in Tablet Compression at the Molecular Level Using Thermal Analysis and Molecular Simulations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34905926/",
+      "authors": "Chaturvedi K, Shah HS, Morris KR, Dave RH.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 574906,
+        "article_value": 4603,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-08T01:35:16.497279",
+        "title": "Modeling of Adhesion in Tablet Compression at the Molecular Level Using Thermal Analysis and Molecular Simulations."
+      }
+    },
+    {
+      "title": "A non-linear homogeneous model for bone-like materials under compressive load.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25099330/",
+      "authors": "Mengoni M, Voide R, de Bien C, Freichels H, J\u00e9r\u00f4me C, L\u00e9onard A, Toye D, M\u00fcller R, van Lenthe GH, Ponthot JP.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 445714,
+        "article_value": 3733,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-08T01:35:16.497362",
+        "title": "A non-linear homogeneous model for bone-like materials under compressive load."
+      }
+    },
+    {
+      "title": "Harnessing collisional nonlinearity for enhanced harmonic generation by ultraviolet plasmonic nanoparticles.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39092943/",
+      "authors": "Silvestri M, Venturi M, Di Muzio M, Adhikary R, Ferrante C, Benassi P, Marini A.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 777390,
+        "article_value": 1070,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T01:35:16.497397",
+        "title": "Harnessing collisional nonlinearity for enhanced harmonic generation by ultraviolet plasmonic nanoparticles."
+      }
+    },
+    {
+      "title": "Tutorial on the instrumentation of sum frequency generation vibrational spectroscopy: Using a Ti:sapphire based system as an example.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36070973/",
+      "authors": "Yang L, Zhang W, Bian H, Ma G.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 188152,
+        "article_value": 1023,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-08T01:35:16.498197",
+        "title": "Tutorial on the instrumentation of sum frequency generation vibrational spectroscopy: Using a Ti:sapphire based system as an example."
+      }
+    },
+    {
+      "title": "Nanoscale pore formation dynamics during aluminum anodization.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12779551/",
+      "authors": "Thamida SK, Chang HC.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 113013,
+        "article_value": 1338,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-08T01:35:16.498253",
+        "title": "Nanoscale pore formation dynamics during aluminum anodization."
+      }
+    },
+    {
+      "title": "Nonlinear guided wave propagation in prestressed plates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25786963/",
+      "authors": "Pau A, Lanza di Scalea F.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 315727,
+        "article_value": 3221,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-08T01:35:16.498288",
+        "title": "Nonlinear guided wave propagation in prestressed plates."
+      }
+    },
+    {
+      "title": "Aluminum for nonlinear plasmonics: resonance-driven polarized luminescence of Al, Ag, and Au nanoantennas.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21970569/",
+      "authors": "Castro-Lopez M, Brinks D, Sapienza R, van Hulst NF.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 357838,
+        "article_value": 736,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-08T01:35:16.498321",
+        "title": "Aluminum for nonlinear plasmonics: resonance-driven polarized luminescence of Al, Ag, and Au nanoantennas."
+      }
+    },
+    {
+      "title": "Engineering the temporal dynamics of all-optical switching with fast and slow materials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37735167/",
+      "authors": "Saha S, Diroll BT, Ozlu MG, Chowdhury SN, Peana S, Kudyshev Z, Schaller RD, Jacob Z, Shalaev VM, Kildishev AV, Boltasseva A.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 537803,
+        "article_value": 774,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T01:35:16.498355",
+        "title": "Engineering the temporal dynamics of all-optical switching with fast and slow materials."
+      }
+    },
+    {
+      "title": "Large fluctuations in the disassembly rate of microtubules revealed by atomic force microscopy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12801676/",
+      "authors": "Thomson NH, Kasas S, Riederer BM, Catsicas S, Dietler G, Kulik AJ, Forr\u00f3 L.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 69216,
+        "article_value": 2608,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-08T01:35:16.498388",
+        "title": "Large fluctuations in the disassembly rate of microtubules revealed by atomic force microscopy."
+      }
+    },
+    {
+      "title": "Using Video Processing for the Full-Field Identification of Backbone Curves in Case of Large Vibrations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31117292/",
+      "authors": "Civera M, Zanotti Fragonara L, Surace C.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 5,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 132230,
+        "article_value": 3287,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-08T01:35:16.498421",
+        "title": "Using Video Processing for the Full-Field Identification of Backbone Curves in Case of Large Vibrations."
+      }
+    }
+  ]
+}
