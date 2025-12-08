@@ -1497,9 +1497,9 @@ URL: https://www.nature.com?q=hydrogen
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-612242346&amp;t=pos%3Dnative%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-1559839113&amp;t=pos%3Dnative%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-612242346&amp;t=pos%3Dnative%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-1559839113&amp;t=pos%3Dnative%26artid%3D/nature"
                  alt="Advertisement"
                  width="2"
                  height="2"/>
@@ -2608,9 +2608,9 @@ URL: https://www.nature.com?q=hydrogen
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-328058086&amp;t=pos%3Dright%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-612722507&amp;t=pos%3Dright%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-328058086&amp;t=pos%3Dright%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-612722507&amp;t=pos%3Dright%26artid%3D/nature"
                  alt="Advertisement"
                  width="300"
                  height="250"/>
@@ -2884,9 +2884,9 @@ URL: https://www.nature.com?q=hydrogen
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1128384861&amp;t=pos%3Dright%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=115642113&amp;t=pos%3Dright%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1128384861&amp;t=pos%3Dright%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=115642113&amp;t=pos%3Dright%26artid%3D/nature"
                  alt="Advertisement"
                  width="300"
                  height="250"/>
