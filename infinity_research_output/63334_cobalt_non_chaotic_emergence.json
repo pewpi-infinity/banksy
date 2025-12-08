@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 63334,
+    "token_value": 2391,
+    "token_color": "\u2764\ufe0f RED",
+    "generated": "2025-12-08T00:10:15.737493",
+    "topic": "cobalt non chaotic emergence"
+  },
+  "articles": [
+    {
+      "source_id": 1,
+      "url": "https://arxiv.org/search/?query=cobalt+non+chaotic+emergence",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}

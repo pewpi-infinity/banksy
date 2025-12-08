@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 207561,
+    "token_value": 2751,
+    "token_color": "\u2764\ufe0f RED",
+    "generated": "2025-12-08T00:08:59.853187",
+    "topic": "potassium equations teaching chaos order"
+  },
+  "articles": [
+    {
+      "source_id": 5,
+      "url": "https://arxiv.org/search/?query=potassium+equations+teaching+chaos+order",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
