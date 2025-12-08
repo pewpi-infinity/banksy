@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 3748
-Token Value: 4661
-Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:35:56.203405 / 00:00
+Token #: 6730
+Token Value: 5745
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:37:18.626490 / 00:00
 Topic: 12. Critical density: \( \rho_c = \frac{3 H^2}{8\pi G} \)
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-2. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+1. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+2. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
 3. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-4. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-5. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+4. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+5. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
 6. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
 7. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-8. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-10. https://arxiv.org/search/?query=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+8. https://arxiv.org/search/?query=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+9. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+10. https://ocw.mit.edu/search/?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
 11. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-12. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+12. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
 13. https://arxiv.org/search/?query=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-14. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-15. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-16. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+14. https://ocw.mit.edu/search/?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+16. https://arxiv.org/search/?query=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
 17. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-18. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-19. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-20. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-21. https://arxiv.org/search/?query=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-22. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-23. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-24. https://arxiv.org/search/?query=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-25. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+18. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+19. https://arxiv.org/search/?query=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+20. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+21. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+22. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+23. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+24. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
 26. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-27. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-28. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-29. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-30. https://ocw.mit.edu/search/?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-31. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+27. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+28. https://ocw.mit.edu/search/?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+29. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+30. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
 32. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
 33. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-34. https://dash.harvard.edu/server/api/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+34. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
 35. https://arxiv.org/search/?query=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-36. https://arxiv.org/search/?query=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-37. https://research.ibm.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-38. https://ocw.mit.edu/search/?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-39. https://ocw.mit.edu/search/?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
-40. https://www.nature.com/search?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+37. https://ocw.mit.edu/search/?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+38. https://ui.adsabs.harvard.edu/v1/search/query?q=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+39. https://arxiv.org/search/?query=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)
+40. https://arxiv.org/search/?query=12.+Critical+density:+\(+\rho_c+=+\frac{3+H^2}{8\pi+G}+\)

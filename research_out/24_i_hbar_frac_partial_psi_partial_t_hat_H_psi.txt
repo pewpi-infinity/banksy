@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 4119
-Token Value: 3355
-Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:35:56.697971 / 00:00
+Token #: 8137
+Token Value: 4020
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:37:20.265884 / 00:00
 Topic: 24. i \hbar \frac{\partial \psi}{\partial t} = \hat{H} \psi
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://dash.harvard.edu/server/api/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+1. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
 2. https://ocw.mit.edu/search/?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-3. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-4. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+3. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+4. https://dash.harvard.edu/server/api/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+5. https://arxiv.org/search/?query=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
 6. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-7. https://ocw.mit.edu/search/?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-8. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-9. https://ocw.mit.edu/search/?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-10. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-11. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-12. https://dash.harvard.edu/server/api/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-13. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-14. https://research.ibm.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+7. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+8. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+9. https://research.ibm.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+10. https://dash.harvard.edu/server/api/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+11. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+12. https://arxiv.org/search/?query=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+13. https://dash.harvard.edu/server/api/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+14. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+15. https://dash.harvard.edu/server/api/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
 16. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-17. https://ocw.mit.edu/search/?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-18. https://dash.harvard.edu/server/api/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-19. https://ocw.mit.edu/search/?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-20. https://research.ibm.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-21. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-22. https://research.ibm.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-23. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+17. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+18. https://ocw.mit.edu/search/?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+19. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+20. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+21. https://dash.harvard.edu/server/api/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+22. https://arxiv.org/search/?query=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+23. https://ocw.mit.edu/search/?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
 24. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-25. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+25. https://arxiv.org/search/?query=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
 26. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-27. https://ocw.mit.edu/search/?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-28. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-29. https://research.ibm.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+27. https://dash.harvard.edu/server/api/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+28. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+29. https://dash.harvard.edu/server/api/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
 30. https://arxiv.org/search/?query=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
 31. https://ocw.mit.edu/search/?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-32. https://ocw.mit.edu/search/?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-33. https://research.ibm.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+32. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+33. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
 34. https://research.ibm.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-35. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-36. https://arxiv.org/search/?query=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+35. https://arxiv.org/search/?query=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+36. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
 37. https://www.nature.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-39. https://ocw.mit.edu/search/?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
-40. https://arxiv.org/search/?query=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+38. https://research.ibm.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+39. https://research.ibm.com/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi
+40. https://dash.harvard.edu/server/api/search?q=24.+i+\hbar+\frac{\partial+\psi}{\partial+t}+=+\hat{H}+\psi

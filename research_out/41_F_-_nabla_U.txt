@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 2305
-Token Value: 2595
+Token #: 5015
+Token Value: 3324
 Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:35:56.761610 / 00:00
+Token Date & Time: 2025-12-07T18:37:20.554897 / 00:00
 Topic: 41. F = -\nabla U
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
-2. https://research.ibm.com/search?q=41.+F+=+-\nabla+U
-3. https://dash.harvard.edu/server/api/search?q=41.+F+=+-\nabla+U
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
-5. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
-6. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
-7. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
-8. https://research.ibm.com/search?q=41.+F+=+-\nabla+U
-9. https://www.nature.com/search?q=41.+F+=+-\nabla+U
-10. https://www.nature.com/search?q=41.+F+=+-\nabla+U
-11. https://www.nature.com/search?q=41.+F+=+-\nabla+U
+1. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
+2. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
+3. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
+4. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
+5. https://www.nature.com/search?q=41.+F+=+-\nabla+U
+6. https://research.ibm.com/search?q=41.+F+=+-\nabla+U
+7. https://www.nature.com/search?q=41.+F+=+-\nabla+U
+8. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
+9. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
+10. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
+11. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
 12. https://www.nature.com/search?q=41.+F+=+-\nabla+U
-13. https://www.nature.com/search?q=41.+F+=+-\nabla+U
-14. https://dash.harvard.edu/server/api/search?q=41.+F+=+-\nabla+U
-15. https://dash.harvard.edu/server/api/search?q=41.+F+=+-\nabla+U
-16. https://www.nature.com/search?q=41.+F+=+-\nabla+U
-17. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
-18. https://www.nature.com/search?q=41.+F+=+-\nabla+U
-19. https://research.ibm.com/search?q=41.+F+=+-\nabla+U
-20. https://research.ibm.com/search?q=41.+F+=+-\nabla+U
+13. https://dash.harvard.edu/server/api/search?q=41.+F+=+-\nabla+U
+14. https://research.ibm.com/search?q=41.+F+=+-\nabla+U
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
+16. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
+17. https://www.nature.com/search?q=41.+F+=+-\nabla+U
+18. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
+19. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
+20. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
 21. https://www.nature.com/search?q=41.+F+=+-\nabla+U
-22. https://www.nature.com/search?q=41.+F+=+-\nabla+U
-23. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
-24. https://www.nature.com/search?q=41.+F+=+-\nabla+U
-25. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
-26. https://research.ibm.com/search?q=41.+F+=+-\nabla+U
-27. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
-28. https://www.nature.com/search?q=41.+F+=+-\nabla+U
+22. https://research.ibm.com/search?q=41.+F+=+-\nabla+U
+23. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
+24. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
+25. https://dash.harvard.edu/server/api/search?q=41.+F+=+-\nabla+U
+26. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
+27. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
+28. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
 29. https://research.ibm.com/search?q=41.+F+=+-\nabla+U
-30. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
+30. https://dash.harvard.edu/server/api/search?q=41.+F+=+-\nabla+U
 31. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
-32. https://www.nature.com/search?q=41.+F+=+-\nabla+U
+32. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
 33. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
 34. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
-35. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
-36. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
-37. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
-39. https://ocw.mit.edu/search/?q=41.+F+=+-\nabla+U
-40. https://research.ibm.com/search?q=41.+F+=+-\nabla+U
+35. https://arxiv.org/search/?query=41.+F+=+-\nabla+U
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U
+37. https://www.nature.com/search?q=41.+F+=+-\nabla+U
+38. https://research.ibm.com/search?q=41.+F+=+-\nabla+U
+39. https://dash.harvard.edu/server/api/search?q=41.+F+=+-\nabla+U
+40. https://ui.adsabs.harvard.edu/v1/search/query?q=41.+F+=+-\nabla+U

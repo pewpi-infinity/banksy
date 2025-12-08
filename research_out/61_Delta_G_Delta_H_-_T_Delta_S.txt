@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 1889
-Token Value: 5351
-Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:35:56.833462 / 00:00
+Token #: 6170
+Token Value: 3908
+Token Color: RED
+Token Date & Time: 2025-12-07T18:37:20.965962 / 00:00
 Topic: 61. \Delta G = \Delta H - T \Delta S
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-2. https://research.ibm.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-3. https://research.ibm.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-4. https://www.nature.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-5. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-6. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-7. https://research.ibm.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-8. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-9. https://research.ibm.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-10. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+1. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+2. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+3. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+4. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+5. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+6. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+7. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+8. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+9. https://www.nature.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+10. https://www.nature.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
 11. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
 12. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-13. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-14. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-15. https://www.nature.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-16. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-17. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-18. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-19. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+13. https://www.nature.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+14. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+15. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+16. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+17. https://www.nature.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+18. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+19. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
 20. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-21. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-22. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-23. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-24. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-25. https://research.ibm.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-26. https://research.ibm.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+22. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+23. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+24. https://www.nature.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+25. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+26. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
 27. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-28. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+28. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
 29. https://www.nature.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-30. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-31. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-32. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+30. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+31. https://research.ibm.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+32. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
 33. https://ui.adsabs.harvard.edu/v1/search/query?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-34. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+34. https://www.nature.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
 35. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-36. https://arxiv.org/search/?query=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+36. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
 37. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
-38. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
+38. https://dash.harvard.edu/server/api/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
 39. https://research.ibm.com/search?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S
 40. https://ocw.mit.edu/search/?q=61.+\Delta+G+=+\Delta+H+-+T+\Delta+S

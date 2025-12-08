@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 3153
-Token Value: 2428
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:35:57.225754 / 00:00
+Token #: 8474
+Token Value: 4392
+Token Color: YELLOW
+Token Date & Time: 2025-12-07T18:38:16.183044 / 00:00
 Topic: 909. SIR: \frac{dS}{dt} = -\beta SI, \frac{dI}{dt} = \beta SI - \gamma I, \frac{dR}{dt} = \gamma I
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-2. https://ocw.mit.edu/search/?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-4. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-5. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-6. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-7. https://www.nature.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-8. https://ocw.mit.edu/search/?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-9. https://ocw.mit.edu/search/?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-10. https://ocw.mit.edu/search/?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-11. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-12. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-13. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-14. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-15. https://www.nature.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-16. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+1. https://www.nature.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+2. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+3. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+4. https://www.nature.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+5. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+6. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+7. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+8. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+9. https://www.nature.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+10. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+11. https://www.nature.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+12. https://www.nature.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+13. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+14. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+15. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+16. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
 17. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
 18. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
 19. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-20. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+20. https://ocw.mit.edu/search/?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
 21. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-22. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-23. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-24. https://ocw.mit.edu/search/?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-25. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-26. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-27. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+22. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+23. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+24. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+25. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+26. https://ocw.mit.edu/search/?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+27. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
 28. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-29. https://www.nature.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-30. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-31. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-32. https://www.nature.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-33. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-34. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-35. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-36. https://ocw.mit.edu/search/?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-37. https://ocw.mit.edu/search/?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
-39. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+29. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+30. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+31. https://research.ibm.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+32. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+33. https://www.nature.com/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+34. https://ocw.mit.edu/search/?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+35. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+36. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+38. https://ocw.mit.edu/search/?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
+39. https://dash.harvard.edu/server/api/search?q=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I
 40. https://arxiv.org/search/?query=909.+SIR:+\frac{dS}{dt}+=+-\beta+SI,+\frac{dI}{dt}+=+\beta+SI+-+\gamma+I,+\frac{dR}{dt}+=+\gamma+I

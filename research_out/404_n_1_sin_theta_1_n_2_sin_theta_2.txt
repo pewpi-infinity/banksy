@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 7841
-Token Value: 2176
-Token Color: BLUE
-Token Date & Time: 2025-12-07T18:35:57.104894 / 00:00
+Token #: 9622
+Token Value: 3685
+Token Color: RED
+Token Date & Time: 2025-12-07T18:37:24.636650 / 00:00
 Topic: 404. n_1 \sin \theta_1 = n_2 \sin \theta_2
 ============================================
 
@@ -297,42 +297,42 @@ Mathematical Model 40:
 
 ## Reference Index (40 Sources)
 1. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-2. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+2. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
 3. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-4. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-5. https://arxiv.org/search/?query=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-6. https://dash.harvard.edu/server/api/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-7. https://dash.harvard.edu/server/api/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-9. https://research.ibm.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+4. https://ocw.mit.edu/search/?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+5. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+6. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+7. https://ocw.mit.edu/search/?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+8. https://arxiv.org/search/?query=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+9. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
 10. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-11. https://arxiv.org/search/?query=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-12. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-13. https://research.ibm.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-14. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+11. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+12. https://dash.harvard.edu/server/api/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+13. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+14. https://ocw.mit.edu/search/?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
 15. https://dash.harvard.edu/server/api/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
 16. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-17. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-18. https://ocw.mit.edu/search/?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-19. https://ocw.mit.edu/search/?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-20. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-21. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-22. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-23. https://dash.harvard.edu/server/api/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-24. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-25. https://research.ibm.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-26. https://arxiv.org/search/?query=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-27. https://arxiv.org/search/?query=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+17. https://arxiv.org/search/?query=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+18. https://dash.harvard.edu/server/api/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+19. https://dash.harvard.edu/server/api/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+21. https://ocw.mit.edu/search/?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+22. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+23. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+24. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+25. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+26. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+27. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
 28. https://research.ibm.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+29. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
 30. https://research.ibm.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-31. https://arxiv.org/search/?query=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+31. https://ocw.mit.edu/search/?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
 32. https://ui.adsabs.harvard.edu/v1/search/query?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-33. https://dash.harvard.edu/server/api/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+33. https://arxiv.org/search/?query=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
 34. https://research.ibm.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-35. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-36. https://arxiv.org/search/?query=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+35. https://dash.harvard.edu/server/api/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+36. https://dash.harvard.edu/server/api/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
 37. https://research.ibm.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
 38. https://research.ibm.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
-39. https://research.ibm.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
+39. https://www.nature.com/search?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2
 40. https://ocw.mit.edu/search/?q=404.+n_1+\sin+\theta_1+=+n_2+\sin+\theta_2

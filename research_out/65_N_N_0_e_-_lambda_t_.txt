@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 8929
-Token Value: 2621
+Token #: 5022
+Token Value: 5556
 Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:35:56.846563 / 00:00
+Token Date & Time: 2025-12-07T18:37:21.073765 / 00:00
 Topic: 65. N = N_0 e^{-\lambda t}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ui.adsabs.harvard.edu/v1/search/query?q=65.+N+=+N_0+e^{-\lambda+t}
-2. https://www.nature.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-3. https://arxiv.org/search/?query=65.+N+=+N_0+e^{-\lambda+t}
-4. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-5. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
-6. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-7. https://www.nature.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-8. https://arxiv.org/search/?query=65.+N+=+N_0+e^{-\lambda+t}
-9. https://www.nature.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-10. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
-11. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-12. https://arxiv.org/search/?query=65.+N+=+N_0+e^{-\lambda+t}
-13. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
+1. https://www.nature.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
+2. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
+3. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
+4. https://www.nature.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
+5. https://www.nature.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
+6. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
+7. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
+8. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
+9. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
+10. https://arxiv.org/search/?query=65.+N+=+N_0+e^{-\lambda+t}
+11. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
+12. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
+13. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
 14. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=65.+N+=+N_0+e^{-\lambda+t}
-16. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-17. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
-18. https://arxiv.org/search/?query=65.+N+=+N_0+e^{-\lambda+t}
+15. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
+16. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
+17. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
+18. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
 19. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-20. https://ui.adsabs.harvard.edu/v1/search/query?q=65.+N+=+N_0+e^{-\lambda+t}
-21. https://www.nature.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-22. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
-23. https://www.nature.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-24. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
-25. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-26. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
-27. https://www.nature.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-28. https://ui.adsabs.harvard.edu/v1/search/query?q=65.+N+=+N_0+e^{-\lambda+t}
+20. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
+21. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
+22. https://www.nature.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
+23. https://arxiv.org/search/?query=65.+N+=+N_0+e^{-\lambda+t}
+24. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
+25. https://www.nature.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
+26. https://arxiv.org/search/?query=65.+N+=+N_0+e^{-\lambda+t}
+27. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
+28. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
 29. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
-30. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-31. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-32. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
-33. https://arxiv.org/search/?query=65.+N+=+N_0+e^{-\lambda+t}
-34. https://ui.adsabs.harvard.edu/v1/search/query?q=65.+N+=+N_0+e^{-\lambda+t}
-35. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
-36. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
-37. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
-38. https://ocw.mit.edu/search/?q=65.+N+=+N_0+e^{-\lambda+t}
-39. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
-40. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
+30. https://ui.adsabs.harvard.edu/v1/search/query?q=65.+N+=+N_0+e^{-\lambda+t}
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=65.+N+=+N_0+e^{-\lambda+t}
+32. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
+33. https://ui.adsabs.harvard.edu/v1/search/query?q=65.+N+=+N_0+e^{-\lambda+t}
+34. https://arxiv.org/search/?query=65.+N+=+N_0+e^{-\lambda+t}
+35. https://ui.adsabs.harvard.edu/v1/search/query?q=65.+N+=+N_0+e^{-\lambda+t}
+36. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
+37. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
+38. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}
+39. https://dash.harvard.edu/server/api/search?q=65.+N+=+N_0+e^{-\lambda+t}
+40. https://research.ibm.com/search?q=65.+N+=+N_0+e^{-\lambda+t}

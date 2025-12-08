@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 3555
-Token Value: 2477
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:35:56.150259 / 00:00
+Token #: 3047
+Token Value: 3751
+Token Color: RED
+Token Date & Time: 2025-12-07T18:37:18.536062 / 00:00
 Topic: ionization singularity
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://www.nature.com/search?q=ionization+singularity
+1. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
 2. https://www.nature.com/search?q=ionization+singularity
-3. https://ocw.mit.edu/search/?q=ionization+singularity
+3. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
 4. https://research.ibm.com/search?q=ionization+singularity
-5. https://dash.harvard.edu/server/api/search?q=ionization+singularity
+5. https://ocw.mit.edu/search/?q=ionization+singularity
 6. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
-7. https://research.ibm.com/search?q=ionization+singularity
-8. https://ocw.mit.edu/search/?q=ionization+singularity
-9. https://www.nature.com/search?q=ionization+singularity
-10. https://dash.harvard.edu/server/api/search?q=ionization+singularity
-11. https://www.nature.com/search?q=ionization+singularity
-12. https://ocw.mit.edu/search/?q=ionization+singularity
-13. https://research.ibm.com/search?q=ionization+singularity
-14. https://www.nature.com/search?q=ionization+singularity
-15. https://dash.harvard.edu/server/api/search?q=ionization+singularity
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
-17. https://research.ibm.com/search?q=ionization+singularity
+7. https://www.nature.com/search?q=ionization+singularity
+8. https://research.ibm.com/search?q=ionization+singularity
+9. https://ocw.mit.edu/search/?q=ionization+singularity
+10. https://www.nature.com/search?q=ionization+singularity
+11. https://ocw.mit.edu/search/?q=ionization+singularity
+12. https://dash.harvard.edu/server/api/search?q=ionization+singularity
+13. https://www.nature.com/search?q=ionization+singularity
+14. https://dash.harvard.edu/server/api/search?q=ionization+singularity
+15. https://research.ibm.com/search?q=ionization+singularity
+16. https://arxiv.org/search/?query=ionization+singularity
+17. https://arxiv.org/search/?query=ionization+singularity
 18. https://ocw.mit.edu/search/?q=ionization+singularity
 19. https://arxiv.org/search/?query=ionization+singularity
-20. https://dash.harvard.edu/server/api/search?q=ionization+singularity
-21. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
-22. https://ocw.mit.edu/search/?q=ionization+singularity
-23. https://arxiv.org/search/?query=ionization+singularity
+20. https://research.ibm.com/search?q=ionization+singularity
+21. https://dash.harvard.edu/server/api/search?q=ionization+singularity
+22. https://arxiv.org/search/?query=ionization+singularity
+23. https://ocw.mit.edu/search/?q=ionization+singularity
 24. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
-25. https://www.nature.com/search?q=ionization+singularity
-26. https://arxiv.org/search/?query=ionization+singularity
-27. https://www.nature.com/search?q=ionization+singularity
-28. https://www.nature.com/search?q=ionization+singularity
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
-30. https://arxiv.org/search/?query=ionization+singularity
-31. https://ocw.mit.edu/search/?q=ionization+singularity
-32. https://arxiv.org/search/?query=ionization+singularity
-33. https://www.nature.com/search?q=ionization+singularity
-34. https://dash.harvard.edu/server/api/search?q=ionization+singularity
-35. https://dash.harvard.edu/server/api/search?q=ionization+singularity
-36. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
-37. https://research.ibm.com/search?q=ionization+singularity
-38. https://arxiv.org/search/?query=ionization+singularity
-39. https://arxiv.org/search/?query=ionization+singularity
-40. https://research.ibm.com/search?q=ionization+singularity
+25. https://research.ibm.com/search?q=ionization+singularity
+26. https://dash.harvard.edu/server/api/search?q=ionization+singularity
+27. https://ocw.mit.edu/search/?q=ionization+singularity
+28. https://research.ibm.com/search?q=ionization+singularity
+29. https://dash.harvard.edu/server/api/search?q=ionization+singularity
+30. https://ocw.mit.edu/search/?q=ionization+singularity
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
+32. https://ocw.mit.edu/search/?q=ionization+singularity
+33. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
+34. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
+35. https://www.nature.com/search?q=ionization+singularity
+36. https://dash.harvard.edu/server/api/search?q=ionization+singularity
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
+38. https://dash.harvard.edu/server/api/search?q=ionization+singularity
+39. https://ui.adsabs.harvard.edu/v1/search/query?q=ionization+singularity
+40. https://ocw.mit.edu/search/?q=ionization+singularity

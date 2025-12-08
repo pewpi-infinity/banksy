@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 2035
-Token Value: 5066
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:35:56.174653 / 00:00
+Token #: 8041
+Token Value: 4515
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:37:18.553188 / 00:00
 Topic: 4. Orbital velocity (circular): \( v_{orb} = \sqrt{\frac{GM}{r}} \)
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-2. https://ui.adsabs.harvard.edu/v1/search/query?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-3. https://ocw.mit.edu/search/?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-4. https://ocw.mit.edu/search/?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+1. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+2. https://ocw.mit.edu/search/?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+3. https://arxiv.org/search/?query=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+4. https://www.nature.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
 5. https://arxiv.org/search/?query=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-6. https://ui.adsabs.harvard.edu/v1/search/query?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-7. https://ocw.mit.edu/search/?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-8. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-10. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-11. https://ui.adsabs.harvard.edu/v1/search/query?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-12. https://ocw.mit.edu/search/?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-13. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-14. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+6. https://www.nature.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+7. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+8. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+9. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+10. https://ui.adsabs.harvard.edu/v1/search/query?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+11. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+12. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+13. https://ui.adsabs.harvard.edu/v1/search/query?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+14. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
 15. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-16. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+16. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
 17. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-18. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+18. https://ui.adsabs.harvard.edu/v1/search/query?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
 19. https://ui.adsabs.harvard.edu/v1/search/query?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-20. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-21. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-22. https://arxiv.org/search/?query=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-23. https://arxiv.org/search/?query=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-24. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-25. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+20. https://www.nature.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+21. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+22. https://www.nature.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+23. https://www.nature.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+24. https://arxiv.org/search/?query=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
 26. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-27. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-28. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-29. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+27. https://arxiv.org/search/?query=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+28. https://ocw.mit.edu/search/?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+29. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
 30. https://arxiv.org/search/?query=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
 31. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
 32. https://ocw.mit.edu/search/?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-33. https://ui.adsabs.harvard.edu/v1/search/query?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+33. https://www.nature.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
 34. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
 35. https://www.nature.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-36. https://www.nature.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-37. https://arxiv.org/search/?query=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+36. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
 38. https://research.ibm.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-39. https://arxiv.org/search/?query=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
-40. https://dash.harvard.edu/server/api/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+39. https://www.nature.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)
+40. https://www.nature.com/search?q=4.+Orbital+velocity+(circular):+\(+v_{orb}+=+\sqrt{\frac{GM}{r}}+\)

@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 5484
-Token Value: 3209
-Token Color: BLUE
-Token Date & Time: 2025-12-07T18:35:56.652797 / 00:00
+Token #: 8809
+Token Value: 3310
+Token Color: GREEN
+Token Date & Time: 2025-12-07T18:37:20.073721 / 00:00
 Topic: 10. P = IV
 ============================================
 
@@ -297,42 +297,42 @@ Mathematical Model 40:
 
 ## Reference Index (40 Sources)
 1. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
-2. https://www.nature.com/search?q=10.+P+=+IV
+2. https://ui.adsabs.harvard.edu/v1/search/query?q=10.+P+=+IV
 3. https://ui.adsabs.harvard.edu/v1/search/query?q=10.+P+=+IV
-4. https://www.nature.com/search?q=10.+P+=+IV
+4. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
 5. https://research.ibm.com/search?q=10.+P+=+IV
-6. https://ocw.mit.edu/search/?q=10.+P+=+IV
-7. https://arxiv.org/search/?query=10.+P+=+IV
+6. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
+7. https://www.nature.com/search?q=10.+P+=+IV
 8. https://arxiv.org/search/?query=10.+P+=+IV
-9. https://research.ibm.com/search?q=10.+P+=+IV
-10. https://arxiv.org/search/?query=10.+P+=+IV
-11. https://ocw.mit.edu/search/?q=10.+P+=+IV
-12. https://arxiv.org/search/?query=10.+P+=+IV
-13. https://research.ibm.com/search?q=10.+P+=+IV
-14. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=10.+P+=+IV
-16. https://research.ibm.com/search?q=10.+P+=+IV
+9. https://arxiv.org/search/?query=10.+P+=+IV
+10. https://research.ibm.com/search?q=10.+P+=+IV
+11. https://arxiv.org/search/?query=10.+P+=+IV
+12. https://ui.adsabs.harvard.edu/v1/search/query?q=10.+P+=+IV
+13. https://ocw.mit.edu/search/?q=10.+P+=+IV
+14. https://arxiv.org/search/?query=10.+P+=+IV
+15. https://www.nature.com/search?q=10.+P+=+IV
+16. https://ui.adsabs.harvard.edu/v1/search/query?q=10.+P+=+IV
 17. https://www.nature.com/search?q=10.+P+=+IV
-18. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
-19. https://ocw.mit.edu/search/?q=10.+P+=+IV
-20. https://www.nature.com/search?q=10.+P+=+IV
-21. https://ui.adsabs.harvard.edu/v1/search/query?q=10.+P+=+IV
-22. https://www.nature.com/search?q=10.+P+=+IV
-23. https://arxiv.org/search/?query=10.+P+=+IV
-24. https://arxiv.org/search/?query=10.+P+=+IV
-25. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
-26. https://arxiv.org/search/?query=10.+P+=+IV
-27. https://research.ibm.com/search?q=10.+P+=+IV
-28. https://www.nature.com/search?q=10.+P+=+IV
-29. https://arxiv.org/search/?query=10.+P+=+IV
-30. https://ui.adsabs.harvard.edu/v1/search/query?q=10.+P+=+IV
+18. https://ui.adsabs.harvard.edu/v1/search/query?q=10.+P+=+IV
+19. https://arxiv.org/search/?query=10.+P+=+IV
+20. https://ocw.mit.edu/search/?q=10.+P+=+IV
+21. https://arxiv.org/search/?query=10.+P+=+IV
+22. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
+23. https://www.nature.com/search?q=10.+P+=+IV
+24. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
+25. https://research.ibm.com/search?q=10.+P+=+IV
+26. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
+27. https://ui.adsabs.harvard.edu/v1/search/query?q=10.+P+=+IV
+28. https://research.ibm.com/search?q=10.+P+=+IV
+29. https://ocw.mit.edu/search/?q=10.+P+=+IV
+30. https://ocw.mit.edu/search/?q=10.+P+=+IV
 31. https://ui.adsabs.harvard.edu/v1/search/query?q=10.+P+=+IV
-32. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
-33. https://ocw.mit.edu/search/?q=10.+P+=+IV
-34. https://arxiv.org/search/?query=10.+P+=+IV
+32. https://ocw.mit.edu/search/?q=10.+P+=+IV
+33. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
+34. https://ocw.mit.edu/search/?q=10.+P+=+IV
 35. https://arxiv.org/search/?query=10.+P+=+IV
-36. https://arxiv.org/search/?query=10.+P+=+IV
+36. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
 37. https://research.ibm.com/search?q=10.+P+=+IV
-38. https://arxiv.org/search/?query=10.+P+=+IV
-39. https://arxiv.org/search/?query=10.+P+=+IV
-40. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
+38. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
+39. https://dash.harvard.edu/server/api/search?q=10.+P+=+IV
+40. https://arxiv.org/search/?query=10.+P+=+IV
