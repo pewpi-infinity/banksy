@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 7152
-Token Value: 3856
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:37:19.979768 / 00:00
+Token #: 3949
+Token Value: 2244
+Token Color: YELLOW
+Token Date & Time: 2025-12-07T18:39:48.677194 / 00:00
 Topic: 7. \nabla \times \vec{E} = -\frac{\partial \vec{B}}{\partial t}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+1. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
 2. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
 3. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
 4. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-5. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-6. https://ocw.mit.edu/search/?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-7. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-8. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+5. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+6. https://arxiv.org/search/?query=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+7. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+8. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+9. https://ocw.mit.edu/search/?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
 10. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-11. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-12. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-13. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-14. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-15. https://ocw.mit.edu/search/?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-17. https://research.ibm.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+11. https://arxiv.org/search/?query=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+12. https://arxiv.org/search/?query=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+13. https://arxiv.org/search/?query=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+14. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+16. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+17. https://arxiv.org/search/?query=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
 18. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-19. https://arxiv.org/search/?query=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-20. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-21. https://ocw.mit.edu/search/?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-22. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-23. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+19. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+21. https://arxiv.org/search/?query=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+22. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+23. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
 24. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
 25. https://ocw.mit.edu/search/?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-26. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-27. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-28. https://research.ibm.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-29. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-30. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-31. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-32. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-33. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-34. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-35. https://research.ibm.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-36. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+26. https://ocw.mit.edu/search/?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+27. https://ocw.mit.edu/search/?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+28. https://ocw.mit.edu/search/?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+29. https://research.ibm.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+30. https://arxiv.org/search/?query=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+31. https://ocw.mit.edu/search/?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+32. https://arxiv.org/search/?query=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+33. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+34. https://arxiv.org/search/?query=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+35. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
 37. https://ocw.mit.edu/search/?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-38. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-39. https://www.nature.com/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
-40. https://dash.harvard.edu/server/api/search?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+38. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+39. https://ui.adsabs.harvard.edu/v1/search/query?q=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}
+40. https://arxiv.org/search/?query=7.+\nabla+\times+\vec{E}+=+-\frac{\partial+\vec{B}}{\partial+t}

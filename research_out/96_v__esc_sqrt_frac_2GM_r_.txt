@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 1635
-Token Value: 5155
-Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:37:22.117612 / 00:00
+Token #: 6809
+Token Value: 4865
+Token Color: RED
+Token Date & Time: 2025-12-07T18:39:48.899065 / 00:00
 Topic: 96. v_{esc} = \sqrt{\frac{2GM}{r}}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-2. https://dash.harvard.edu/server/api/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-4. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+1. https://arxiv.org/search/?query=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+2. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+3. https://arxiv.org/search/?query=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+4. https://dash.harvard.edu/server/api/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
 5. https://research.ibm.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
 6. https://ocw.mit.edu/search/?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-7. https://ocw.mit.edu/search/?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-9. https://ocw.mit.edu/search/?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-10. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-11. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-12. https://research.ibm.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+7. https://arxiv.org/search/?query=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+8. https://dash.harvard.edu/server/api/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+9. https://dash.harvard.edu/server/api/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+10. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+11. https://arxiv.org/search/?query=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+12. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
 13. https://research.ibm.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-14. https://dash.harvard.edu/server/api/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-15. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-16. https://arxiv.org/search/?query=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+14. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+15. https://dash.harvard.edu/server/api/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+16. https://dash.harvard.edu/server/api/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
 17. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-18. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-19. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-20. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-21. https://ocw.mit.edu/search/?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-22. https://arxiv.org/search/?query=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-23. https://dash.harvard.edu/server/api/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-24. https://arxiv.org/search/?query=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-25. https://ocw.mit.edu/search/?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-26. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-27. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-28. https://research.ibm.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-29. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-30. https://dash.harvard.edu/server/api/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-31. https://ocw.mit.edu/search/?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-32. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-33. https://research.ibm.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-34. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-35. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-36. https://research.ibm.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-37. https://research.ibm.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-38. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-39. https://research.ibm.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
-40. https://research.ibm.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+18. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+19. https://dash.harvard.edu/server/api/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+20. https://arxiv.org/search/?query=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+22. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+23. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+24. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+26. https://ocw.mit.edu/search/?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+27. https://dash.harvard.edu/server/api/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+28. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+29. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+30. https://arxiv.org/search/?query=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+31. https://research.ibm.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+32. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+33. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+34. https://ocw.mit.edu/search/?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+35. https://ui.adsabs.harvard.edu/v1/search/query?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+36. https://arxiv.org/search/?query=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+37. https://ocw.mit.edu/search/?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+38. https://research.ibm.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+39. https://ocw.mit.edu/search/?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}
+40. https://www.nature.com/search?q=96.+v_{esc}+=+\sqrt{\frac{2GM}{r}}

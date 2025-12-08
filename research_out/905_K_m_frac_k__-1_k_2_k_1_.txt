@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 6771
-Token Value: 5928
-Token Color: BLUE
-Token Date & Time: 2025-12-07T18:37:26.306645 / 00:00
+Token #: 1487
+Token Value: 5932
+Token Color: RED
+Token Date & Time: 2025-12-07T18:39:49.080515 / 00:00
 Topic: 905. K_m = \frac{k_{-1} + k_2}{k_1}
 ============================================
 
@@ -297,42 +297,42 @@ Mathematical Model 40:
 
 ## Reference Index (40 Sources)
 1. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-2. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-5. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-6. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-7. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+2. https://ocw.mit.edu/search/?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+3. https://www.nature.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+4. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+5. https://www.nature.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+6. https://ocw.mit.edu/search/?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+7. https://ocw.mit.edu/search/?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
 8. https://arxiv.org/search/?query=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-9. https://arxiv.org/search/?query=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-10. https://ocw.mit.edu/search/?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-11. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+9. https://ocw.mit.edu/search/?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+10. https://arxiv.org/search/?query=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+11. https://arxiv.org/search/?query=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
 12. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-13. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-14. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-15. https://ocw.mit.edu/search/?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-17. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+13. https://arxiv.org/search/?query=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+14. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+15. https://www.nature.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+16. https://ocw.mit.edu/search/?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+17. https://www.nature.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
 18. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-19. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-20. https://ocw.mit.edu/search/?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-21. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-22. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+19. https://arxiv.org/search/?query=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+20. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+22. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
 23. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-24. https://ocw.mit.edu/search/?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-25. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+24. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+25. https://www.nature.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
 26. https://www.nature.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-27. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-28. https://www.nature.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-29. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-30. https://arxiv.org/search/?query=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-31. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-32. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-33. https://ocw.mit.edu/search/?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-34. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-35. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-36. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-37. https://www.nature.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-38. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-39. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
-40. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+27. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+28. https://arxiv.org/search/?query=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+29. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+30. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+31. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+32. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+33. https://www.nature.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+34. https://www.nature.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+35. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+36. https://research.ibm.com/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+37. https://dash.harvard.edu/server/api/search?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+38. https://arxiv.org/search/?query=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+39. https://ocw.mit.edu/search/?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}
+40. https://ui.adsabs.harvard.edu/v1/search/query?q=905.+K_m+=+\frac{k_{-1}+++k_2}{k_1}

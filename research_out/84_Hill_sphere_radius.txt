@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 1540
-Token Value: 2343
-Token Color: RED
-Token Date & Time: 2025-12-07T18:37:19.361066 / 00:00
+Token #: 5241
+Token Value: 5063
+Token Color: PURPLE
+Token Date & Time: 2025-12-07T18:39:47.573502 / 00:00
 Topic: 84. Hill sphere radius
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=84.+Hill+sphere+radius
-2. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
+1. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
+2. https://research.ibm.com/search?q=84.+Hill+sphere+radius
 3. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
 4. https://research.ibm.com/search?q=84.+Hill+sphere+radius
-5. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
-6. https://arxiv.org/search/?query=84.+Hill+sphere+radius
-7. https://arxiv.org/search/?query=84.+Hill+sphere+radius
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
-10. https://www.nature.com/search?q=84.+Hill+sphere+radius
+5. https://ocw.mit.edu/search/?q=84.+Hill+sphere+radius
+6. https://www.nature.com/search?q=84.+Hill+sphere+radius
+7. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
+8. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
+9. https://ocw.mit.edu/search/?q=84.+Hill+sphere+radius
+10. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
 11. https://research.ibm.com/search?q=84.+Hill+sphere+radius
-12. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
-13. https://arxiv.org/search/?query=84.+Hill+sphere+radius
-14. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
+12. https://arxiv.org/search/?query=84.+Hill+sphere+radius
+13. https://www.nature.com/search?q=84.+Hill+sphere+radius
+14. https://research.ibm.com/search?q=84.+Hill+sphere+radius
+15. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
 16. https://ocw.mit.edu/search/?q=84.+Hill+sphere+radius
 17. https://arxiv.org/search/?query=84.+Hill+sphere+radius
-18. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
-19. https://arxiv.org/search/?query=84.+Hill+sphere+radius
-20. https://arxiv.org/search/?query=84.+Hill+sphere+radius
-21. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
-22. https://research.ibm.com/search?q=84.+Hill+sphere+radius
-23. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
+18. https://research.ibm.com/search?q=84.+Hill+sphere+radius
+19. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
+22. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
+23. https://ocw.mit.edu/search/?q=84.+Hill+sphere+radius
 24. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
-25. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
+25. https://ocw.mit.edu/search/?q=84.+Hill+sphere+radius
 26. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
-27. https://arxiv.org/search/?query=84.+Hill+sphere+radius
-28. https://research.ibm.com/search?q=84.+Hill+sphere+radius
-29. https://arxiv.org/search/?query=84.+Hill+sphere+radius
+27. https://research.ibm.com/search?q=84.+Hill+sphere+radius
+28. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
+29. https://ocw.mit.edu/search/?q=84.+Hill+sphere+radius
 30. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
 31. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
-32. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
-33. https://ocw.mit.edu/search/?q=84.+Hill+sphere+radius
-34. https://research.ibm.com/search?q=84.+Hill+sphere+radius
+32. https://ocw.mit.edu/search/?q=84.+Hill+sphere+radius
+33. https://arxiv.org/search/?query=84.+Hill+sphere+radius
+34. https://ocw.mit.edu/search/?q=84.+Hill+sphere+radius
 35. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
-36. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
-37. https://arxiv.org/search/?query=84.+Hill+sphere+radius
-38. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
-39. https://dash.harvard.edu/server/api/search?q=84.+Hill+sphere+radius
+36. https://arxiv.org/search/?query=84.+Hill+sphere+radius
+37. https://research.ibm.com/search?q=84.+Hill+sphere+radius
+38. https://research.ibm.com/search?q=84.+Hill+sphere+radius
+39. https://ui.adsabs.harvard.edu/v1/search/query?q=84.+Hill+sphere+radius
 40. https://ocw.mit.edu/search/?q=84.+Hill+sphere+radius

@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 2518
-Token Value: 5485
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:37:19.368208 / 00:00
+Token #: 5887
+Token Value: 3888
+Token Color: PURPLE
+Token Date & Time: 2025-12-07T18:39:47.993320 / 00:00
 Topic: 86. Poynting–Robertson drag
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://arxiv.org/search/?query=86.+Poynting–Robertson+drag
-2. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
-3. https://arxiv.org/search/?query=86.+Poynting–Robertson+drag
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
-5. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
-6. https://ocw.mit.edu/search/?q=86.+Poynting–Robertson+drag
-7. https://www.nature.com/search?q=86.+Poynting–Robertson+drag
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
-9. https://www.nature.com/search?q=86.+Poynting–Robertson+drag
+1. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
+2. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
+3. https://ocw.mit.edu/search/?q=86.+Poynting–Robertson+drag
+4. https://ocw.mit.edu/search/?q=86.+Poynting–Robertson+drag
+5. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
+6. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
+7. https://ocw.mit.edu/search/?q=86.+Poynting–Robertson+drag
+8. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
+9. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
 10. https://arxiv.org/search/?query=86.+Poynting–Robertson+drag
-11. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
-12. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
-13. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
+11. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
+12. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
+13. https://arxiv.org/search/?query=86.+Poynting–Robertson+drag
 14. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
-15. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
-16. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
-17. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
+15. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
+16. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
+17. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
 18. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
-19. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
-20. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
-21. https://ocw.mit.edu/search/?q=86.+Poynting–Robertson+drag
-22. https://www.nature.com/search?q=86.+Poynting–Robertson+drag
-23. https://www.nature.com/search?q=86.+Poynting–Robertson+drag
-24. https://www.nature.com/search?q=86.+Poynting–Robertson+drag
-25. https://arxiv.org/search/?query=86.+Poynting–Robertson+drag
+19. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
+20. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
+21. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
+22. https://ocw.mit.edu/search/?q=86.+Poynting–Robertson+drag
+23. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
+24. https://arxiv.org/search/?query=86.+Poynting–Robertson+drag
+25. https://www.nature.com/search?q=86.+Poynting–Robertson+drag
 26. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
-27. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
-28. https://arxiv.org/search/?query=86.+Poynting–Robertson+drag
+27. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
+28. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
 29. https://ocw.mit.edu/search/?q=86.+Poynting–Robertson+drag
 30. https://arxiv.org/search/?query=86.+Poynting–Robertson+drag
-31. https://ocw.mit.edu/search/?q=86.+Poynting–Robertson+drag
-32. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
-33. https://www.nature.com/search?q=86.+Poynting–Robertson+drag
-34. https://arxiv.org/search/?query=86.+Poynting–Robertson+drag
+31. https://www.nature.com/search?q=86.+Poynting–Robertson+drag
+32. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
+33. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
+34. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
 35. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
-36. https://www.nature.com/search?q=86.+Poynting–Robertson+drag
-37. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
-38. https://dash.harvard.edu/server/api/search?q=86.+Poynting–Robertson+drag
-39. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
-40. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
+37. https://research.ibm.com/search?q=86.+Poynting–Robertson+drag
+38. https://ui.adsabs.harvard.edu/v1/search/query?q=86.+Poynting–Robertson+drag
+39. https://arxiv.org/search/?query=86.+Poynting–Robertson+drag
+40. https://arxiv.org/search/?query=86.+Poynting–Robertson+drag

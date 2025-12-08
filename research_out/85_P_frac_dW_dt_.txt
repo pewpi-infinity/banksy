@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 4675
-Token Value: 3199
-Token Color: RED
-Token Date & Time: 2025-12-07T18:37:21.756398 / 00:00
+Token #: 3156
+Token Value: 5510
+Token Color: GREEN
+Token Date & Time: 2025-12-07T18:39:48.871334 / 00:00
 Topic: 85. P = \frac{dW}{dt}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
-2. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
-4. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
-6. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
-7. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
-8. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
-9. https://ocw.mit.edu/search/?q=85.+P+=+\frac{dW}{dt}
+1. https://arxiv.org/search/?query=85.+P+=+\frac{dW}{dt}
+2. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
+3. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
+4. https://ocw.mit.edu/search/?q=85.+P+=+\frac{dW}{dt}
+5. https://ocw.mit.edu/search/?q=85.+P+=+\frac{dW}{dt}
+6. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
+7. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
+8. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
+9. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
 10. https://research.ibm.com/search?q=85.+P+=+\frac{dW}{dt}
-11. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
-12. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
-13. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
-14. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
-15. https://arxiv.org/search/?query=85.+P+=+\frac{dW}{dt}
-16. https://research.ibm.com/search?q=85.+P+=+\frac{dW}{dt}
-17. https://ocw.mit.edu/search/?q=85.+P+=+\frac{dW}{dt}
-18. https://research.ibm.com/search?q=85.+P+=+\frac{dW}{dt}
-19. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
-20. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
-21. https://research.ibm.com/search?q=85.+P+=+\frac{dW}{dt}
+11. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
+12. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
+13. https://research.ibm.com/search?q=85.+P+=+\frac{dW}{dt}
+14. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
+16. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
+17. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
+18. https://ocw.mit.edu/search/?q=85.+P+=+\frac{dW}{dt}
+19. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
+20. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
+21. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
 22. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
-23. https://research.ibm.com/search?q=85.+P+=+\frac{dW}{dt}
-24. https://arxiv.org/search/?query=85.+P+=+\frac{dW}{dt}
+23. https://arxiv.org/search/?query=85.+P+=+\frac{dW}{dt}
+24. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
 25. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
 26. https://arxiv.org/search/?query=85.+P+=+\frac{dW}{dt}
-27. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
-28. https://arxiv.org/search/?query=85.+P+=+\frac{dW}{dt}
-29. https://arxiv.org/search/?query=85.+P+=+\frac{dW}{dt}
-30. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
-31. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
+27. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
+28. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
+29. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
+30. https://ocw.mit.edu/search/?q=85.+P+=+\frac{dW}{dt}
+31. https://research.ibm.com/search?q=85.+P+=+\frac{dW}{dt}
 32. https://ocw.mit.edu/search/?q=85.+P+=+\frac{dW}{dt}
-33. https://research.ibm.com/search?q=85.+P+=+\frac{dW}{dt}
+33. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
 34. https://ocw.mit.edu/search/?q=85.+P+=+\frac{dW}{dt}
-35. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}
+35. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
 36. https://arxiv.org/search/?query=85.+P+=+\frac{dW}{dt}
-37. https://research.ibm.com/search?q=85.+P+=+\frac{dW}{dt}
-38. https://research.ibm.com/search?q=85.+P+=+\frac{dW}{dt}
-39. https://research.ibm.com/search?q=85.+P+=+\frac{dW}{dt}
-40. https://www.nature.com/search?q=85.+P+=+\frac{dW}{dt}
+37. https://arxiv.org/search/?query=85.+P+=+\frac{dW}{dt}
+38. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+P+=+\frac{dW}{dt}
+39. https://arxiv.org/search/?query=85.+P+=+\frac{dW}{dt}
+40. https://dash.harvard.edu/server/api/search?q=85.+P+=+\frac{dW}{dt}

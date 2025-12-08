@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 9638
-Token Value: 2825
-Token Color: RED
-Token Date & Time: 2025-12-07T18:37:24.400221 / 00:00
+Token #: 6193
+Token Value: 3256
+Token Color: YELLOW
+Token Date & Time: 2025-12-07T18:39:48.986082 / 00:00
 Topic: 306. P = -\left(\frac{\partial F}{\partial V}\right)_T
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-2. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-4. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-5. https://dash.harvard.edu/server/api/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-6. https://ui.adsabs.harvard.edu/v1/search/query?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-7. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-8. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+1. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+2. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+3. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+4. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+5. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+6. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+7. https://ui.adsabs.harvard.edu/v1/search/query?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+8. https://dash.harvard.edu/server/api/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
 9. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-10. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-11. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-12. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-13. https://dash.harvard.edu/server/api/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+10. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+11. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+12. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+13. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
 14. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-15. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-16. https://dash.harvard.edu/server/api/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-17. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-18. https://ui.adsabs.harvard.edu/v1/search/query?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-19. https://dash.harvard.edu/server/api/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+15. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+16. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+17. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+18. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+19. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
 20. https://dash.harvard.edu/server/api/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
 21. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
 22. https://ui.adsabs.harvard.edu/v1/search/query?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-23. https://dash.harvard.edu/server/api/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-24. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-25. https://dash.harvard.edu/server/api/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-26. https://dash.harvard.edu/server/api/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-27. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-28. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-29. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-30. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-31. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-32. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-33. https://dash.harvard.edu/server/api/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-34. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-35. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-36. https://dash.harvard.edu/server/api/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-37. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-38. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-39. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
-40. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+23. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+24. https://ui.adsabs.harvard.edu/v1/search/query?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+25. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+26. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+27. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+28. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+29. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+30. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+31. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+32. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+33. https://research.ibm.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+34. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+35. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+36. https://www.nature.com/search?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+38. https://ocw.mit.edu/search/?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+39. https://ui.adsabs.harvard.edu/v1/search/query?q=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T
+40. https://arxiv.org/search/?query=306.+P+=+-\left(\frac{\partial+F}{\partial+V}\right)_T

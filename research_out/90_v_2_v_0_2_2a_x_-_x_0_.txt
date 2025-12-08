@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 8080
-Token Value: 3738
-Token Color: RED
-Token Date & Time: 2025-12-07T18:37:21.896951 / 00:00
+Token #: 8158
+Token Value: 4340
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:39:48.883775 / 00:00
 Topic: 90. v^2 = v_0^2 + 2a(x - x_0)
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+1. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
 2. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
 3. https://www.nature.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-4. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+4. https://www.nature.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
 5. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
 6. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-7. https://www.nature.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+7. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
 8. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
 9. https://research.ibm.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-10. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-11. https://www.nature.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+10. https://www.nature.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+11. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
 12. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
 13. https://research.ibm.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-14. https://www.nature.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-15. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-16. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+14. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+15. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+16. https://arxiv.org/search/?query=90.+v^2+=+v_0^2+++2a(x+-+x_0)
 17. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
 18. https://www.nature.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-19. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-20. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-21. https://www.nature.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-22. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-23. https://www.nature.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-24. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-25. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-26. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-27. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-28. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-29. https://research.ibm.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-30. https://research.ibm.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-31. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-32. https://www.nature.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-33. https://arxiv.org/search/?query=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-34. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-35. https://arxiv.org/search/?query=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-36. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-37. https://research.ibm.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-38. https://research.ibm.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-39. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
-40. https://arxiv.org/search/?query=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+19. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+20. https://research.ibm.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+21. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+22. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+23. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+24. https://arxiv.org/search/?query=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+25. https://arxiv.org/search/?query=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+26. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+27. https://arxiv.org/search/?query=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+28. https://arxiv.org/search/?query=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+29. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+30. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+32. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+33. https://research.ibm.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+34. https://dash.harvard.edu/server/api/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+35. https://research.ibm.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+36. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+37. https://arxiv.org/search/?query=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+38. https://ocw.mit.edu/search/?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+39. https://arxiv.org/search/?query=90.+v^2+=+v_0^2+++2a(x+-+x_0)
+40. https://research.ibm.com/search?q=90.+v^2+=+v_0^2+++2a(x+-+x_0)

@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 5588
-Token Value: 3704
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:37:24.236193 / 00:00
+Token #: 5530
+Token Value: 2365
+Token Color: YELLOW
+Token Date & Time: 2025-12-07T18:39:48.970256 / 00:00
 Topic: 301–400: Thermodynamics & statistical mechanics
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-2. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
-3. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-4. https://dash.harvard.edu/server/api/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-5. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
-6. https://research.ibm.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-7. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-8. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
+1. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
+2. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
+3. https://research.ibm.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
+4. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
+5. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
+6. https://dash.harvard.edu/server/api/search?q=301–400:+Thermodynamics+&+statistical+mechanics
+7. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
+8. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
 9. https://ui.adsabs.harvard.edu/v1/search/query?q=301–400:+Thermodynamics+&+statistical+mechanics
-10. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-11. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-12. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
-13. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-14. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=301–400:+Thermodynamics+&+statistical+mechanics
+10. https://research.ibm.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
+11. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
+12. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
+13. https://research.ibm.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
+14. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
+15. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
 16. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
-17. https://research.ibm.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-18. https://ui.adsabs.harvard.edu/v1/search/query?q=301–400:+Thermodynamics+&+statistical+mechanics
-19. https://dash.harvard.edu/server/api/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-20. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-21. https://ui.adsabs.harvard.edu/v1/search/query?q=301–400:+Thermodynamics+&+statistical+mechanics
+17. https://ui.adsabs.harvard.edu/v1/search/query?q=301–400:+Thermodynamics+&+statistical+mechanics
+18. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
+19. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=301–400:+Thermodynamics+&+statistical+mechanics
+21. https://dash.harvard.edu/server/api/search?q=301–400:+Thermodynamics+&+statistical+mechanics
 22. https://dash.harvard.edu/server/api/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-23. https://ui.adsabs.harvard.edu/v1/search/query?q=301–400:+Thermodynamics+&+statistical+mechanics
+23. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
 24. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
-25. https://ui.adsabs.harvard.edu/v1/search/query?q=301–400:+Thermodynamics+&+statistical+mechanics
+25. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
 26. https://research.ibm.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-27. https://research.ibm.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-28. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
-29. https://research.ibm.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-30. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
-31. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-32. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
-33. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
+27. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
+28. https://research.ibm.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
+29. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
+30. https://ui.adsabs.harvard.edu/v1/search/query?q=301–400:+Thermodynamics+&+statistical+mechanics
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=301–400:+Thermodynamics+&+statistical+mechanics
+32. https://ui.adsabs.harvard.edu/v1/search/query?q=301–400:+Thermodynamics+&+statistical+mechanics
+33. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
 34. https://dash.harvard.edu/server/api/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-35. https://ocw.mit.edu/search/?q=301–400:+Thermodynamics+&+statistical+mechanics
+35. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
 36. https://dash.harvard.edu/server/api/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-37. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-38. https://research.ibm.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-39. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
-40. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
+37. https://arxiv.org/search/?query=301–400:+Thermodynamics+&+statistical+mechanics
+38. https://dash.harvard.edu/server/api/search?q=301–400:+Thermodynamics+&+statistical+mechanics
+39. https://dash.harvard.edu/server/api/search?q=301–400:+Thermodynamics+&+statistical+mechanics
+40. https://www.nature.com/search?q=301–400:+Thermodynamics+&+statistical+mechanics
