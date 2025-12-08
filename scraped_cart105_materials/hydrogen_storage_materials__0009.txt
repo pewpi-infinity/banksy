@@ -941,9 +941,9 @@ URL: https://www.nature.com?q=hydrogen+storage+materials
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=266671756&amp;t=pos%3Dbillboard%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=-452910601&amp;t=pos%3Dbillboard%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=266671756&amp;t=pos%3Dbillboard%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=-452910601&amp;t=pos%3Dbillboard%26artid%3D/nature"
                  alt="Advertisement"
                  width="970"
                  height="250"/>
@@ -1497,9 +1497,9 @@ URL: https://www.nature.com?q=hydrogen+storage+materials
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=1129439515&amp;t=pos%3Dnative%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=356240102&amp;t=pos%3Dnative%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=1129439515&amp;t=pos%3Dnative%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=356240102&amp;t=pos%3Dnative%26artid%3D/nature"
                  alt="Advertisement"
                  width="2"
                  height="2"/>
@@ -2608,9 +2608,9 @@ URL: https://www.nature.com?q=hydrogen+storage+materials
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=2028974011&amp;t=pos%3Dright%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-328058086&amp;t=pos%3Dright%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=2028974011&amp;t=pos%3Dright%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-328058086&amp;t=pos%3Dright%26artid%3D/nature"
                  alt="Advertisement"
                  width="300"
                  height="250"/>
@@ -2658,8 +2658,8 @@ URL: https://www.nature.com?q=hydrogen+storage+materials
                                    class="app-trending-row__link"
                                    itemprop="url"
                                    data-track="click" data-track-action="view article" data-track-label="link">
-                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;987&amp;types&#x3D;mmmbvtuu"
-                                         alt="Score 987"
+                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;997&amp;types&#x3D;mmbvttuu"
+                                         alt="Score 997"
                                          class="u-mb-8" width="55" height="55" itemprop="image">
                                     <h3 class="u-ma-0 u-h4" itemprop="name headline">
                                         Satellite megaconstellations will threaten space-based astronomy
@@ -2690,8 +2690,8 @@ URL: https://www.nature.com?q=hydrogen+storage+materials
                                    class="app-trending-row__link"
                                    itemprop="url"
                                    data-track="click" data-track-action="view article" data-track-label="link">
-                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;551&amp;types&#x3D;mmbtwuuo"
-                                         alt="Score 551"
+                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;555&amp;types&#x3D;mbttwuuo"
+                                         alt="Score 555"
                                          class="u-mb-8" width="55" height="55" itemprop="image">
                                     <h3 class="u-ma-0 u-h4" itemprop="name headline">
                                         Sustained HIV-1 remission after heterozygous CCR5Δ32 stem cell transplantation
@@ -2739,10 +2739,54 @@ URL: https://www.nature.com?q=hydrogen+storage+materials
                             
                                 <li class="c-list-group__item u-display-flex">
                                     <div class="u-display-flex u-flex-direction-column">
-                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12846678/faculty-positions-at-the-center-for-machine-learning-research-cmlr-peking-university/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
+                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12850660/dean-of-systems-hub/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
                                                               class="u-link-inherit"
                                                               data-track="click"
                                                               data-track-action="Rank:(0)"
+                                                              data-track-category="job-list"
+                                                              data-track-label="12850660">Dean of Systems Hub</a></h4>
+
+                                        <div class="u-mt-auto c-meta">
+                                            <p class="u-ma-0">The Dean of Systems Hub holds both an executive and faculty appointment and serves as a key member of the University’s senior administrative team.</p>
+                                            <p class="u-ma-0 u-mt-8">Guangzhou, Guangdong (CN)</p>
+                                            <p class="u-ma-0 u-mt-8">The Hong Kong University of Science and Technology (Guangzhou)</p>
+                                        </div>
+                                    </div>
+                                    
+                                        <div class="u-hide u-show-at-sm" style="max-width: 150px;">
+                                            <img src="https://www.nature.com/naturecareers/getasset/5d603ab0-769c-4f9e-af1f-bd405490c222/" alt="" class="u-ml-8" loading="lazy">
+                                        </div>
+                                    
+                                </li>
+                            
+                                <li class="c-list-group__item u-display-flex">
+                                    <div class="u-display-flex u-flex-direction-column">
+                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12850659/dean-of-function-hub/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
+                                                              class="u-link-inherit"
+                                                              data-track="click"
+                                                              data-track-action="Rank:(1)"
+                                                              data-track-category="job-list"
+                                                              data-track-label="12850659">Dean of Function Hub</a></h4>
+
+                                        <div class="u-mt-auto c-meta">
+                                            <p class="u-ma-0">The Dean of Function Hub is an executive as well as a faculty appointment and is a member of the senior administrative team of the University.</p>
+                                            <p class="u-ma-0 u-mt-8">Guangzhou, Guangdong (CN)</p>
+                                            <p class="u-ma-0 u-mt-8">The Hong Kong University of Science and Technology (Guangzhou)</p>
+                                        </div>
+                                    </div>
+                                    
+                                        <div class="u-hide u-show-at-sm" style="max-width: 150px;">
+                                            <img src="https://www.nature.com/naturecareers/getasset/5d603ab0-769c-4f9e-af1f-bd405490c222/" alt="" class="u-ml-8" loading="lazy">
+                                        </div>
+                                    
+                                </li>
+                            
+                                <li class="c-list-group__item u-display-flex">
+                                    <div class="u-display-flex u-flex-direction-column">
+                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12846678/faculty-positions-at-the-center-for-machine-learning-research-cmlr-peking-university/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
+                                                              class="u-link-inherit"
+                                                              data-track="click"
+                                                              data-track-action="Rank:(2)"
                                                               data-track-category="job-list"
                                                               data-track-label="12846678">Faculty Positions at the Center for Machine Learning Research (CMLR), Peking University</a></h4>
 
@@ -2764,7 +2808,7 @@ URL: https://www.nature.com?q=hydrogen+storage+materials
                                         <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12850652/early-career-group-leader-opportunities-xuemin-investigator-fudan-university/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
                                                               class="u-link-inherit"
                                                               data-track="click"
-                                                              data-track-action="Rank:(1)"
+                                                              data-track-action="Rank:(3)"
                                                               data-track-category="job-list"
                                                               data-track-label="12850652">Early-Career Group Leader Opportunities: Xuemin Investigator, Fudan University</a></h4>
 
@@ -2786,7 +2830,7 @@ URL: https://www.nature.com?q=hydrogen+storage+materials
                                         <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12840795/global-recruitment-for-faculty-postdocs-and-specialists-at-hangzhou-institute-of-medicine-cas-/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
                                                               class="u-link-inherit"
                                                               data-track="click"
-                                                              data-track-action="Rank:(2)"
+                                                              data-track-action="Rank:(4)"
                                                               data-track-category="job-list"
                                                               data-track-label="12840795">Global Recruitment for Faculty, Postdocs, and Specialists at Hangzhou Institute of Medicine, CAS</a></h4>
 
@@ -2799,50 +2843,6 @@ URL: https://www.nature.com?q=hydrogen+storage+materials
                                     
                                         <div class="u-hide u-show-at-sm" style="max-width: 150px;">
                                             <img src="https://www.nature.com/naturecareers/getasset/1c3bae40-91a7-4f46-8e23-c2fa83848be4/" alt="" class="u-ml-8" loading="lazy">
-                                        </div>
-                                    
-                                </li>
-                            
-                                <li class="c-list-group__item u-display-flex">
-                                    <div class="u-display-flex u-flex-direction-column">
-                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12848333/open-rank-faculty-position-tenure-teaching-research-stream-school-of-science-and-engineering/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
-                                                              class="u-link-inherit"
-                                                              data-track="click"
-                                                              data-track-action="Rank:(3)"
-                                                              data-track-category="job-list"
-                                                              data-track-label="12848333">Open Rank Faculty Position (Tenure/Teaching/Research Stream) - School of Science and Engineering</a></h4>
-
-                                        <div class="u-mt-auto c-meta">
-                                            <p class="u-ma-0">Join CUHK-Shenzhen&#x27;s School of Science and Engineering! We are hiring tenure/teaching/research faculty (full, associate &amp; assistant professors)</p>
-                                            <p class="u-ma-0 u-mt-8">Shenzhen, Guangdong (CN)</p>
-                                            <p class="u-ma-0 u-mt-8">The School of Science and Engineering (SSE) at the CUHK-Shenzhen</p>
-                                        </div>
-                                    </div>
-                                    
-                                        <div class="u-hide u-show-at-sm" style="max-width: 150px;">
-                                            <img src="https://www.nature.com/naturecareers/getasset/c33f297e-6a62-44cf-87d2-a6f220a7df99/" alt="" class="u-ml-8" loading="lazy">
-                                        </div>
-                                    
-                                </li>
-                            
-                                <li class="c-list-group__item u-display-flex">
-                                    <div class="u-display-flex u-flex-direction-column">
-                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12844354/senior-engineer-i-brain-nanofabrication-facility/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
-                                                              class="u-link-inherit"
-                                                              data-track="click"
-                                                              data-track-action="Rank:(4)"
-                                                              data-track-category="job-list"
-                                                              data-track-label="12844354">Senior Engineer – i-BRAIN Nanofabrication Facility</a></h4>
-
-                                        <div class="u-mt-auto c-meta">
-                                            <p class="u-ma-0">Develop nanofab processes, operate advanced tools includes EBL, KrF Stepper, PL, CDSEM &amp; PVD for cutting-edge BCI research. Fluent English &amp; Mandarin.</p>
-                                            <p class="u-ma-0 u-mt-8">Guangming Distrcit, Shenzhen, China</p>
-                                            <p class="u-ma-0 u-mt-8">Shenzhen Medical Academy of Research and Translation</p>
-                                        </div>
-                                    </div>
-                                    
-                                        <div class="u-hide u-show-at-sm" style="max-width: 150px;">
-                                            <img src="https://www.nature.com/naturecareers/getasset/81e51d7d-627f-4394-9bf9-0f421410d2d5/" alt="" class="u-ml-8" loading="lazy">
                                         </div>
                                     
                                 </li>
@@ -2884,9 +2884,9 @@ URL: https://www.nature.com?q=hydrogen+storage+materials
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-598040708&amp;t=pos%3Dright%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1128384861&amp;t=pos%3Dright%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-598040708&amp;t=pos%3Dright%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1128384861&amp;t=pos%3Dright%26artid%3D/nature"
                  alt="Advertisement"
                  width="300"
                  height="250"/>

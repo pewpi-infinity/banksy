@@ -1,0 +1,51 @@
+{
+  "header": {
+    "token_number": 688229,
+    "token_value": 3196,
+    "token_color": "\u2764\ufe0f RED",
+    "generated": "2025-12-08T02:18:25.813769",
+    "topic": "tellurium equations order dynamics"
+  },
+  "articles": [
+    {
+      "title": "Pressure-induced phase transition in wurtzite ZnTe: an ab initio study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21681441/",
+      "authors": "Alptekin S.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 110042,
+        "article_value": 2161,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-08T02:18:37.362379",
+        "title": "Pressure-induced phase transition in wurtzite ZnTe: an ab initio study."
+      }
+    },
+    {
+      "title": "Hydrothermal synthetic mercaptopropionic acid stabled CdTe quantum dots as fluorescent probes for detection of Ag\u207a.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23041923/",
+      "authors": "Gan TT, Zhang YJ, Zhao NJ, Xiao X, Yin GF, Yu SH, Wang HB, Duan JB, Shi CY, Liu WQ.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 951989,
+        "article_value": 574,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T02:18:37.362450",
+        "title": "Hydrothermal synthetic mercaptopropionic acid stabled CdTe quantum dots as fluorescent probes for detection of Ag\u207a."
+      }
+    },
+    {
+      "source_id": 4,
+      "url": "https://arxiv.org/search/?query=tellurium+equations+order+dynamics",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}

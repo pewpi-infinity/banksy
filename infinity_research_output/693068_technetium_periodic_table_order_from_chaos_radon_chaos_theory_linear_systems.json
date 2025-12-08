@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 693068,
+    "token_value": 1039,
+    "token_color": "\u2764\ufe0f RED",
+    "generated": "2025-12-08T02:17:24.681979",
+    "topic": "technetium periodic table order from chaos radon chaos theory linear systems"
+  },
+  "articles": [
+    {
+      "source_id": 6,
+      "url": "https://arxiv.org/search/?query=technetium+periodic+table+order+from+chaos+radon+chaos+theory+linear+systems",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
