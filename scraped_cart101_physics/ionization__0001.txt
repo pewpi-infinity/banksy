@@ -350,7 +350,7 @@ URL: https://home.cern?q=ionization
                                                                                                                                                                       
                                                                                       <div class="views-element-container form-group">
 
-<div class="view view-cern-news-menu-featured view-id-cern_news_menu_featured view-display-id-block_1 js-view-dom-id-83d6537f5a52ab80f09f853ba56af82686e7e6706fa2aa8fa739388300819906 cern-view-display-block cern-view-display-block_1 clearfix">
+<div class="view view-cern-news-menu-featured view-id-cern_news_menu_featured view-display-id-block_1 js-view-dom-id-04568030c81ba026641fb5e8abc37d548dff05d1fc0360ee1f3e0efadbdc5e2f cern-view-display-block cern-view-display-block_1 clearfix">
   
       
 
@@ -387,7 +387,7 @@ URL: https://home.cern?q=ionization
         
     
     
-<div  data-history-node-id="193013" id="preview-card--33" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2025-11/Enviornmental%20report_image.png?itok=o72N9GrM&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2025-11/Enviornmental%20report_image.png?itok=o72N9GrM"  class="component-preview-cards box-pattern landing_page">
+<div  data-history-node-id="193013" id="preview-card" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2025-11/Enviornmental%20report_image.png?itok=o72N9GrM&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2025-11/Enviornmental%20report_image.png?itok=o72N9GrM"  class="component-preview-cards box-pattern landing_page">
   <a class="box-link" target=""  href="/news/news/cern/cern-reaffirms-its-commitment-environmentally-responsible-research-release-its-4th"></a>
 
         <div class="component-preview-cards__veil"></div>
@@ -434,7 +434,7 @@ URL: https://home.cern?q=ionization
         
     
     
-<div  data-history-node-id="193002" id="preview-card--34" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2025-11/Collide2026_16x9.png.jpeg?itok=gLwBaPMd&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2025-11/Collide2026_16x9.png.jpeg?itok=gLwBaPMd"  class="component-preview-cards box-pattern landing_page">
+<div  data-history-node-id="193002" id="preview-card--2" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2025-11/Collide2026_16x9.png.jpeg?itok=gLwBaPMd&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2025-11/Collide2026_16x9.png.jpeg?itok=gLwBaPMd"  class="component-preview-cards box-pattern landing_page">
   <a class="box-link" target=""  href="/news/news/cern/arts-cern-and-nobel-prize-museum-collaborate-collide-residency"></a>
 
         <div class="component-preview-cards__veil"></div>
@@ -481,7 +481,7 @@ URL: https://home.cern?q=ionization
         
     
     
-<div  data-history-node-id="192993" id="preview-card--35" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2025-11/FCC%20review_image.png?itok=VmYSjlOG&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2025-11/FCC%20review_image.png?itok=VmYSjlOG"  class="component-preview-cards box-pattern landing_page">
+<div  data-history-node-id="192993" id="preview-card--3" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2025-11/FCC%20review_image.png?itok=VmYSjlOG&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2025-11/FCC%20review_image.png?itok=VmYSjlOG"  class="component-preview-cards box-pattern landing_page">
   <a class="box-link" target=""  href="/news/press-release/accelerators/cern-council-reviews-feasibility-study-next-generation-collider"></a>
 
         <div class="component-preview-cards__veil"></div>
@@ -528,7 +528,7 @@ URL: https://home.cern?q=ionization
         
     
     
-<div  data-history-node-id="192974" id="preview-card--36" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2025-11/CMS%20detector%20open%202021_0.jpg?itok=ql2Nj9xX&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2025-11/CMS%20detector%20open%202021_0.jpg?itok=ql2Nj9xX"  class="component-preview-cards box-pattern landing_page">
+<div  data-history-node-id="192974" id="preview-card--4" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2025-11/CMS%20detector%20open%202021_0.jpg?itok=ql2Nj9xX&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2025-11/CMS%20detector%20open%202021_0.jpg?itok=ql2Nj9xX"  class="component-preview-cards box-pattern landing_page">
   <a class="box-link" target=""  href="/news/news/physics/first-observation-single-top-quark-production-w-and-z-bosons"></a>
 
         <div class="component-preview-cards__veil"></div>
@@ -1015,7 +1015,7 @@ URL: https://home.cern?q=ionization
                                                                                                                                                                       
                                                                                       <div class="views-element-container form-group">
 
-<div class="view view-resource-menu-content view-id-resource_menu_content view-display-id-block_1 js-view-dom-id-49a969676eea3ed0aae0a4b694812052573e084c0886bc367f618f0fe22f39b1 cern-view-display-block cern-view-display-block_1 clearfix">
+<div class="view view-resource-menu-content view-id-resource_menu_content view-display-id-block_1 js-view-dom-id-0a858de0e10e82054c639f2c9c78706f4a5f8ad0fdf8f2318deb0f185f86f283 cern-view-display-block cern-view-display-block_1 clearfix">
   
           <h1 class="mb-3 mt-3 text-center">Featured resources</h1>
       
@@ -1046,7 +1046,7 @@ URL: https://home.cern?q=ionization
         
     
     
-<div  data-history-node-id="192778" id="preview-card--37" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2025-09/CERN_Courier-Sep-Oct_2025.jpg?itok=4nsPurAs&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2025-09/CERN_Courier-Sep-Oct_2025.jpg?itok=4nsPurAs"  class="component-preview-cards box-pattern landing_page">
+<div  data-history-node-id="192778" id="preview-card" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2025-09/CERN_Courier-Sep-Oct_2025.jpg?itok=4nsPurAs&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2025-09/CERN_Courier-Sep-Oct_2025.jpg?itok=4nsPurAs"  class="component-preview-cards box-pattern landing_page">
   <a class="box-link" target=""  href="/resources/courier/physics/cern-courier-sepoct-2025"></a>
 
         <div class="component-preview-cards__veil"></div>
@@ -1094,7 +1094,7 @@ URL: https://home.cern?q=ionization
     
     
     
-<div  data-history-node-id="5047" id="preview-card--38" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;//cds.cern.ch/images/CERN-PHOTO-202105-067-19/file?size=medium&#039;) no-repeat center center / cover" data-background="//cds.cern.ch/images/CERN-PHOTO-202105-067-19/file?size=medium"  class="component-preview-cards box-pattern landing_page">
+<div  data-history-node-id="5047" id="preview-card--2" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;//cds.cern.ch/images/CERN-PHOTO-202105-067-19/file?size=medium&#039;) no-repeat center center / cover" data-background="//cds.cern.ch/images/CERN-PHOTO-202105-067-19/file?size=medium"  class="component-preview-cards box-pattern landing_page">
   <a class="box-link" target=""  href="/resources/image/accelerators/high-luminosity-lhc-gallery"></a>
 
         <div class="component-preview-cards__veil"></div>
@@ -1142,7 +1142,7 @@ URL: https://home.cern?q=ionization
         
     
     
-<div  data-history-node-id="5179" id="preview-card--39" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2022-05/FAQ-LHC-EN-cover-min_0_0.JPG?itok=6kjMukRO&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2022-05/FAQ-LHC-EN-cover-min_0_0.JPG?itok=6kjMukRO"  class="component-preview-cards box-pattern landing_page">
+<div  data-history-node-id="5179" id="preview-card--3" class="component-preview-cards box-pattern landing_page" style="background:url(&#039;/sites/default/files/styles/large/public/2022-05/FAQ-LHC-EN-cover-min_0_0.JPG?itok=6kjMukRO&#039;) no-repeat center center / cover" data-background="/sites/default/files/styles/large/public/2022-05/FAQ-LHC-EN-cover-min_0_0.JPG?itok=6kjMukRO"  class="component-preview-cards box-pattern landing_page">
   <a class="box-link" target=""  href="/resources/brochure/knowledge-sharing/lhc-facts-and-figures"></a>
 
         <div class="component-preview-cards__veil"></div>
@@ -1704,7 +1704,7 @@ the boundaries of nuclear physics</p>
 						
 						<div class="views-element-container form-group">
 
-<div class="horizontal-boxes view view-news-microviews view-id-news_microviews view-display-id-block_4 js-view-dom-id-f2942275ef7b78b8c34312ab589fd0207ba817d45ab79e6a148b8fb79cd21050 cern-view-display-block cern-view-display-block_4 clearfix">
+<div class="horizontal-boxes view view-news-microviews view-id-news_microviews view-display-id-block_4 js-view-dom-id-3118c0f9ea09a766351f7651a9b048f5b22e21af01e3c11dc3442f8ab83dbd7b cern-view-display-block cern-view-display-block_4 clearfix">
   
       
 
@@ -2775,9 +2775,9 @@ come to <span style="background-color:#2980b9;">CERN</span> …</span></span></s
 					<div class="box-effects-wrapper ">
 						
 						
-						<div class="views-element-container form-group"><div class="views-element-container form-group">
+						<div class="views-element-container form-group">
 
-<div class="events-collision view view-events-microviews view-id-events_microviews view-display-id-upcoming_events_collision js-view-dom-id-ef840ad9cf8b3bf1879bd3b0dd1474f1a9a2574c4b1eb9d2736973a7022ab752 cern-view-display-block cern-view-display-upcoming_events_collision clearfix">
+<div class="events-collision view view-events-microviews view-id-events_microviews view-display-id-upcoming_events_collision js-view-dom-id-b3ef0d2563353dd222242cbd66c0534ae2b7304e2f3bfc44ddeb61869245f46b cern-view-display-block cern-view-display-upcoming_events_collision clearfix">
   
       
 
@@ -3345,7 +3345,6 @@ come to <span style="background-color:#2980b9;">CERN</span> …</span></span></s
       <a href="/events"> View all events </a>
     </div>
     </div>
-</div>
 </div>
 
 						
