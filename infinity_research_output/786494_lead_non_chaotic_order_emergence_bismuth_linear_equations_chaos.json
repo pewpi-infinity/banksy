@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 786494,
+    "token_value": 2183,
+    "token_color": "\ud83e\ude75 BLUE",
+    "generated": "2025-12-08T01:24:21.209750",
+    "topic": "lead non chaotic order emergence bismuth linear equations chaos"
+  },
+  "articles": [
+    {
+      "source_id": 3,
+      "url": "https://arxiv.org/search/?query=lead+non+chaotic+order+emergence+bismuth+linear+equations+chaos",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
