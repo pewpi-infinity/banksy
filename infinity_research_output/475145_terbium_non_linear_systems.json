@@ -1,0 +1,181 @@
+{
+  "header": {
+    "token_number": 475145,
+    "token_value": 3602,
+    "token_color": "\ud83d\udc9b YELLOW",
+    "generated": "2025-12-08T03:04:04.551800",
+    "topic": "terbium non linear systems"
+  },
+  "articles": [
+    {
+      "title": "Facile synthesis of dual-ligand terbium-organic gels as ratiometric fluorescence probes for efficient mercury detection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35580503/",
+      "authors": "Wang X, Hu C, Wang X, Luo Z, Zhen S, Zhan L, Huang C, Li Y.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 442128,
+        "article_value": 370,
+        "article_color": "\ud83d\udc9a GREEN",
+        "generated": "2025-12-08T03:04:21.177006",
+        "title": "Facile synthesis of dual-ligand terbium-organic gels as ratiometric fluorescence probes for efficient mercury detection."
+      }
+    },
+    {
+      "title": "A luminescent probe based on terbium-based metal-organic frameworks for organophosphorus pesticides detection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36319758/",
+      "authors": "Zhang Z, Zhang L, Han P, Liu Q.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 994771,
+        "article_value": 1215,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T03:04:21.177089",
+        "title": "A luminescent probe based on terbium-based metal-organic frameworks for organophosphorus pesticides detection."
+      }
+    },
+    {
+      "title": "Gliotoxin suppresses NF-kappaB activation by selectively inhibiting linear ubiquitin chain assembly complex (LUBAC).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25494483/",
+      "authors": "Sakamoto H, Egashira S, Saito N, Kirisako T, Miller S, Sasaki Y, Matsumoto T, Shimonishi M, Komatsu T, Terai T, Ueno T, Hanaoka K, Kojima H, Okabe T, Wakatsuki S, Iwai K, Nagano T.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 799634,
+        "article_value": 458,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-08T03:04:21.177125",
+        "title": "Gliotoxin suppresses NF-kappaB activation by selectively inhibiting linear ubiquitin chain assembly complex (LUBAC)."
+      }
+    },
+    {
+      "title": "Determination of arsenic, cadmium, mercury, lead and nickel as elemental impurities in atorvastatin calcium by inductively coupled mass spectrometer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35656753/",
+      "authors": "Pal AK, Sundararajan R.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 226409,
+        "article_value": 1244,
+        "article_color": "\ud83d\udc9c PURPLE",
+        "generated": "2025-12-08T03:04:21.177159",
+        "title": "Determination of arsenic, cadmium, mercury, lead and nickel as elemental impurities in atorvastatin calcium by inductively coupled mass spectrometer."
+      }
+    },
+    {
+      "title": "Simple fluorescence optosensing probe for spermine based on ciprofloxacin-Tb3+ complexation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33970959/",
+      "authors": "Ngoc Nghia N, The Huy B, Thanh Phong P, Han JS, Kwon DH, Lee YI.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 68061,
+        "article_value": 2528,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-08T03:04:21.177192",
+        "title": "Simple fluorescence optosensing probe for spermine based on ciprofloxacin-Tb3+ complexation."
+      }
+    },
+    {
+      "title": "Detection of \u03b2-Hydroxybutyric Acid Based on a Fluorescent Probe of Lanthanide Complexes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40711373/",
+      "authors": "Guo X, Zhu C, Chen G, Li L, Ma C, Yang T, Hu A, Yang W, Qian Y.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 391812,
+        "article_value": 4475,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-08T03:04:21.177227",
+        "title": "Detection of \u03b2-Hydroxybutyric Acid Based on a Fluorescent Probe of Lanthanide Complexes."
+      }
+    },
+    {
+      "title": "Metal-Organic Framework-Plant Nanobiohybrids as Living Sensors for On-Site Environmental Pollutant Detection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32794698/",
+      "authors": "Liang J, Zulkifli MYB, Choy S, Li Y, Gao M, Kong B, Yun J, Liang K.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 725287,
+        "article_value": 1008,
+        "article_color": "\ud83e\ude75 BLUE",
+        "generated": "2025-12-08T03:04:21.177259",
+        "title": "Metal-Organic Framework-Plant Nanobiohybrids as Living Sensors for On-Site Environmental Pollutant Detection."
+      }
+    },
+    {
+      "title": "Simultaneous determination of benzoic acid and saccharin in soft drinks by using lanthanide-sensitized luminescence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10736863/",
+      "authors": "Aguilar-Caballos MP, G\u00f3mez-Hens A, P\u00e9rez-Bendito D.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 977047,
+        "article_value": 3272,
+        "article_color": "\ud83d\udc9b YELLOW",
+        "generated": "2025-12-08T03:04:21.177292",
+        "title": "Simultaneous determination of benzoic acid and saccharin in soft drinks by using lanthanide-sensitized luminescence."
+      }
+    },
+    {
+      "title": "Engineering new metal specificity in EF-hand peptides.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12589569/",
+      "authors": "Le Clainche L, Plancque G, Amekraz B, Moulin C, Pradines-Lecomte C, Peltier G, Vita C.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 478455,
+        "article_value": 1299,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-08T03:04:21.177326",
+        "title": "Engineering new metal specificity in EF-hand peptides."
+      }
+    },
+    {
+      "title": "Siderophore inspired tetra- and octadentate antenna ligands for luminescent Eu(III) and Tb(III) complexes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26832605/",
+      "authors": "Daumann LJ, Werther P, Ziegler MJ, Raymond KN.",
+      "abstract": null,
+      "pdf_url": null,
+      "source_id": 2,
+      "engine": "pubmed.ncbi.nlm.nih.gov",
+      "status": "SUCCESS",
+      "token": {
+        "article_number": 260407,
+        "article_value": 783,
+        "article_color": "\u2764\ufe0f RED",
+        "generated": "2025-12-08T03:04:21.177360",
+        "title": "Siderophore inspired tetra- and octadentate antenna ligands for luminescent Eu(III) and Tb(III) complexes."
+      }
+    }
+  ]
+}
