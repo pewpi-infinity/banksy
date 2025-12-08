@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 918412,
+    "token_value": 3968,
+    "token_color": "\ud83d\udc9b YELLOW",
+    "generated": "2025-12-08T02:56:08.395254",
+    "topic": "barium non chaotic equations palladium equations chaos control helium non chaotic systems order from chaos gallium teaching order from chaos"
+  },
+  "articles": [
+    {
+      "source_id": 6,
+      "url": "https://arxiv.org/search/?query=barium+non+chaotic+equations+palladium+equations+chaos+control+helium+non+chaotic+systems+order+from+chaos+gallium+teaching+order+from+chaos",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
