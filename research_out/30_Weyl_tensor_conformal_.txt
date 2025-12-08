@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 2509
-Token Value: 2518
-Token Color: RED
-Token Date & Time: 2025-12-07T18:46:03.599633 / 00:00
+Token #: 5197
+Token Value: 3724
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:46:39.261733 / 00:00
 Topic: 30. Weyl tensor (conformal)
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
-2. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
+1. https://research.ibm.com/search?q=30.+Weyl+tensor+(conformal)
+2. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
 3. https://ocw.mit.edu/search/?q=30.+Weyl+tensor+(conformal)
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
-5. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
-6. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
-7. https://ocw.mit.edu/search/?q=30.+Weyl+tensor+(conformal)
-8. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
+4. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
+5. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
+6. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
+7. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
+8. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
 9. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
 10. https://research.ibm.com/search?q=30.+Weyl+tensor+(conformal)
-11. https://research.ibm.com/search?q=30.+Weyl+tensor+(conformal)
-12. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
+11. https://ocw.mit.edu/search/?q=30.+Weyl+tensor+(conformal)
+12. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
 13. https://research.ibm.com/search?q=30.+Weyl+tensor+(conformal)
 14. https://research.ibm.com/search?q=30.+Weyl+tensor+(conformal)
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
-16. https://ocw.mit.edu/search/?q=30.+Weyl+tensor+(conformal)
+15. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
+16. https://research.ibm.com/search?q=30.+Weyl+tensor+(conformal)
 17. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
-18. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
-19. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
-20. https://research.ibm.com/search?q=30.+Weyl+tensor+(conformal)
-21. https://ocw.mit.edu/search/?q=30.+Weyl+tensor+(conformal)
+18. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
+19. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
+20. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
+21. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
 22. https://ocw.mit.edu/search/?q=30.+Weyl+tensor+(conformal)
-23. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
+23. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
 24. https://research.ibm.com/search?q=30.+Weyl+tensor+(conformal)
-25. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
-26. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
-27. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
-28. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
-29. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
-30. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
-31. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
-32. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
-33. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
-34. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
-35. https://research.ibm.com/search?q=30.+Weyl+tensor+(conformal)
-36. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
+26. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
+27. https://ocw.mit.edu/search/?q=30.+Weyl+tensor+(conformal)
+28. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
+29. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
+30. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
+32. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
+33. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
+34. https://research.ibm.com/search?q=30.+Weyl+tensor+(conformal)
+35. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
+36. https://ocw.mit.edu/search/?q=30.+Weyl+tensor+(conformal)
 37. https://arxiv.org/search/?query=30.+Weyl+tensor+(conformal)
-38. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
+38. https://ui.adsabs.harvard.edu/v1/search/query?q=30.+Weyl+tensor+(conformal)
 39. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)
-40. https://www.nature.com/search?q=30.+Weyl+tensor+(conformal)
+40. https://dash.harvard.edu/server/api/search?q=30.+Weyl+tensor+(conformal)

@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 6913
-Token Value: 2930
-Token Color: BLUE
-Token Date & Time: 2025-12-07T18:46:03.983834 / 00:00
+Token #: 5267
+Token Value: 5920
+Token Color: YELLOW
+Token Date & Time: 2025-12-07T18:46:45.913802 / 00:00
 Topic: 17. KE = \frac{1}{2} I \omega^2
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-2. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-4. https://dash.harvard.edu/server/api/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+1. https://arxiv.org/search/?query=17.+KE+=+\frac{1}{2}+I+\omega^2
+2. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+3. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+4. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
 5. https://research.ibm.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-6. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-7. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-9. https://dash.harvard.edu/server/api/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-10. https://dash.harvard.edu/server/api/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-11. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-12. https://research.ibm.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-13. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-14. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-15. https://research.ibm.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-16. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-17. https://research.ibm.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-18. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-19. https://dash.harvard.edu/server/api/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-20. https://dash.harvard.edu/server/api/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-21. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-22. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-23. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-24. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-25. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-26. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-27. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-28. https://arxiv.org/search/?query=17.+KE+=+\frac{1}{2}+I+\omega^2
+6. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+7. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+8. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+9. https://research.ibm.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+10. https://research.ibm.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+11. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+12. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+13. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+14. https://research.ibm.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+15. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+16. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+17. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+18. https://research.ibm.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+19. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+21. https://arxiv.org/search/?query=17.+KE+=+\frac{1}{2}+I+\omega^2
+22. https://arxiv.org/search/?query=17.+KE+=+\frac{1}{2}+I+\omega^2
+23. https://arxiv.org/search/?query=17.+KE+=+\frac{1}{2}+I+\omega^2
+24. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+25. https://dash.harvard.edu/server/api/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+26. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+27. https://dash.harvard.edu/server/api/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+28. https://research.ibm.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
 29. https://dash.harvard.edu/server/api/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-30. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+30. https://arxiv.org/search/?query=17.+KE+=+\frac{1}{2}+I+\omega^2
 31. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-32. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-33. https://dash.harvard.edu/server/api/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-34. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+32. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+33. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+34. https://dash.harvard.edu/server/api/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
 35. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-36. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
-37. https://dash.harvard.edu/server/api/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+36. https://ocw.mit.edu/search/?q=17.+KE+=+\frac{1}{2}+I+\omega^2
+37. https://www.nature.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
 38. https://research.ibm.com/search?q=17.+KE+=+\frac{1}{2}+I+\omega^2
 39. https://arxiv.org/search/?query=17.+KE+=+\frac{1}{2}+I+\omega^2
-40. https://arxiv.org/search/?query=17.+KE+=+\frac{1}{2}+I+\omega^2
+40. https://ui.adsabs.harvard.edu/v1/search/query?q=17.+KE+=+\frac{1}{2}+I+\omega^2

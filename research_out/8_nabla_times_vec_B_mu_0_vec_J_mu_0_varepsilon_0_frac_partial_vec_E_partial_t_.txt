@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 6451
-Token Value: 5502
-Token Color: BLUE
-Token Date & Time: 2025-12-07T18:46:03.949883 / 00:00
+Token #: 7635
+Token Value: 5853
+Token Color: GREEN
+Token Date & Time: 2025-12-07T18:46:45.890817 / 00:00
 Topic: 8. \nabla \times \vec{B} = \mu_0 \vec{J} + \mu_0 \varepsilon_0 \frac{\partial \vec{E}}{\partial t}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-2. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-3. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-4. https://ocw.mit.edu/search/?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+1. https://ocw.mit.edu/search/?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+2. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+3. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+4. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
 5. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-6. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-7. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-8. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-9. https://ocw.mit.edu/search/?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-10. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-11. https://research.ibm.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-12. https://research.ibm.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-13. https://ocw.mit.edu/search/?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-14. https://ocw.mit.edu/search/?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+6. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+7. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+8. https://research.ibm.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+9. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+10. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+11. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+12. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+13. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+14. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
 15. https://research.ibm.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-16. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-17. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-18. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-19. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-20. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+16. https://research.ibm.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+17. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+18. https://ocw.mit.edu/search/?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+19. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+20. https://research.ibm.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
 21. https://ocw.mit.edu/search/?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-22. https://ocw.mit.edu/search/?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-23. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-24. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-25. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-26. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-27. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-28. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-29. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-30. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-31. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-32. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-33. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-34. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-35. https://research.ibm.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-36. https://ocw.mit.edu/search/?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-37. https://ocw.mit.edu/search/?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-38. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+22. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+23. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+24. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+25. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+26. https://ocw.mit.edu/search/?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+27. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+28. https://research.ibm.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+29. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+30. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+31. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+32. https://ui.adsabs.harvard.edu/v1/search/query?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+33. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+34. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+35. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+36. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+37. https://arxiv.org/search/?query=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+38. https://dash.harvard.edu/server/api/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
 39. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
-40. https://www.nature.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}
+40. https://research.ibm.com/search?q=8.+\nabla+\times+\vec{B}+=+\mu_0+\vec{J}+++\mu_0+\varepsilon_0+\frac{\partial+\vec{E}}{\partial+t}

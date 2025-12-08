@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 9546
-Token Value: 3483
-Token Color: BLUE
-Token Date & Time: 2025-12-07T18:46:04.537908 / 00:00
+Token #: 9365
+Token Value: 3609
+Token Color: YELLOW
+Token Date & Time: 2025-12-07T18:46:47.177151 / 00:00
 Topic: 97. v_{orb} = \sqrt{\frac{GM}{r}}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-2. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+1. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+2. https://www.nature.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
 3. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-4. https://ocw.mit.edu/search/?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+4. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+5. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
 6. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-7. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-8. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-10. https://www.nature.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-11. https://ocw.mit.edu/search/?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-12. https://www.nature.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+7. https://www.nature.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+8. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+9. https://www.nature.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+10. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+11. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+12. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
 13. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
 14. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-15. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-16. https://arxiv.org/search/?query=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-17. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-18. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-19. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+15. https://www.nature.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+16. https://ocw.mit.edu/search/?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+17. https://ocw.mit.edu/search/?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+18. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+19. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
 20. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
 21. https://ocw.mit.edu/search/?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
 22. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-23. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-24. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-25. https://ocw.mit.edu/search/?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-26. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-27. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-28. https://arxiv.org/search/?query=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-29. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-30. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-31. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-32. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-33. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-34. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-35. https://www.nature.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-36. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-37. https://ocw.mit.edu/search/?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-38. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+23. https://arxiv.org/search/?query=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+24. https://www.nature.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+25. https://www.nature.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+26. https://ocw.mit.edu/search/?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+27. https://research.ibm.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+28. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+29. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+30. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+32. https://www.nature.com/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+33. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+34. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+35. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+37. https://arxiv.org/search/?query=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+38. https://arxiv.org/search/?query=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
 39. https://dash.harvard.edu/server/api/search?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
-40. https://ocw.mit.edu/search/?q=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}
+40. https://arxiv.org/search/?query=97.+v_{orb}+=+\sqrt{\frac{GM}{r}}

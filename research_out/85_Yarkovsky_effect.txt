@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 5873
-Token Value: 4991
+Token #: 3711
+Token Value: 5345
 Token Color: GREEN
-Token Date & Time: 2025-12-07T18:46:03.812707 / 00:00
+Token Date & Time: 2025-12-07T18:46:44.302680 / 00:00
 Topic: 85. Yarkovsky effect
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=85.+Yarkovsky+effect
-2. https://dash.harvard.edu/server/api/search?q=85.+Yarkovsky+effect
-3. https://research.ibm.com/search?q=85.+Yarkovsky+effect
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
+1. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
+2. https://arxiv.org/search/?query=85.+Yarkovsky+effect
+3. https://ocw.mit.edu/search/?q=85.+Yarkovsky+effect
+4. https://ocw.mit.edu/search/?q=85.+Yarkovsky+effect
+5. https://www.nature.com/search?q=85.+Yarkovsky+effect
 6. https://dash.harvard.edu/server/api/search?q=85.+Yarkovsky+effect
 7. https://www.nature.com/search?q=85.+Yarkovsky+effect
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
-10. https://dash.harvard.edu/server/api/search?q=85.+Yarkovsky+effect
+8. https://research.ibm.com/search?q=85.+Yarkovsky+effect
+9. https://research.ibm.com/search?q=85.+Yarkovsky+effect
+10. https://arxiv.org/search/?query=85.+Yarkovsky+effect
 11. https://dash.harvard.edu/server/api/search?q=85.+Yarkovsky+effect
-12. https://www.nature.com/search?q=85.+Yarkovsky+effect
-13. https://ocw.mit.edu/search/?q=85.+Yarkovsky+effect
-14. https://ocw.mit.edu/search/?q=85.+Yarkovsky+effect
+12. https://dash.harvard.edu/server/api/search?q=85.+Yarkovsky+effect
+13. https://dash.harvard.edu/server/api/search?q=85.+Yarkovsky+effect
+14. https://www.nature.com/search?q=85.+Yarkovsky+effect
 15. https://arxiv.org/search/?query=85.+Yarkovsky+effect
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
-17. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
-18. https://www.nature.com/search?q=85.+Yarkovsky+effect
-19. https://arxiv.org/search/?query=85.+Yarkovsky+effect
-20. https://arxiv.org/search/?query=85.+Yarkovsky+effect
-21. https://research.ibm.com/search?q=85.+Yarkovsky+effect
+16. https://dash.harvard.edu/server/api/search?q=85.+Yarkovsky+effect
+17. https://ocw.mit.edu/search/?q=85.+Yarkovsky+effect
+18. https://research.ibm.com/search?q=85.+Yarkovsky+effect
+19. https://ocw.mit.edu/search/?q=85.+Yarkovsky+effect
+20. https://www.nature.com/search?q=85.+Yarkovsky+effect
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
 22. https://arxiv.org/search/?query=85.+Yarkovsky+effect
-23. https://ocw.mit.edu/search/?q=85.+Yarkovsky+effect
-24. https://arxiv.org/search/?query=85.+Yarkovsky+effect
+23. https://arxiv.org/search/?query=85.+Yarkovsky+effect
+24. https://research.ibm.com/search?q=85.+Yarkovsky+effect
 25. https://arxiv.org/search/?query=85.+Yarkovsky+effect
-26. https://www.nature.com/search?q=85.+Yarkovsky+effect
-27. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
-28. https://www.nature.com/search?q=85.+Yarkovsky+effect
-29. https://arxiv.org/search/?query=85.+Yarkovsky+effect
-30. https://ocw.mit.edu/search/?q=85.+Yarkovsky+effect
+26. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
+27. https://research.ibm.com/search?q=85.+Yarkovsky+effect
+28. https://dash.harvard.edu/server/api/search?q=85.+Yarkovsky+effect
+29. https://ocw.mit.edu/search/?q=85.+Yarkovsky+effect
+30. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
 31. https://www.nature.com/search?q=85.+Yarkovsky+effect
-32. https://arxiv.org/search/?query=85.+Yarkovsky+effect
-33. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
-34. https://arxiv.org/search/?query=85.+Yarkovsky+effect
-35. https://research.ibm.com/search?q=85.+Yarkovsky+effect
-36. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
-37. https://research.ibm.com/search?q=85.+Yarkovsky+effect
-38. https://arxiv.org/search/?query=85.+Yarkovsky+effect
-39. https://ocw.mit.edu/search/?q=85.+Yarkovsky+effect
+32. https://www.nature.com/search?q=85.+Yarkovsky+effect
+33. https://arxiv.org/search/?query=85.+Yarkovsky+effect
+34. https://ocw.mit.edu/search/?q=85.+Yarkovsky+effect
+35. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
+36. https://research.ibm.com/search?q=85.+Yarkovsky+effect
+37. https://www.nature.com/search?q=85.+Yarkovsky+effect
+38. https://ui.adsabs.harvard.edu/v1/search/query?q=85.+Yarkovsky+effect
+39. https://research.ibm.com/search?q=85.+Yarkovsky+effect
 40. https://dash.harvard.edu/server/api/search?q=85.+Yarkovsky+effect

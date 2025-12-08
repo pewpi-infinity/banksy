@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 9719
-Token Value: 3522
-Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:46:03.796557 / 00:00
+Token #: 2585
+Token Value: 2958
+Token Color: GREEN
+Token Date & Time: 2025-12-07T18:46:43.669625 / 00:00
 Topic: 78. Tsiolkovsky rocket equation
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-2. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
-3. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
-4. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
-5. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
-6. https://arxiv.org/search/?query=78.+Tsiolkovsky+rocket+equation
-7. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-8. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
-9. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
-10. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-11. https://www.nature.com/search?q=78.+Tsiolkovsky+rocket+equation
-12. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-13. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
-14. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
+1. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
+2. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
+3. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
+4. https://www.nature.com/search?q=78.+Tsiolkovsky+rocket+equation
+5. https://arxiv.org/search/?query=78.+Tsiolkovsky+rocket+equation
+6. https://www.nature.com/search?q=78.+Tsiolkovsky+rocket+equation
+7. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
+8. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
+9. https://www.nature.com/search?q=78.+Tsiolkovsky+rocket+equation
+10. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
+11. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
+12. https://arxiv.org/search/?query=78.+Tsiolkovsky+rocket+equation
+13. https://arxiv.org/search/?query=78.+Tsiolkovsky+rocket+equation
+14. https://www.nature.com/search?q=78.+Tsiolkovsky+rocket+equation
 15. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
-16. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
+16. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
 17. https://www.nature.com/search?q=78.+Tsiolkovsky+rocket+equation
-18. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-19. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
-20. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-21. https://arxiv.org/search/?query=78.+Tsiolkovsky+rocket+equation
-22. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
-23. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
-24. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-25. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-26. https://arxiv.org/search/?query=78.+Tsiolkovsky+rocket+equation
-27. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-28. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
+18. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
+19. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
+20. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
+21. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
+22. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
+23. https://www.nature.com/search?q=78.+Tsiolkovsky+rocket+equation
+24. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
+25. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
+26. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
+27. https://www.nature.com/search?q=78.+Tsiolkovsky+rocket+equation
+28. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
+29. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
 30. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
-31. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-32. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
-33. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
-34. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
-35. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-36. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation
-37. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
-38. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
-39. https://www.nature.com/search?q=78.+Tsiolkovsky+rocket+equation
-40. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
+31. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
+32. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
+33. https://arxiv.org/search/?query=78.+Tsiolkovsky+rocket+equation
+34. https://www.nature.com/search?q=78.+Tsiolkovsky+rocket+equation
+35. https://dash.harvard.edu/server/api/search?q=78.+Tsiolkovsky+rocket+equation
+36. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
+37. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
+38. https://ocw.mit.edu/search/?q=78.+Tsiolkovsky+rocket+equation
+39. https://research.ibm.com/search?q=78.+Tsiolkovsky+rocket+equation
+40. https://ui.adsabs.harvard.edu/v1/search/query?q=78.+Tsiolkovsky+rocket+equation

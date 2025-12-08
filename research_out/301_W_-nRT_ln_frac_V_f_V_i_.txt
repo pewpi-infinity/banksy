@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 2409
-Token Value: 3285
-Token Color: BLUE
-Token Date & Time: 2025-12-07T18:46:04.783156 / 00:00
+Token #: 8959
+Token Value: 2869
+Token Color: RED
+Token Date & Time: 2025-12-07T18:46:47.456244 / 00:00
 Topic: 301. W = -nRT \ln \frac{V_f}{V_i}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-2. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-3. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-4. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-5. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-6. https://arxiv.org/search/?query=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-7. https://arxiv.org/search/?query=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-10. https://www.nature.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-11. https://arxiv.org/search/?query=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-12. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-13. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-14. https://arxiv.org/search/?query=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-17. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-18. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+1. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+2. https://www.nature.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+3. https://www.nature.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+4. https://www.nature.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+5. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+6. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+7. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+8. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+9. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+10. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+11. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+12. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+13. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+14. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+15. https://www.nature.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+16. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+17. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+18. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
 19. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-20. https://www.nature.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-21. https://arxiv.org/search/?query=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-22. https://www.nature.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-23. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-24. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-25. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-26. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-27. https://arxiv.org/search/?query=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-28. https://arxiv.org/search/?query=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-30. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+20. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+21. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+22. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+23. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+24. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+25. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+26. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+27. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+28. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+29. https://www.nature.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+30. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
 31. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-32. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-33. https://www.nature.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-34. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-35. https://arxiv.org/search/?query=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-36. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-37. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-38. https://www.nature.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
-39. https://dash.harvard.edu/server/api/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+32. https://research.ibm.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+33. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+34. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+35. https://www.nature.com/search?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+36. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+37. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+38. https://arxiv.org/search/?query=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
+39. https://ocw.mit.edu/search/?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}
 40. https://ui.adsabs.harvard.edu/v1/search/query?q=301.+W+=+-nRT+\ln+\frac{V_f}{V_i}

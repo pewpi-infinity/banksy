@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 1916
-Token Value: 2177
+Token #: 9784
+Token Value: 2993
 Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:46:04.290241 / 00:00
+Token Date & Time: 2025-12-07T18:46:46.664105 / 00:00
 Topic: 62. \Delta G^\circ = -RT \ln K
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ui.adsabs.harvard.edu/v1/search/query?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-2. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-3. https://ocw.mit.edu/search/?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-4. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-5. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-6. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-7. https://ocw.mit.edu/search/?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-8. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-9. https://arxiv.org/search/?query=62.+\Delta+G^\circ+=+-RT+\ln+K
-10. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-11. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-12. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+1. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+2. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+3. https://arxiv.org/search/?query=62.+\Delta+G^\circ+=+-RT+\ln+K
+4. https://ocw.mit.edu/search/?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+5. https://ocw.mit.edu/search/?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+6. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+7. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+8. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+9. https://ui.adsabs.harvard.edu/v1/search/query?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+10. https://arxiv.org/search/?query=62.+\Delta+G^\circ+=+-RT+\ln+K
+11. https://arxiv.org/search/?query=62.+\Delta+G^\circ+=+-RT+\ln+K
+12. https://ocw.mit.edu/search/?q=62.+\Delta+G^\circ+=+-RT+\ln+K
 13. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-14. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-15. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-16. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-17. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-18. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-19. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-20. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-21. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-22. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-23. https://ocw.mit.edu/search/?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+14. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+15. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+16. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+17. https://arxiv.org/search/?query=62.+\Delta+G^\circ+=+-RT+\ln+K
+18. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+19. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+20. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+21. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+22. https://arxiv.org/search/?query=62.+\Delta+G^\circ+=+-RT+\ln+K
+23. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
 24. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-25. https://ocw.mit.edu/search/?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-26. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-27. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-28. https://ocw.mit.edu/search/?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+25. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+26. https://arxiv.org/search/?query=62.+\Delta+G^\circ+=+-RT+\ln+K
+27. https://ui.adsabs.harvard.edu/v1/search/query?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+28. https://ui.adsabs.harvard.edu/v1/search/query?q=62.+\Delta+G^\circ+=+-RT+\ln+K
 29. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-30. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-31. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-32. https://ocw.mit.edu/search/?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-33. https://arxiv.org/search/?query=62.+\Delta+G^\circ+=+-RT+\ln+K
-34. https://arxiv.org/search/?query=62.+\Delta+G^\circ+=+-RT+\ln+K
-35. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-36. https://ocw.mit.edu/search/?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+30. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+32. https://dash.harvard.edu/server/api/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+33. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+34. https://ui.adsabs.harvard.edu/v1/search/query?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+35. https://arxiv.org/search/?query=62.+\Delta+G^\circ+=+-RT+\ln+K
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=62.+\Delta+G^\circ+=+-RT+\ln+K
 37. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-38. https://www.nature.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-39. https://research.ibm.com/search?q=62.+\Delta+G^\circ+=+-RT+\ln+K
-40. https://ocw.mit.edu/search/?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+38. https://arxiv.org/search/?query=62.+\Delta+G^\circ+=+-RT+\ln+K
+39. https://ui.adsabs.harvard.edu/v1/search/query?q=62.+\Delta+G^\circ+=+-RT+\ln+K
+40. https://ui.adsabs.harvard.edu/v1/search/query?q=62.+\Delta+G^\circ+=+-RT+\ln+K

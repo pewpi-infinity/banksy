@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 1844
-Token Value: 5613
-Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:46:03.865993 / 00:00
+Token #: 4932
+Token Value: 3006
+Token Color: GREEN
+Token Date & Time: 2025-12-07T18:46:45.182561 / 00:00
 Topic: 100. Magnus force
 ============================================
 
@@ -298,41 +298,41 @@ Mathematical Model 40:
 ## Reference Index (40 Sources)
 1. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
 2. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
-3. https://research.ibm.com/search?q=100.+Magnus+force
+3. https://www.nature.com/search?q=100.+Magnus+force
 4. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
 5. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
-6. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
-7. https://research.ibm.com/search?q=100.+Magnus+force
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
-9. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
+6. https://www.nature.com/search?q=100.+Magnus+force
+7. https://arxiv.org/search/?query=100.+Magnus+force
+8. https://www.nature.com/search?q=100.+Magnus+force
+9. https://arxiv.org/search/?query=100.+Magnus+force
 10. https://www.nature.com/search?q=100.+Magnus+force
-11. https://www.nature.com/search?q=100.+Magnus+force
-12. https://ocw.mit.edu/search/?q=100.+Magnus+force
-13. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
-14. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
-15. https://arxiv.org/search/?query=100.+Magnus+force
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
-17. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
-18. https://research.ibm.com/search?q=100.+Magnus+force
-19. https://arxiv.org/search/?query=100.+Magnus+force
-20. https://ocw.mit.edu/search/?q=100.+Magnus+force
-21. https://arxiv.org/search/?query=100.+Magnus+force
-22. https://ocw.mit.edu/search/?q=100.+Magnus+force
-23. https://arxiv.org/search/?query=100.+Magnus+force
+11. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
+12. https://arxiv.org/search/?query=100.+Magnus+force
+13. https://research.ibm.com/search?q=100.+Magnus+force
+14. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
+16. https://arxiv.org/search/?query=100.+Magnus+force
+17. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
+18. https://www.nature.com/search?q=100.+Magnus+force
+19. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
+21. https://research.ibm.com/search?q=100.+Magnus+force
+22. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
+23. https://research.ibm.com/search?q=100.+Magnus+force
 24. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
-25. https://research.ibm.com/search?q=100.+Magnus+force
-26. https://www.nature.com/search?q=100.+Magnus+force
-27. https://research.ibm.com/search?q=100.+Magnus+force
-28. https://www.nature.com/search?q=100.+Magnus+force
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
-30. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
-31. https://ocw.mit.edu/search/?q=100.+Magnus+force
-32. https://research.ibm.com/search?q=100.+Magnus+force
-33. https://arxiv.org/search/?query=100.+Magnus+force
-34. https://arxiv.org/search/?query=100.+Magnus+force
-35. https://ocw.mit.edu/search/?q=100.+Magnus+force
-36. https://research.ibm.com/search?q=100.+Magnus+force
-37. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
-38. https://research.ibm.com/search?q=100.+Magnus+force
-39. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
-40. https://research.ibm.com/search?q=100.+Magnus+force
+25. https://arxiv.org/search/?query=100.+Magnus+force
+26. https://research.ibm.com/search?q=100.+Magnus+force
+27. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
+28. https://arxiv.org/search/?query=100.+Magnus+force
+29. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
+30. https://research.ibm.com/search?q=100.+Magnus+force
+31. https://www.nature.com/search?q=100.+Magnus+force
+32. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
+33. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
+34. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
+35. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
+36. https://dash.harvard.edu/server/api/search?q=100.+Magnus+force
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+Magnus+force
+38. https://ocw.mit.edu/search/?q=100.+Magnus+force
+39. https://ocw.mit.edu/search/?q=100.+Magnus+force
+40. https://ocw.mit.edu/search/?q=100.+Magnus+force

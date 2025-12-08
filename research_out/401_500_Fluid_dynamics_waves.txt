@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 9204
-Token Value: 4412
+Token #: 6106
+Token Value: 4202
 Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:46:04.805319 / 00:00
+Token Date & Time: 2025-12-07T18:46:47.471115 / 00:00
 Topic: 401–500: Fluid dynamics & waves
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
+1. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
 2. https://research.ibm.com/search?q=401–500:+Fluid+dynamics+&+waves
-3. https://arxiv.org/search/?query=401–500:+Fluid+dynamics+&+waves
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=401–500:+Fluid+dynamics+&+waves
-5. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
+3. https://ui.adsabs.harvard.edu/v1/search/query?q=401–500:+Fluid+dynamics+&+waves
+4. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
+5. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
 6. https://research.ibm.com/search?q=401–500:+Fluid+dynamics+&+waves
-7. https://research.ibm.com/search?q=401–500:+Fluid+dynamics+&+waves
+7. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
 8. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
 9. https://arxiv.org/search/?query=401–500:+Fluid+dynamics+&+waves
 10. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
 11. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
-12. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
+12. https://ui.adsabs.harvard.edu/v1/search/query?q=401–500:+Fluid+dynamics+&+waves
 13. https://ui.adsabs.harvard.edu/v1/search/query?q=401–500:+Fluid+dynamics+&+waves
-14. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
-15. https://arxiv.org/search/?query=401–500:+Fluid+dynamics+&+waves
-16. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
+14. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
+15. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
+16. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
 17. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
-18. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
-19. https://arxiv.org/search/?query=401–500:+Fluid+dynamics+&+waves
-20. https://arxiv.org/search/?query=401–500:+Fluid+dynamics+&+waves
-21. https://research.ibm.com/search?q=401–500:+Fluid+dynamics+&+waves
+18. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
+19. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
+20. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
+21. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
 22. https://ui.adsabs.harvard.edu/v1/search/query?q=401–500:+Fluid+dynamics+&+waves
-23. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
-24. https://arxiv.org/search/?query=401–500:+Fluid+dynamics+&+waves
-25. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
-26. https://arxiv.org/search/?query=401–500:+Fluid+dynamics+&+waves
-27. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
-28. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=401–500:+Fluid+dynamics+&+waves
-30. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
-31. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
-32. https://ui.adsabs.harvard.edu/v1/search/query?q=401–500:+Fluid+dynamics+&+waves
+23. https://ui.adsabs.harvard.edu/v1/search/query?q=401–500:+Fluid+dynamics+&+waves
+24. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=401–500:+Fluid+dynamics+&+waves
+26. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
+27. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
+28. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
+29. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
+30. https://research.ibm.com/search?q=401–500:+Fluid+dynamics+&+waves
+31. https://arxiv.org/search/?query=401–500:+Fluid+dynamics+&+waves
+32. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
 33. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
-34. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
-35. https://ui.adsabs.harvard.edu/v1/search/query?q=401–500:+Fluid+dynamics+&+waves
-36. https://ui.adsabs.harvard.edu/v1/search/query?q=401–500:+Fluid+dynamics+&+waves
-37. https://research.ibm.com/search?q=401–500:+Fluid+dynamics+&+waves
+34. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
+35. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
+36. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves
+37. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
 38. https://ocw.mit.edu/search/?q=401–500:+Fluid+dynamics+&+waves
-39. https://arxiv.org/search/?query=401–500:+Fluid+dynamics+&+waves
-40. https://arxiv.org/search/?query=401–500:+Fluid+dynamics+&+waves
+39. https://www.nature.com/search?q=401–500:+Fluid+dynamics+&+waves
+40. https://dash.harvard.edu/server/api/search?q=401–500:+Fluid+dynamics+&+waves

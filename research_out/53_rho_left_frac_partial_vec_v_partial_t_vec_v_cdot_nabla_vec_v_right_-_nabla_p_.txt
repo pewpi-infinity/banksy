@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 8993
-Token Value: 5888
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:46:04.259911 / 00:00
+Token #: 8710
+Token Value: 3346
+Token Color: YELLOW
+Token Date & Time: 2025-12-07T18:46:46.626199 / 00:00
 Topic: 53. \rho \left( \frac{\partial \vec{v}}{\partial t} + (\vec{v} \cdot \nabla) \vec{v} \right) = -\nabla p + \mu \nabla^2 \vec{v} + \vec{f}
 ============================================
 
@@ -297,42 +297,42 @@ Mathematical Model 40:
 
 ## Reference Index (40 Sources)
 1. https://ocw.mit.edu/search/?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-2. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-3. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+2. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+3. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
 4. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-5. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-6. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-7. https://research.ibm.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+5. https://arxiv.org/search/?query=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+6. https://ocw.mit.edu/search/?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+7. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
 8. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-9. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-10. https://arxiv.org/search/?query=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+9. https://ocw.mit.edu/search/?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+10. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
 11. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
 12. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-13. https://research.ibm.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+13. https://arxiv.org/search/?query=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
 14. https://arxiv.org/search/?query=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-15. https://ocw.mit.edu/search/?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-16. https://arxiv.org/search/?query=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-17. https://research.ibm.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-18. https://ocw.mit.edu/search/?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-19. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-20. https://ocw.mit.edu/search/?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-21. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-22. https://research.ibm.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-23. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-24. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+15. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+16. https://research.ibm.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+17. https://arxiv.org/search/?query=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+18. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+19. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+20. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+22. https://arxiv.org/search/?query=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+23. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+24. https://research.ibm.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
 25. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
 26. https://arxiv.org/search/?query=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-27. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-28. https://research.ibm.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-29. https://arxiv.org/search/?query=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-30. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-31. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-32. https://arxiv.org/search/?query=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-33. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-34. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-35. https://ocw.mit.edu/search/?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+27. https://ocw.mit.edu/search/?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+28. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+29. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+30. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+31. https://research.ibm.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+32. https://ocw.mit.edu/search/?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+33. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+34. https://research.ibm.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+35. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
 36. https://research.ibm.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-37. https://dash.harvard.edu/server/api/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+37. https://research.ibm.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
 38. https://ocw.mit.edu/search/?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
-39. https://ui.adsabs.harvard.edu/v1/search/query?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
+39. https://ocw.mit.edu/search/?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}
 40. https://www.nature.com/search?q=53.+\rho+\left(+\frac{\partial+\vec{v}}{\partial+t}+++(\vec{v}+\cdot+\nabla)+\vec{v}+\right)+=+-\nabla+p+++\mu+\nabla^2+\vec{v}+++\vec{f}

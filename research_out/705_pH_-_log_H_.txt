@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 4995
-Token Value: 5023
-Token Color: RED
-Token Date & Time: 2025-12-07T18:46:05.642569 / 00:00
+Token #: 2440
+Token Value: 3978
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:46:47.731407 / 00:00
 Topic: 705. pH = -\log [H^+]
 ============================================
 
@@ -297,42 +297,42 @@ Mathematical Model 40:
 
 ## Reference Index (40 Sources)
 1. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
-2. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
+2. https://ui.adsabs.harvard.edu/v1/search/query?q=705.+pH+=+-\log+[H^+]
 3. https://arxiv.org/search/?query=705.+pH+=+-\log+[H^+]
-4. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
-5. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
-6. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
-7. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
-8. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
+4. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
+5. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
+6. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
+7. https://arxiv.org/search/?query=705.+pH+=+-\log+[H^+]
+8. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
 9. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
-10. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
+10. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
 11. https://ui.adsabs.harvard.edu/v1/search/query?q=705.+pH+=+-\log+[H^+]
-12. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
+12. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
 13. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
-14. https://ui.adsabs.harvard.edu/v1/search/query?q=705.+pH+=+-\log+[H^+]
-15. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
+14. https://arxiv.org/search/?query=705.+pH+=+-\log+[H^+]
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=705.+pH+=+-\log+[H^+]
 16. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
 17. https://ui.adsabs.harvard.edu/v1/search/query?q=705.+pH+=+-\log+[H^+]
-18. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
+18. https://arxiv.org/search/?query=705.+pH+=+-\log+[H^+]
 19. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
 20. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
-21. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
-22. https://arxiv.org/search/?query=705.+pH+=+-\log+[H^+]
+21. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
+22. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
 23. https://arxiv.org/search/?query=705.+pH+=+-\log+[H^+]
-24. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
-25. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
-26. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
-27. https://ui.adsabs.harvard.edu/v1/search/query?q=705.+pH+=+-\log+[H^+]
-28. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
-29. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
+24. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
+25. https://arxiv.org/search/?query=705.+pH+=+-\log+[H^+]
+26. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
+27. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
+28. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
+29. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
 30. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
-31. https://arxiv.org/search/?query=705.+pH+=+-\log+[H^+]
-32. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
-33. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
-34. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
-35. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
-36. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
-37. https://ui.adsabs.harvard.edu/v1/search/query?q=705.+pH+=+-\log+[H^+]
+31. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
+32. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
+33. https://arxiv.org/search/?query=705.+pH+=+-\log+[H^+]
+34. https://arxiv.org/search/?query=705.+pH+=+-\log+[H^+]
+35. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
+36. https://www.nature.com/search?q=705.+pH+=+-\log+[H^+]
+37. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
 38. https://ui.adsabs.harvard.edu/v1/search/query?q=705.+pH+=+-\log+[H^+]
-39. https://research.ibm.com/search?q=705.+pH+=+-\log+[H^+]
-40. https://ocw.mit.edu/search/?q=705.+pH+=+-\log+[H^+]
+39. https://dash.harvard.edu/server/api/search?q=705.+pH+=+-\log+[H^+]
+40. https://arxiv.org/search/?query=705.+pH+=+-\log+[H^+]

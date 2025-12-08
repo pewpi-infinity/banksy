@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 8078
-Token Value: 5273
+Token #: 5780
+Token Value: 5518
 Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:46:05.331509 / 00:00
+Token Date & Time: 2025-12-07T18:46:47.717994 / 00:00
 Topic: 701–800: Chemistry & reaction kinetics
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-2. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-3. https://dash.harvard.edu/server/api/search?q=701–800:+Chemistry+&+reaction+kinetics
-4. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
-5. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-6. https://arxiv.org/search/?query=701–800:+Chemistry+&+reaction+kinetics
-7. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-8. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-9. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-10. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
+1. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
+2. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
+3. https://arxiv.org/search/?query=701–800:+Chemistry+&+reaction+kinetics
+4. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
+5. https://arxiv.org/search/?query=701–800:+Chemistry+&+reaction+kinetics
+6. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
+7. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
+8. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
+9. https://arxiv.org/search/?query=701–800:+Chemistry+&+reaction+kinetics
+10. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
 11. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
-12. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-13. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
-14. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-15. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
-17. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-18. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
-19. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-20. https://arxiv.org/search/?query=701–800:+Chemistry+&+reaction+kinetics
-21. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-22. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-23. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-24. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
-25. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-26. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-27. https://arxiv.org/search/?query=701–800:+Chemistry+&+reaction+kinetics
-28. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-29. https://dash.harvard.edu/server/api/search?q=701–800:+Chemistry+&+reaction+kinetics
-30. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-31. https://dash.harvard.edu/server/api/search?q=701–800:+Chemistry+&+reaction+kinetics
-32. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-33. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
-34. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-35. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-36. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-37. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
-38. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
-39. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
-40. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
+12. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
+13. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
+14. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
+15. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
+16. https://arxiv.org/search/?query=701–800:+Chemistry+&+reaction+kinetics
+17. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
+18. https://arxiv.org/search/?query=701–800:+Chemistry+&+reaction+kinetics
+19. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
+20. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
+21. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
+22. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
+23. https://dash.harvard.edu/server/api/search?q=701–800:+Chemistry+&+reaction+kinetics
+24. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
+26. https://dash.harvard.edu/server/api/search?q=701–800:+Chemistry+&+reaction+kinetics
+27. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
+28. https://arxiv.org/search/?query=701–800:+Chemistry+&+reaction+kinetics
+29. https://arxiv.org/search/?query=701–800:+Chemistry+&+reaction+kinetics
+30. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
+31. https://arxiv.org/search/?query=701–800:+Chemistry+&+reaction+kinetics
+32. https://ocw.mit.edu/search/?q=701–800:+Chemistry+&+reaction+kinetics
+33. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
+34. https://research.ibm.com/search?q=701–800:+Chemistry+&+reaction+kinetics
+35. https://dash.harvard.edu/server/api/search?q=701–800:+Chemistry+&+reaction+kinetics
+36. https://ui.adsabs.harvard.edu/v1/search/query?q=701–800:+Chemistry+&+reaction+kinetics
+37. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
+38. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics
+39. https://dash.harvard.edu/server/api/search?q=701–800:+Chemistry+&+reaction+kinetics
+40. https://www.nature.com/search?q=701–800:+Chemistry+&+reaction+kinetics

@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 5739
-Token Value: 3790
-Token Color: GREEN
-Token Date & Time: 2025-12-07T18:46:04.255907 / 00:00
+Token #: 4642
+Token Value: 3119
+Token Color: RED
+Token Date & Time: 2025-12-07T18:46:46.622810 / 00:00
 Topic: 52. \frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \vec{v}) = 0
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://dash.harvard.edu/server/api/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-2. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-3. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+1. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+2. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+3. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+4. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
 5. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-6. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-7. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-8. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+6. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+7. https://dash.harvard.edu/server/api/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+8. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
 9. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
 10. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-11. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-12. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-13. https://research.ibm.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-14. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+11. https://dash.harvard.edu/server/api/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+12. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+13. https://dash.harvard.edu/server/api/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+14. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
 15. https://dash.harvard.edu/server/api/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-16. https://research.ibm.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-17. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-18. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-19. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-20. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-21. https://dash.harvard.edu/server/api/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-22. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-23. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-24. https://research.ibm.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-25. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-26. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-27. https://research.ibm.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-28. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-30. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+16. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+17. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+18. https://research.ibm.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+19. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+20. https://research.ibm.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+21. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+22. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+23. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+24. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+25. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+26. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+27. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+28. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+29. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+30. https://dash.harvard.edu/server/api/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
 31. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-32. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-33. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-34. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+32. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+33. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+34. https://dash.harvard.edu/server/api/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
 35. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-36. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-37. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-38. https://research.ibm.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
-39. https://dash.harvard.edu/server/api/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+36. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+38. https://www.nature.com/search?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
+39. https://arxiv.org/search/?query=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0
 40. https://ocw.mit.edu/search/?q=52.+\frac{\partial+\rho}{\partial+t}+++\nabla+\cdot+(\rho+\vec{v})+=+0

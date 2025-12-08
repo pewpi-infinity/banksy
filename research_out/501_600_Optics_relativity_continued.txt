@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 6498
-Token Value: 2681
+Token #: 1403
+Token Value: 5814
 Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:46:05.134237 / 00:00
+Token Date & Time: 2025-12-07T18:46:47.488597 / 00:00
 Topic: 501–600: Optics & relativity continued
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
-2. https://research.ibm.com/search?q=501–600:+Optics+&+relativity+continued
-3. https://research.ibm.com/search?q=501–600:+Optics+&+relativity+continued
-4. https://arxiv.org/search/?query=501–600:+Optics+&+relativity+continued
-5. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
-6. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
-7. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
+1. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
+2. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
+3. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
+4. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
+5. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
+6. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
+7. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
 8. https://research.ibm.com/search?q=501–600:+Optics+&+relativity+continued
-9. https://arxiv.org/search/?query=501–600:+Optics+&+relativity+continued
-10. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
-11. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
+9. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
+10. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
+11. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
 12. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
-13. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
-14. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
+13. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
+14. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
 15. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
-16. https://research.ibm.com/search?q=501–600:+Optics+&+relativity+continued
-17. https://arxiv.org/search/?query=501–600:+Optics+&+relativity+continued
-18. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
-19. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
-20. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
-21. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
-22. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
-23. https://arxiv.org/search/?query=501–600:+Optics+&+relativity+continued
-24. https://research.ibm.com/search?q=501–600:+Optics+&+relativity+continued
-25. https://research.ibm.com/search?q=501–600:+Optics+&+relativity+continued
-26. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
-27. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
-28. https://research.ibm.com/search?q=501–600:+Optics+&+relativity+continued
+16. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
+17. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
+18. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
+19. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
+20. https://arxiv.org/search/?query=501–600:+Optics+&+relativity+continued
+21. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
+22. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
+23. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
+24. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
+26. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
+27. https://research.ibm.com/search?q=501–600:+Optics+&+relativity+continued
+28. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
 29. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
-30. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
-31. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
+30. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
+31. https://research.ibm.com/search?q=501–600:+Optics+&+relativity+continued
 32. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
 33. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
-34. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
-35. https://arxiv.org/search/?query=501–600:+Optics+&+relativity+continued
+34. https://arxiv.org/search/?query=501–600:+Optics+&+relativity+continued
+35. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
 36. https://arxiv.org/search/?query=501–600:+Optics+&+relativity+continued
-37. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=501–600:+Optics+&+relativity+continued
-39. https://arxiv.org/search/?query=501–600:+Optics+&+relativity+continued
-40. https://dash.harvard.edu/server/api/search?q=501–600:+Optics+&+relativity+continued
+37. https://www.nature.com/search?q=501–600:+Optics+&+relativity+continued
+38. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
+39. https://ocw.mit.edu/search/?q=501–600:+Optics+&+relativity+continued
+40. https://arxiv.org/search/?query=501–600:+Optics+&+relativity+continued

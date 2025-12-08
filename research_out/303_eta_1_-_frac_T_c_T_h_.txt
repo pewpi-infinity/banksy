@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 5179
-Token Value: 4729
+Token #: 1379
+Token Value: 5847
 Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:46:04.791255 / 00:00
+Token Date & Time: 2025-12-07T18:46:47.460869 / 00:00
 Topic: 303. \eta = 1 - \frac{T_c}{T_h}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-2. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+1. https://research.ibm.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+2. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
 3. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-4. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-5. https://arxiv.org/search/?query=303.+\eta+=+1+-+\frac{T_c}{T_h}
-6. https://research.ibm.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-7. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+4. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+5. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+6. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+7. https://arxiv.org/search/?query=303.+\eta+=+1+-+\frac{T_c}{T_h}
+8. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
 9. https://dash.harvard.edu/server/api/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-10. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-11. https://arxiv.org/search/?query=303.+\eta+=+1+-+\frac{T_c}{T_h}
-12. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-13. https://arxiv.org/search/?query=303.+\eta+=+1+-+\frac{T_c}{T_h}
-14. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-16. https://dash.harvard.edu/server/api/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-17. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+10. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+11. https://dash.harvard.edu/server/api/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+12. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+13. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+14. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+15. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+16. https://arxiv.org/search/?query=303.+\eta+=+1+-+\frac{T_c}{T_h}
+17. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
 18. https://research.ibm.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-19. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-20. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-21. https://arxiv.org/search/?query=303.+\eta+=+1+-+\frac{T_c}{T_h}
+19. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+20. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+21. https://research.ibm.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
 22. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-23. https://research.ibm.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-24. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+23. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+24. https://arxiv.org/search/?query=303.+\eta+=+1+-+\frac{T_c}{T_h}
 25. https://research.ibm.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-26. https://dash.harvard.edu/server/api/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-27. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-28. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-29. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+26. https://research.ibm.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+27. https://arxiv.org/search/?query=303.+\eta+=+1+-+\frac{T_c}{T_h}
+28. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+29. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
 30. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-31. https://ui.adsabs.harvard.edu/v1/search/query?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-32. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-33. https://dash.harvard.edu/server/api/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-34. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+31. https://research.ibm.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+32. https://dash.harvard.edu/server/api/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+33. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+34. https://research.ibm.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
 35. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-36. https://ocw.mit.edu/search/?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-37. https://dash.harvard.edu/server/api/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-38. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+36. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
+37. https://arxiv.org/search/?query=303.+\eta+=+1+-+\frac{T_c}{T_h}
+38. https://dash.harvard.edu/server/api/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
 39. https://www.nature.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}
-40. https://arxiv.org/search/?query=303.+\eta+=+1+-+\frac{T_c}{T_h}
+40. https://research.ibm.com/search?q=303.+\eta+=+1+-+\frac{T_c}{T_h}

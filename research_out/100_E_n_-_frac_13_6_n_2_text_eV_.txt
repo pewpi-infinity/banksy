@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 2058
-Token Value: 4873
-Token Color: BLUE
-Token Date & Time: 2025-12-07T18:46:04.546413 / 00:00
+Token #: 5228
+Token Value: 2041
+Token Color: GREEN
+Token Date & Time: 2025-12-07T18:46:47.187286 / 00:00
 Topic: 100. E_n = -\frac{13.6}{n^2} \, \text{eV}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-2. https://research.ibm.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-4. https://research.ibm.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+1. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+2. https://ocw.mit.edu/search/?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+3. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+4. https://www.nature.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+5. https://www.nature.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
 6. https://www.nature.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-7. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-8. https://www.nature.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-9. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-10. https://ocw.mit.edu/search/?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-11. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-12. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-13. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-14. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-15. https://ocw.mit.edu/search/?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-16. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+7. https://www.nature.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+8. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+9. https://research.ibm.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+10. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+11. https://research.ibm.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+12. https://www.nature.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+13. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+14. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+15. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+16. https://www.nature.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
 17. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
 18. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-19. https://research.ibm.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-20. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-21. https://ocw.mit.edu/search/?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-22. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-23. https://www.nature.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-24. https://www.nature.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-25. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-26. https://ocw.mit.edu/search/?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-27. https://ocw.mit.edu/search/?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-28. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-30. https://research.ibm.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-31. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-32. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-33. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-34. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-35. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-36. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-37. https://ocw.mit.edu/search/?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-38. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-39. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
-40. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+19. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+20. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+21. https://www.nature.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+22. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+23. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+24. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+25. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+26. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+27. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+28. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+29. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+30. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+31. https://www.nature.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+32. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+33. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+34. https://arxiv.org/search/?query=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+35. https://ui.adsabs.harvard.edu/v1/search/query?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+36. https://research.ibm.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+37. https://research.ibm.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+38. https://research.ibm.com/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+39. https://ocw.mit.edu/search/?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
+40. https://dash.harvard.edu/server/api/search?q=100.+E_n+=+-\frac{13.6}{n^2}+\,+\text{eV}
