@@ -1,0 +1,15 @@
+{
+  "diff": {
+    "added": [],
+    "removed": [
+      "ai-materials",
+      "color-logic",
+      "hydrogen-storage"
+    ],
+    "common": []
+  },
+  "plan": {
+    "trends": [],
+    "upgrades": {}
+  }
+}

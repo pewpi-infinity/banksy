@@ -350,7 +350,7 @@ URL: https://home.cern?q=plasma+hydrogen
                                                                                                                                                                       
                                                                                       <div class="views-element-container form-group">
 
-<div class="view view-cern-news-menu-featured view-id-cern_news_menu_featured view-display-id-block_1 js-view-dom-id-8734532c2c7059fa782c0792372be69b6e4583c280abb2924a49c2be366b0ee6 cern-view-display-block cern-view-display-block_1 clearfix">
+<div class="view view-cern-news-menu-featured view-id-cern_news_menu_featured view-display-id-block_1 js-view-dom-id-413a499ee9fadb2cb28aaf65dd0f14fa3afd653bc7fdaab0e5d8fa5e7d7fb352 cern-view-display-block cern-view-display-block_1 clearfix">
   
       
 
@@ -1015,7 +1015,7 @@ URL: https://home.cern?q=plasma+hydrogen
                                                                                                                                                                       
                                                                                       <div class="views-element-container form-group">
 
-<div class="view view-resource-menu-content view-id-resource_menu_content view-display-id-block_1 js-view-dom-id-8a118676e353b69e89a655efb622728b79c47041e840c00e7936d10056c8d4d9 cern-view-display-block cern-view-display-block_1 clearfix">
+<div class="view view-resource-menu-content view-id-resource_menu_content view-display-id-block_1 js-view-dom-id-a9612bd6051d054a019aa9f1ce3386a8d62c8726ae4cbfffa03e4aa27364b474 cern-view-display-block cern-view-display-block_1 clearfix">
   
           <h1 class="mb-3 mt-3 text-center">Featured resources</h1>
       
@@ -1704,7 +1704,7 @@ the boundaries of nuclear physics</p>
 						
 						<div class="views-element-container form-group">
 
-<div class="horizontal-boxes view view-news-microviews view-id-news_microviews view-display-id-block_4 js-view-dom-id-35595f2c80659f9cb04395df109b937c7741d75c3315cd3df628ba0a3586913b cern-view-display-block cern-view-display-block_4 clearfix">
+<div class="horizontal-boxes view view-news-microviews view-id-news_microviews view-display-id-block_4 js-view-dom-id-b9d0c229dc58369aa22826de64e52e5f0c4a9bb494979e1993d0267137efb3a3 cern-view-display-block cern-view-display-block_4 clearfix">
   
       
 
@@ -2777,7 +2777,7 @@ come to <span style="background-color:#2980b9;">CERN</span> …</span></span></s
 						
 						<div class="views-element-container form-group">
 
-<div class="events-collision view view-events-microviews view-id-events_microviews view-display-id-upcoming_events_collision js-view-dom-id-98f1170986895361838478a8c4e1352110d6b46fd6098e336cfd76fa82fefd24 cern-view-display-block cern-view-display-upcoming_events_collision clearfix">
+<div class="events-collision view view-events-microviews view-id-events_microviews view-display-id-upcoming_events_collision js-view-dom-id-2314ed3722d151fa08175eef14759a3698a88c5a9a86b549131d569283630544 cern-view-display-block cern-view-display-upcoming_events_collision clearfix">
   
       
 

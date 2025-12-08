@@ -1,72 +1,98 @@
 #!/usr/bin/env python3
-import os
-import subprocess
-import re
-import time
-from datetime import datetime
+# ∞ Infinity Orchestrator – Core System Bootstrap
 
-REPO = os.path.expanduser("~/mongoose.os")
+import os, json, time, datetime, random
 
-print("\n" + "="*70)
-print("        ∞ Infinity OS — Master Orchestrator Loaded")
-print("="*70 + "\n")
+# -------------------------------------------------------------------
+#  CONFIG + ENVIRONMENT BOOTSTRAP
+# -------------------------------------------------------------------
 
-os.chdir(REPO)
+ROOT = os.getcwd()
 
-# Categorize carts based on filename
-scrapers = []
-writers = []
-tokenizers = []
-analysis = []
-other = []
+DIRS = [
+    "infinity_research_output",
+    "research_cache",
+    "research_tmp",
+    "logs",
+    "token_logs",
+    "scraped_sites",
+]
 
-for f in os.listdir(REPO):
-    if re.match(r"cart\d+.*\.py", f):
-        name = f.lower()
-        if "scrape" in name or "source" in name:
-            scrapers.append(f)
-        elif "writer" in name or "research" in name:
-            writers.append(f)
-        elif "token" in name:
-            tokenizers.append(f)
-        elif "analy" in name or "calc" in name:
-            analysis.append(f)
-        else:
-            other.append(f)
+for d in DIRS:
+    os.makedirs(d, exist_ok=True)
 
-def run_cart(cart):
-    print(f"[💜] Running {cart}…")
-    try:
-        subprocess.run(["python3", cart], check=True)
-    except Exception as e:
-        print(f"[⚠️] Error in {cart}: {e}")
+def log(msg):
+    ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print(f"[∞ ORCH] {ts} – {msg}")
 
-print("[💙] Running SCRAPERS…")
-for c in scrapers:
-    run_cart(c)
+log("Bootstrapping Infinity Orchestrator…")
+log(f"Working directory: {ROOT}")
 
-print("[💚] Running ANALYSIS modules…")
-for c in analysis:
-    run_cart(c)
+# -------------------------------------------------------------------
+#   LOAD MASTER TERMS (if exists)
+# -------------------------------------------------------------------
 
-print("[💛] Running WRITERS…")
-for c in writers:
-    run_cart(c)
+TERMS_FILE = "search_terms_master.txt"
+MASTER_TERMS = []
 
-print("[💗] Running TOKEN engines…")
-for c in tokenizers:
-    run_cart(c)
+if os.path.exists(TERMS_FILE):
+    with open(TERMS_FILE) as f:
+        MASTER_TERMS = [x.strip() for x in f.readlines() if x.strip()]
+    log(f"Loaded {len(MASTER_TERMS)} master search terms.")
+else:
+    log("No master terms file found. Continuing without it.")
 
-print("[🤍] Running OTHER modules…")
-for c in other:
-    run_cart(c)
+# -------------------------------------------------------------------
+#   LOAD SITE LISTS (if exists)
+# -------------------------------------------------------------------
 
-print("\n[💜] Staging and pushing outputs…\n")
+SITES_FILE = "site_list_master.txt"
+SITES = []
 
-subprocess.run(["git", "add", "-A"])
-subprocess.run(["git", "commit", "-m", f"∞ Orchestrator run – {datetime.now()}"])
-subprocess.run(["git", "push", "origin", "main"])
+if os.path.exists(SITES_FILE):
+    with open(SITES_FILE) as f:
+        SITES = [x.strip() for x in f.readlines() if x.strip()]
+    log(f"Loaded {len(SITES)} research sites.")
+else:
+    log("No site list found. Scrapers will use built-in defaults.")
 
-print("\n" + "="*70)
-print("            ∞ Infinity Orchestrator Complete")
-print("="*70 + "\n")
+# -------------------------------------------------------------------
+#   PROVIDE SHARED UTILITY FUNCTIONS
+# -------------------------------------------------------------------
+
+def make_token_header(term="hydrogen"):
+    """Shared function used by all token generators."""
+    return {
+        "token_id": random.randint(1,999999),
+        "term": term,
+        "generated": datetime.datetime.now().isoformat(),
+        "color": random.choice(["GREEN","PURPLE","YELLOW","RED"])
+    }
+
+def write_json(path, data):
+    """Safe JSON writer used by all carts."""
+    with open(path, "w") as f:
+        json.dump(data, f, indent=4)
+
+def load_json(path):
+    if not os.path.exists(path): return None
+    with open(path) as f:
+        return json.load(f)
+
+log("Shared utility functions loaded.")
+
+# -------------------------------------------------------------------
+#  FINAL ORCHESTRATION STARTUP STATE
+# -------------------------------------------------------------------
+
+STATE = {
+    "boot_time": datetime.datetime.now().isoformat(),
+    "terms": MASTER_TERMS,
+    "sites": SITES,
+    "root": ROOT,
+}
+
+write_json("research_cache/orchestrator_state.json", STATE)
+
+log("Orchestrator state written.")
+log("Orchestrator ready. Handing control to master runner.")
