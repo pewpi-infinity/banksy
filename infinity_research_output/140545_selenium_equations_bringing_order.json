@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 140545,
+    "token_value": 2046,
+    "token_color": "\ud83d\udc9c PURPLE",
+    "generated": "2025-12-08T01:15:52.788717",
+    "topic": "selenium equations bringing order"
+  },
+  "articles": [
+    {
+      "source_id": 1,
+      "url": "https://arxiv.org/search/?query=selenium+equations+bringing+order",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
