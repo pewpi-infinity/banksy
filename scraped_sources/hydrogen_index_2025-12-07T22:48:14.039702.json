@@ -1,0 +1,11 @@
+{
+  "NASA": "scraped_sources/NASA_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
+  "TESLA": "scraped_sources/TESLA_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
+  "MIT": "scraped_sources/MIT_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
+  "HARVARD": "scraped_sources/HARVARD_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
+  "IBM_RESEARCH": "scraped_sources/IBM_RESEARCH_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
+  "NATURE": "scraped_sources/NATURE_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
+  "CERN": "scraped_sources/CERN_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
+  "DOE": "scraped_sources/DOE_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
+  "ARXIV": "scraped_sources/ARXIV_hydrogen_raw_2025-12-07T22:48:14.039702.txt"
+}
