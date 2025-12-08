@@ -66,16 +66,16 @@ URL: https://www.iea.org?q=green+hydrogen
     <![endif]-->
 
     <!--[if IE]>
-    <script nonce="Spm708n9kfp8WNuYyrHkNk7w0ojTDXA8">var de = document.documentElement; de.className = de.className.replace('not-ie','ie');</script>
+    <script nonce="R2aQpF5PKrqGQcEhYyIQ7MggJJuqAXQl">var de = document.documentElement; de.className = de.className.replace('not-ie','ie');</script>
     <![endif]-->
 
     
-    <script nonce="Spm708n9kfp8WNuYyrHkNk7w0ojTDXA8">
+    <script nonce="R2aQpF5PKrqGQcEhYyIQ7MggJJuqAXQl">
 !function(i){var e,t=window.A17||{},n=i.documentElement,s=window,r=i.getElementsByTagName("head")[0];t.browserSpec=(i.querySelectorAll,"addEventListener"in s&&s.history.pushState&&i.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#BasicStructure","1.1")?"html5":"html4"),t.touch=!!("ontouchstart"in s||s.documentTouch&&i instanceof DocumentTouch),t.objectFit="objectFit"in n.style,t.isIE=function(){var e=window.navigator.userAgent,t=e.indexOf("MSIE ");if(0<t)return parseInt(e.substring(t+5,e.indexOf(".",t)),10);if(0<e.indexOf("Trident/")){var n=e.indexOf("rv:");return parseInt(e.substring(n+3,e.indexOf(".",n)),10)}var i=e.indexOf("Edge/");if(0<i)return parseInt(e.substring(i+5,e.indexOf(".",i)),10);return!1}(),window.A17=t,n.className=n.className.replace(/\bno-js\b/," js "+t.browserSpec+(t.touch?" touch":" no-touch")+(t.objectFit?" objectFit":" no-objectFit")+(t.isIE?" ie":" no-ie")),"html4"===t.browserSpec&&((e=i.createElement("link")).rel="stylesheet",e.title="html4css",e.href="/dist/styles/html4css.css",r.appendChild(e),function e(){!i.readyState&&i.addEventListener&&(i.body?setTimeout(function(){i.readyState="complete"},500):setTimeout(e,9))}(),function e(){if(/in/.test(i.readyState))setTimeout(e,9);else for(var t=0;t<i.styleSheets.length;t++){var n=i.styleSheets[t];"html4css"!==n.title&&(n.disabled=!0)}}())}(document);
 </script>
 
     <!-- Google Tag Manager -->
-    <script nonce="Spm708n9kfp8WNuYyrHkNk7w0ojTDXA8">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script nonce="R2aQpF5PKrqGQcEhYyIQ7MggJJuqAXQl">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
