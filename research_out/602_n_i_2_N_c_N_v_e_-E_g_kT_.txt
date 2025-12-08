@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 3850
-Token Value: 4974
-Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:45:39.446254 / 00:00
+Token #: 1315
+Token Value: 4729
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:46:05.320850 / 00:00
 Topic: 602. n_i^2 = N_c N_v e^{-E_g/kT}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-2. https://research.ibm.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-3. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+1. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+2. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+3. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 4. https://www.nature.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-6. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+5. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+6. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 7. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-8. https://www.nature.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-9. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+8. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+9. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 10. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-11. https://www.nature.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-12. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-13. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-14. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+11. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+12. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+13. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+14. https://research.ibm.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 15. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-16. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-17. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-18. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+16. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+17. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+18. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 19. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-20. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-21. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-22. https://research.ibm.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-23. https://research.ibm.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-24. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-25. https://www.nature.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-26. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+20. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+21. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+22. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+23. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+24. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+25. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+26. https://research.ibm.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 27. https://research.ibm.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 28. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-29. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+29. https://www.nature.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 30. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-31. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+31. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 32. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-33. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-34. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-35. https://research.ibm.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+33. https://ocw.mit.edu/search/?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+34. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+35. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 36. https://www.nature.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-37. https://arxiv.org/search/?query=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+37. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 38. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
 39. https://ui.adsabs.harvard.edu/v1/search/query?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
-40. https://research.ibm.com/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}
+40. https://dash.harvard.edu/server/api/search?q=602.+n_i^2+=+N_c+N_v+e^{-E_g/kT}

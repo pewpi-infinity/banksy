@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 8149
-Token Value: 5778
-Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:45:36.591285 / 00:00
+Token #: 4722
+Token Value: 4030
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:46:03.995974 / 00:00
 Topic: 20. \lambda = \frac{h}{p}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ui.adsabs.harvard.edu/v1/search/query?q=20.+\lambda+=+\frac{h}{p}
+1. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
 2. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
-3. https://research.ibm.com/search?q=20.+\lambda+=+\frac{h}{p}
-4. https://research.ibm.com/search?q=20.+\lambda+=+\frac{h}{p}
+3. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
+4. https://www.nature.com/search?q=20.+\lambda+=+\frac{h}{p}
 5. https://research.ibm.com/search?q=20.+\lambda+=+\frac{h}{p}
-6. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
+6. https://www.nature.com/search?q=20.+\lambda+=+\frac{h}{p}
 7. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
-8. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
-9. https://dash.harvard.edu/server/api/search?q=20.+\lambda+=+\frac{h}{p}
-10. https://ui.adsabs.harvard.edu/v1/search/query?q=20.+\lambda+=+\frac{h}{p}
-11. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
-12. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
+8. https://dash.harvard.edu/server/api/search?q=20.+\lambda+=+\frac{h}{p}
+9. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
+10. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
+11. https://www.nature.com/search?q=20.+\lambda+=+\frac{h}{p}
+12. https://ui.adsabs.harvard.edu/v1/search/query?q=20.+\lambda+=+\frac{h}{p}
 13. https://dash.harvard.edu/server/api/search?q=20.+\lambda+=+\frac{h}{p}
-14. https://ui.adsabs.harvard.edu/v1/search/query?q=20.+\lambda+=+\frac{h}{p}
-15. https://ui.adsabs.harvard.edu/v1/search/query?q=20.+\lambda+=+\frac{h}{p}
+14. https://www.nature.com/search?q=20.+\lambda+=+\frac{h}{p}
+15. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
 16. https://dash.harvard.edu/server/api/search?q=20.+\lambda+=+\frac{h}{p}
-17. https://ui.adsabs.harvard.edu/v1/search/query?q=20.+\lambda+=+\frac{h}{p}
-18. https://www.nature.com/search?q=20.+\lambda+=+\frac{h}{p}
+17. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
+18. https://dash.harvard.edu/server/api/search?q=20.+\lambda+=+\frac{h}{p}
 19. https://research.ibm.com/search?q=20.+\lambda+=+\frac{h}{p}
-20. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
-21. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
-22. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
-23. https://dash.harvard.edu/server/api/search?q=20.+\lambda+=+\frac{h}{p}
-24. https://dash.harvard.edu/server/api/search?q=20.+\lambda+=+\frac{h}{p}
-25. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
-26. https://ui.adsabs.harvard.edu/v1/search/query?q=20.+\lambda+=+\frac{h}{p}
-27. https://dash.harvard.edu/server/api/search?q=20.+\lambda+=+\frac{h}{p}
+20. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
+21. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
+22. https://research.ibm.com/search?q=20.+\lambda+=+\frac{h}{p}
+23. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
+24. https://www.nature.com/search?q=20.+\lambda+=+\frac{h}{p}
+25. https://www.nature.com/search?q=20.+\lambda+=+\frac{h}{p}
+26. https://research.ibm.com/search?q=20.+\lambda+=+\frac{h}{p}
+27. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
 28. https://research.ibm.com/search?q=20.+\lambda+=+\frac{h}{p}
-29. https://ui.adsabs.harvard.edu/v1/search/query?q=20.+\lambda+=+\frac{h}{p}
+29. https://dash.harvard.edu/server/api/search?q=20.+\lambda+=+\frac{h}{p}
 30. https://ui.adsabs.harvard.edu/v1/search/query?q=20.+\lambda+=+\frac{h}{p}
-31. https://dash.harvard.edu/server/api/search?q=20.+\lambda+=+\frac{h}{p}
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=20.+\lambda+=+\frac{h}{p}
 32. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
 33. https://ui.adsabs.harvard.edu/v1/search/query?q=20.+\lambda+=+\frac{h}{p}
-34. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
-35. https://research.ibm.com/search?q=20.+\lambda+=+\frac{h}{p}
-36. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
-37. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
-38. https://www.nature.com/search?q=20.+\lambda+=+\frac{h}{p}
-39. https://www.nature.com/search?q=20.+\lambda+=+\frac{h}{p}
-40. https://research.ibm.com/search?q=20.+\lambda+=+\frac{h}{p}
+34. https://research.ibm.com/search?q=20.+\lambda+=+\frac{h}{p}
+35. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
+36. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
+37. https://ocw.mit.edu/search/?q=20.+\lambda+=+\frac{h}{p}
+38. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
+39. https://arxiv.org/search/?query=20.+\lambda+=+\frac{h}{p}
+40. https://www.nature.com/search?q=20.+\lambda+=+\frac{h}{p}

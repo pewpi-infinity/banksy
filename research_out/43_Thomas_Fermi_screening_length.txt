@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 9397
-Token Value: 4203
+Token #: 5936
+Token Value: 5617
 Token Color: YELLOW
-Token Date & Time: 2025-12-07T18:45:26.361624 / 00:00
+Token Date & Time: 2025-12-07T18:46:03.666367 / 00:00
 Topic: 43. Thomas–Fermi screening length
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
+1. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
 2. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
 3. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
-4. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
-5. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
-6. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
-7. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
-8. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
+4. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
+5. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
+6. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
+7. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
+8. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
 9. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
-10. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
-11. https://www.nature.com/search?q=43.+Thomas–Fermi+screening+length
-12. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
-13. https://dash.harvard.edu/server/api/search?q=43.+Thomas–Fermi+screening+length
-14. https://dash.harvard.edu/server/api/search?q=43.+Thomas–Fermi+screening+length
-15. https://dash.harvard.edu/server/api/search?q=43.+Thomas–Fermi+screening+length
-16. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
-17. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
-18. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
-19. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
-20. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
-21. https://www.nature.com/search?q=43.+Thomas–Fermi+screening+length
-22. https://www.nature.com/search?q=43.+Thomas–Fermi+screening+length
+10. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
+11. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
+12. https://dash.harvard.edu/server/api/search?q=43.+Thomas–Fermi+screening+length
+13. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
+14. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
+16. https://dash.harvard.edu/server/api/search?q=43.+Thomas–Fermi+screening+length
+17. https://www.nature.com/search?q=43.+Thomas–Fermi+screening+length
+18. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
+19. https://www.nature.com/search?q=43.+Thomas–Fermi+screening+length
+20. https://www.nature.com/search?q=43.+Thomas–Fermi+screening+length
+21. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
+22. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
 23. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
-24. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
-25. https://dash.harvard.edu/server/api/search?q=43.+Thomas–Fermi+screening+length
-26. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
-27. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
-28. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
-29. https://dash.harvard.edu/server/api/search?q=43.+Thomas–Fermi+screening+length
+24. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
+25. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
+26. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
+27. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
+28. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
+29. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
 30. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
-31. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
 32. https://dash.harvard.edu/server/api/search?q=43.+Thomas–Fermi+screening+length
-33. https://www.nature.com/search?q=43.+Thomas–Fermi+screening+length
-34. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
-35. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
-36. https://research.ibm.com/search?q=43.+Thomas–Fermi+screening+length
-37. https://www.nature.com/search?q=43.+Thomas–Fermi+screening+length
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
-39. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
-40. https://www.nature.com/search?q=43.+Thomas–Fermi+screening+length
+33. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
+34. https://ui.adsabs.harvard.edu/v1/search/query?q=43.+Thomas–Fermi+screening+length
+35. https://ocw.mit.edu/search/?q=43.+Thomas–Fermi+screening+length
+36. https://dash.harvard.edu/server/api/search?q=43.+Thomas–Fermi+screening+length
+37. https://arxiv.org/search/?query=43.+Thomas–Fermi+screening+length
+38. https://www.nature.com/search?q=43.+Thomas–Fermi+screening+length
+39. https://www.nature.com/search?q=43.+Thomas–Fermi+screening+length
+40. https://dash.harvard.edu/server/api/search?q=43.+Thomas–Fermi+screening+length

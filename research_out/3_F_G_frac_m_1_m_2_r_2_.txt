@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 2870
-Token Value: 4383
-Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:45:35.903989 / 00:00
+Token #: 4089
+Token Value: 3929
+Token Color: RED
+Token Date & Time: 2025-12-07T18:46:03.936079 / 00:00
 Topic: 3. F = G \frac{m_1 m_2}{r^2}
 ============================================
 
@@ -297,42 +297,42 @@ Mathematical Model 40:
 
 ## Reference Index (40 Sources)
 1. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
-2. https://research.ibm.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-3. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-4. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+2. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+3. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
+4. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
 5. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
 6. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
-7. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
-8. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-9. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-10. https://research.ibm.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-11. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-12. https://ocw.mit.edu/search/?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-13. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-14. https://research.ibm.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-15. https://research.ibm.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+7. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+8. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
+9. https://ocw.mit.edu/search/?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+10. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+11. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+12. https://research.ibm.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+13. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+14. https://ocw.mit.edu/search/?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
 16. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-17. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
-18. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-19. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+17. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+18. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+19. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
 20. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
-21. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-22. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+21. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+22. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
 23. https://research.ibm.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-24. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-25. https://ocw.mit.edu/search/?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+24. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+25. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
 26. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
-27. https://research.ibm.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-28. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
-29. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-30. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-31. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-32. https://research.ibm.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-33. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-34. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
-35. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-36. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
-37. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-38. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+27. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+28. https://ocw.mit.edu/search/?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+29. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
+30. https://ocw.mit.edu/search/?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+31. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+32. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
+33. https://ocw.mit.edu/search/?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+34. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+35. https://ui.adsabs.harvard.edu/v1/search/query?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+36. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+37. https://arxiv.org/search/?query=3.+F+=+G+\frac{m_1+m_2}{r^2}
+38. https://research.ibm.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
 39. https://dash.harvard.edu/server/api/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
-40. https://www.nature.com/search?q=3.+F+=+G+\frac{m_1+m_2}{r^2}
+40. https://ocw.mit.edu/search/?q=3.+F+=+G+\frac{m_1+m_2}{r^2}

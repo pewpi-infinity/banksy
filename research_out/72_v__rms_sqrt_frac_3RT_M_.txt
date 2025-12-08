@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 6608
-Token Value: 4700
+Token #: 3058
+Token Value: 3085
 Token Color: RED
-Token Date & Time: 2025-12-07T18:45:37.451846 / 00:00
+Token Date & Time: 2025-12-07T18:46:04.318545 / 00:00
 Topic: 72. v_{rms} = \sqrt{\frac{3RT}{M}}
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-2. https://research.ibm.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-3. https://dash.harvard.edu/server/api/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-4. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-5. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-6. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-7. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-8. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-9. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-10. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-11. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-12. https://dash.harvard.edu/server/api/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+1. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+2. https://dash.harvard.edu/server/api/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+3. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+4. https://dash.harvard.edu/server/api/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+5. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+6. https://research.ibm.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+7. https://research.ibm.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+8. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+9. https://arxiv.org/search/?query=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+10. https://arxiv.org/search/?query=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+11. https://dash.harvard.edu/server/api/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+12. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
 13. https://research.ibm.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-14. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-15. https://arxiv.org/search/?query=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-17. https://research.ibm.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+14. https://arxiv.org/search/?query=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+16. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+17. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
 18. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-19. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-20. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+19. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+20. https://dash.harvard.edu/server/api/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
 21. https://dash.harvard.edu/server/api/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-22. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-23. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+22. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+23. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
 24. https://arxiv.org/search/?query=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-25. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-26. https://dash.harvard.edu/server/api/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+25. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+26. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
 27. https://arxiv.org/search/?query=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-28. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-29. https://arxiv.org/search/?query=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-30. https://research.ibm.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-31. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-32. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-33. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+28. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+29. https://research.ibm.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+30. https://dash.harvard.edu/server/api/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+31. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+32. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+33. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
 34. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-35. https://research.ibm.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-36. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-37. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-38. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
-39. https://dash.harvard.edu/server/api/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+35. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+36. https://research.ibm.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+38. https://research.ibm.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
+39. https://www.nature.com/search?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}
 40. https://ocw.mit.edu/search/?q=72.+v_{rms}+=+\sqrt{\frac{3RT}{M}}

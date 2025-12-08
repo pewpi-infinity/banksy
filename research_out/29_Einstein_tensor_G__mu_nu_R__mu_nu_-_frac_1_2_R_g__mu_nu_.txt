@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 6777
-Token Value: 4261
-Token Color: RED
-Token Date & Time: 2025-12-07T18:45:26.314859 / 00:00
+Token #: 6477
+Token Value: 5809
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:46:03.596092 / 00:00
 Topic: 29. Einstein tensor: \( G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} \)
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+1. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 2. https://ui.adsabs.harvard.edu/v1/search/query?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-3. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-4. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-5. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+3. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+4. https://arxiv.org/search/?query=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+5. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 6. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-7. https://arxiv.org/search/?query=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-8. https://ui.adsabs.harvard.edu/v1/search/query?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+7. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+8. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 9. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-10. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-11. https://dash.harvard.edu/server/api/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-12. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-13. https://ui.adsabs.harvard.edu/v1/search/query?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-14. https://dash.harvard.edu/server/api/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-15. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-16. https://ui.adsabs.harvard.edu/v1/search/query?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+10. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+11. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+12. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+13. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+14. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+15. https://ui.adsabs.harvard.edu/v1/search/query?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+16. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 17. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-18. https://dash.harvard.edu/server/api/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-19. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+18. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+19. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 20. https://ui.adsabs.harvard.edu/v1/search/query?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-21. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-22. https://arxiv.org/search/?query=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+21. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+22. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 23. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-24. https://arxiv.org/search/?query=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+24. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 25. https://dash.harvard.edu/server/api/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 26. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 27. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-28. https://dash.harvard.edu/server/api/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-29. https://arxiv.org/search/?query=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+28. https://arxiv.org/search/?query=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+29. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 30. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-31. https://arxiv.org/search/?query=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-32. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+31. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+32. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 33. https://dash.harvard.edu/server/api/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-34. https://ui.adsabs.harvard.edu/v1/search/query?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+34. https://dash.harvard.edu/server/api/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
 35. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-36. https://ui.adsabs.harvard.edu/v1/search/query?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-37. https://www.nature.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-38. https://arxiv.org/search/?query=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-39. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
-40. https://ui.adsabs.harvard.edu/v1/search/query?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+36. https://research.ibm.com/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+37. https://ui.adsabs.harvard.edu/v1/search/query?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+38. https://dash.harvard.edu/server/api/search?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+39. https://arxiv.org/search/?query=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)
+40. https://ocw.mit.edu/search/?q=29.+Einstein+tensor:+\(+G_{\mu\nu}+=+R_{\mu\nu}+-+\frac{1}{2}+R+g_{\mu\nu}+\)

@@ -1,10 +1,10 @@
 
 ∞ Infinity Research Paper ∞
 ============================================
-Token #: 9296
-Token Value: 4933
-Token Color: PURPLE
-Token Date & Time: 2025-12-07T18:45:30.805880 / 00:00
+Token #: 8754
+Token Value: 3320
+Token Color: BLUE
+Token Date & Time: 2025-12-07T18:46:03.789784 / 00:00
 Topic: 75. Time dilation: \( \Delta t = \gamma \Delta t_0 \)
 ============================================
 
@@ -296,43 +296,43 @@ Mathematical Model 40:
 
 
 ## Reference Index (40 Sources)
-1. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-2. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-3. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-4. https://www.nature.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-5. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-6. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+1. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+2. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+3. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+4. https://research.ibm.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+5. https://www.nature.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+6. https://ui.adsabs.harvard.edu/v1/search/query?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
 7. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-8. https://research.ibm.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-9. https://www.nature.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+8. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+9. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
 10. https://ui.adsabs.harvard.edu/v1/search/query?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-11. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+11. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
 12. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-13. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+13. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
 14. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-15. https://www.nature.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-16. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+15. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+16. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
 17. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-18. https://research.ibm.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-19. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-20. https://research.ibm.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+18. https://ui.adsabs.harvard.edu/v1/search/query?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+19. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+20. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
 21. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
 22. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
 23. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-24. https://ui.adsabs.harvard.edu/v1/search/query?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-25. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-26. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+24. https://research.ibm.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+25. https://research.ibm.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+26. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
 27. https://ui.adsabs.harvard.edu/v1/search/query?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-28. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-29. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-30. https://research.ibm.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-31. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-32. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+28. https://research.ibm.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+29. https://www.nature.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+30. https://www.nature.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+31. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+32. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
 33. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-34. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-35. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-36. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-37. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-38. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+34. https://research.ibm.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+35. https://research.ibm.com/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+36. https://ocw.mit.edu/search/?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+37. https://dash.harvard.edu/server/api/search?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+38. https://ui.adsabs.harvard.edu/v1/search/query?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
 39. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
-40. https://ui.adsabs.harvard.edu/v1/search/query?q=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
+40. https://arxiv.org/search/?query=75.+Time+dilation:+\(+\Delta+t+=+\gamma+\Delta+t_0+\)
