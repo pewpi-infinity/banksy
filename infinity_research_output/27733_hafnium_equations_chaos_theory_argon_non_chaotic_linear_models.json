@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 27733,
+    "token_value": 528,
+    "token_color": "\ud83d\udc9b YELLOW",
+    "generated": "2025-12-08T01:01:34.953992",
+    "topic": "hafnium equations chaos theory argon non chaotic linear models"
+  },
+  "articles": [
+    {
+      "source_id": 1,
+      "url": "https://arxiv.org/search/?query=hafnium+equations+chaos+theory+argon+non+chaotic+linear+models",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}

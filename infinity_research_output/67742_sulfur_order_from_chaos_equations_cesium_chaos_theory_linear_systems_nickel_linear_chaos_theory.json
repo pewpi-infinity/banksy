@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 67742,
+    "token_value": 1152,
+    "token_color": "\ud83d\udc9a GREEN",
+    "generated": "2025-12-08T01:02:48.451881",
+    "topic": "sulfur order from chaos equations cesium chaos theory linear systems nickel linear chaos theory"
+  },
+  "articles": [
+    {
+      "source_id": 2,
+      "url": "https://arxiv.org/search/?query=sulfur+order+from+chaos+equations+cesium+chaos+theory+linear+systems+nickel+linear+chaos+theory",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
