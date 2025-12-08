@@ -941,9 +941,9 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=-452910601&amp;t=pos%3Dbillboard%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=-1649106424&amp;t=pos%3Dbillboard%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=-452910601&amp;t=pos%3Dbillboard%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=-1649106424&amp;t=pos%3Dbillboard%26artid%3D/nature"
                  alt="Advertisement"
                  width="970"
                  height="250"/>
@@ -1497,9 +1497,9 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-1559839113&amp;t=pos%3Dnative%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-1636562725&amp;t=pos%3Dnative%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-1559839113&amp;t=pos%3Dnative%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-1636562725&amp;t=pos%3Dnative%26artid%3D/nature"
                  alt="Advertisement"
                  width="2"
                  height="2"/>
@@ -2608,9 +2608,9 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-612722507&amp;t=pos%3Dright%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-485867028&amp;t=pos%3Dright%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-612722507&amp;t=pos%3Dright%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-485867028&amp;t=pos%3Dright%26artid%3D/nature"
                  alt="Advertisement"
                  width="300"
                  height="250"/>
@@ -2642,8 +2642,8 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                    class="app-trending-row__link"
                                    itemprop="url"
                                    data-track="click" data-track-action="view article" data-track-label="link">
-                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;4971&amp;types&#x3D;mbrtwudo"
-                                         alt="Score 4971"
+                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;4970&amp;types&#x3D;mbrtwudo"
+                                         alt="Score 4970"
                                          class="u-mb-8" width="55" height="55" itemprop="image">
                                     <h3 class="u-ma-0 u-h4" itemprop="name headline">
                                         RETRACTED ARTICLE: The economic commitment of climate change
@@ -2658,8 +2658,8 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                    class="app-trending-row__link"
                                    itemprop="url"
                                    data-track="click" data-track-action="view article" data-track-label="link">
-                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;997&amp;types&#x3D;mmbvttuu"
-                                         alt="Score 997"
+                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;1003&amp;types&#x3D;mmbvttuu"
+                                         alt="Score 1003"
                                          class="u-mb-8" width="55" height="55" itemprop="image">
                                     <h3 class="u-ma-0 u-h4" itemprop="name headline">
                                         Satellite megaconstellations will threaten space-based astronomy
@@ -2690,8 +2690,8 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                    class="app-trending-row__link"
                                    itemprop="url"
                                    data-track="click" data-track-action="view article" data-track-label="link">
-                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;555&amp;types&#x3D;mbttwuuo"
-                                         alt="Score 555"
+                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;557&amp;types&#x3D;mbttwuuo"
+                                         alt="Score 557"
                                          class="u-mb-8" width="55" height="55" itemprop="image">
                                     <h3 class="u-ma-0 u-h4" itemprop="name headline">
                                         Sustained HIV-1 remission after heterozygous CCR5Δ32 stem cell transplantation
@@ -2884,9 +2884,9 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=115642113&amp;t=pos%3Dright%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=871863952&amp;t=pos%3Dright%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=115642113&amp;t=pos%3Dright%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=871863952&amp;t=pos%3Dright%26artid%3D/nature"
                  alt="Advertisement"
                  width="300"
                  height="250"/>
