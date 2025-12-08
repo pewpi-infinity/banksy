@@ -1,0 +1,17 @@
+{
+  "header": {
+    "token_number": 671446,
+    "token_value": 2572,
+    "token_color": "\ud83d\udc9b YELLOW",
+    "generated": "2025-12-08T02:28:03.428381",
+    "topic": "thulium non chaotic chaotic transitions"
+  },
+  "articles": [
+    {
+      "source_id": 5,
+      "url": "https://arxiv.org/search/?query=thulium+non+chaotic+chaotic+transitions",
+      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
+      "status": "ERROR"
+    }
+  ]
+}
