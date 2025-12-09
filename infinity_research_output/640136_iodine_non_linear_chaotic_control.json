@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 640136,
-    "token_value": 4055,
-    "token_color": "\ud83d\udc9a GREEN",
-    "generated": "2025-12-08T02:01:25.818970",
-    "topic": "iodine non linear chaotic control"
-  },
-  "articles": [
-    {
-      "source_id": 3,
-      "url": "https://arxiv.org/search/?query=iodine+non+linear+chaotic+control",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:38bd637658d55cc2f7a1f0acbabd4a55d919db6253b6be5d6d50587236e85eb9
+size 473

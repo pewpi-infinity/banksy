@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 70990,
-    "token_value": 4307,
-    "token_color": "\ud83d\udc9b YELLOW",
-    "generated": "2025-12-08T02:40:58.565134",
-    "topic": "iridium equations bringing chaos order iodine non linear chaotic control"
-  },
-  "articles": [
-    {
-      "source_id": 7,
-      "url": "https://arxiv.org/search/?query=iridium+equations+bringing+chaos+order+iodine+non+linear+chaotic+control",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab4f56b90d8ad2b34bb3df278ec92eed22b7bd266feb1602abbfbbd3023525e0
+size 551

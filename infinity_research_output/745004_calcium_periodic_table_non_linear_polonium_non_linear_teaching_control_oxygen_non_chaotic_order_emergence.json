@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 745004,
-    "token_value": 1497,
-    "token_color": "\ud83d\udc9b YELLOW",
-    "generated": "2025-12-08T00:24:18.959277",
-    "topic": "calcium periodic table non linear polonium non linear teaching control oxygen non chaotic order emergence"
-  },
-  "articles": [
-    {
-      "source_id": 6,
-      "url": "https://arxiv.org/search/?query=calcium+periodic+table+non+linear+polonium+non+linear+teaching+control+oxygen+non+chaotic+order+emergence",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfc8e50fca1991f646278e4e978c7ec2e3c23a6c7a07817d3667a086f7e057ff
+size 618

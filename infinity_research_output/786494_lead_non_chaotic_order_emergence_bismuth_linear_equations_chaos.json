@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 786494,
-    "token_value": 2183,
-    "token_color": "\ud83e\ude75 BLUE",
-    "generated": "2025-12-08T01:24:21.209750",
-    "topic": "lead non chaotic order emergence bismuth linear equations chaos"
-  },
-  "articles": [
-    {
-      "source_id": 3,
-      "url": "https://arxiv.org/search/?query=lead+non+chaotic+order+emergence+bismuth+linear+equations+chaos",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4de5f25ef5f81860b8873390bccdeec0c3ee226c69bd9534166fa341ef1afd49
+size 532

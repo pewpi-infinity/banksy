@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 727171,
-    "token_value": 2310,
-    "token_color": "\ud83d\udc9b YELLOW",
-    "generated": "2025-12-08T02:09:53.827072",
-    "topic": "lithium periodic table equations teaching order"
-  },
-  "articles": [
-    {
-      "source_id": 6,
-      "url": "https://arxiv.org/search/?query=lithium+periodic+table+equations+teaching+order",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c0a24834b895756ce02a8d59d3aa083bae7a8206286079f4853ab32603a5b56
+size 502

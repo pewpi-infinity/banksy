@@ -1,7 +1,3 @@
-{
-  "cpu_flops": 224000000000.0,
-  "gpu_tflops": 3.84,
-  "memory_bw": 51.2,
-  "storage_iops": 120.0,
-  "synthetic_score": 1.356
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:59cbf95c217f88722a99a4d9304991b8ddb4d4806273c4244f024adac3dec0cb
+size 129

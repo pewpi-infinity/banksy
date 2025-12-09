@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 460768,
-    "token_value": 2002,
-    "token_color": "\ud83d\udc9b YELLOW",
-    "generated": "2025-12-08T01:42:11.428093",
-    "topic": "osmium non chaotic dynamics antimony linear chaos emergence cerium linear chaotic teaching"
-  },
-  "articles": [
-    {
-      "source_id": 7,
-      "url": "https://arxiv.org/search/?query=osmium+non+chaotic+dynamics+antimony+linear+chaos+emergence+cerium+linear+chaotic+teaching",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1966da3169877b05d62bf2b5e86cdfa10087f5544f66f9fe29f6cba7b24a4787
+size 588

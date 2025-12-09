@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 867622,
-    "token_value": 3217,
-    "token_color": "\ud83d\udc9c PURPLE",
-    "generated": "2025-12-08T01:23:15.225947",
-    "topic": "thulium non chaotic chaotic transitions"
-  },
-  "articles": [
-    {
-      "source_id": 2,
-      "url": "https://arxiv.org/search/?query=thulium+non+chaotic+chaotic+transitions",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:76d3d4c894116fd595c511e1c9f610891c5a937489beffadab45a995bba84d3e
+size 486

@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 498178,
-    "token_value": 1985,
-    "token_color": "\u2764\ufe0f RED",
-    "generated": "2025-12-08T02:42:16.292260",
-    "topic": "ruthenium linear teaching systems hydrogen linear equations chaos theory"
-  },
-  "articles": [
-    {
-      "source_id": 6,
-      "url": "https://arxiv.org/search/?query=ruthenium+linear+teaching+systems+hydrogen+linear+equations+chaos+theory",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1320780c12a56959fa835609109cecf5409e416ca2987eb7e3376e8b54033e50
+size 549

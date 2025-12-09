@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 362054,
-    "token_value": 4671,
-    "token_color": "\ud83e\ude75 BLUE",
-    "generated": "2025-12-08T02:36:32.013112",
-    "topic": "fluorine equations bringing order chaos titanium linear equations chaotic bromine non linear chaotic control"
-  },
-  "articles": [
-    {
-      "source_id": 3,
-      "url": "https://arxiv.org/search/?query=fluorine+equations+bringing+order+chaos+titanium+linear+equations+chaotic+bromine+non+linear+chaotic+control",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0425d9463a468759e87bcd44da79dab93429c1a0d225c06d6e56ea460f895a4
+size 622

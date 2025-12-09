@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 777567,
-    "token_value": 332,
-    "token_color": "\ud83d\udc9c PURPLE",
-    "generated": "2025-12-08T00:18:20.442633",
-    "topic": "neptunium teaching order from chaos cerium linear chaotic teaching"
-  },
-  "articles": [
-    {
-      "source_id": 5,
-      "url": "https://arxiv.org/search/?query=neptunium+teaching+order+from+chaos+cerium+linear+chaotic+teaching",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b89bbafbb4211d367be5de927976b1efb75aab4893ab77737c8e022b0799d57a
+size 539

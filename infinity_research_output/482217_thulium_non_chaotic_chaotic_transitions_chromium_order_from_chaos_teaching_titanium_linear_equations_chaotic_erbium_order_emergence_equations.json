@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 482217,
-    "token_value": 2600,
-    "token_color": "\u2764\ufe0f RED",
-    "generated": "2025-12-08T02:23:15.151959",
-    "topic": "thulium non chaotic chaotic transitions chromium order from chaos teaching titanium linear equations chaotic erbium order emergence equations"
-  },
-  "articles": [
-    {
-      "source_id": 6,
-      "url": "https://arxiv.org/search/?query=thulium+non+chaotic+chaotic+transitions+chromium+order+from+chaos+teaching+titanium+linear+equations+chaotic+erbium+order+emergence+equations",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcb57755ba2537f892783df5cf2c3fcddc5f345d34879bee056b3a6db8109b71
+size 687

@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 8100,
-    "token_value": 1259,
-    "token_color": "\ud83e\ude75 BLUE",
-    "generated": "2025-12-08T02:07:25.877179",
-    "topic": "yttrium chaotic periodic table"
-  },
-  "articles": [
-    {
-      "source_id": 7,
-      "url": "https://arxiv.org/search/?query=yttrium+chaotic+periodic+table",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf5ebd31f9fc676d79d84b12f2f61799d75b8924eb972ea7d956b54181359b8f
+size 464

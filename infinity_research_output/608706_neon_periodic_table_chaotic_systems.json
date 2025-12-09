@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 608706,
-    "token_value": 4382,
-    "token_color": "\ud83e\ude75 BLUE",
-    "generated": "2025-12-08T00:04:04.870632",
-    "topic": "neon periodic table chaotic systems"
-  },
-  "articles": [
-    {
-      "source_id": 3,
-      "url": "https://arxiv.org/search/?query=neon+periodic+table+chaotic+systems",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb74f88c5eebe7b219f817862efd2d0f89304340d61e495b911d529b73b6a872
+size 476

@@ -1,28 +1,3 @@
-{
-  "header": {
-    "token_number": 249328,
-    "token_value": 180,
-    "token_color": "\ud83e\ude75 BLUE",
-    "generated": "2025-12-07T20:50:46.926497",
-    "topic": "francium non chaotic equations dynamics rhodium non chaotic dynamics thallium chaotic periodic elements cesium chaos theory linear systems"
-  },
-  "articles": [
-    {
-      "title": "Utopia or oblivion: The prospects for humanity",
-      "url": "https://books.google.com/books?hl=en&lr=&id=eTmDDQAAQBAJ&oi=fnd&pg=PA8&dq=francium+non+chaotic+equations+dynamics+rhodium+non+chaotic+dynamics+thallium+chaotic+periodic+elements+cesium+chaos+theory+linear+systems&ots=_t_pIXc2dr&sig=7LQLxolQMWW9hkClzlY1CyHmROE",
-      "authors": "",
-      "abstract": "\u2026 to the staggering awe of this dynamic world in transformation\u2014\u2026 equation of intellect and the \nmetaphysical universe. \u2026 ; wall charts of the periodic table of the elements; a world globe; a wall\u2026",
-      "pdf_url": null,
-      "source_id": 7,
-      "engine": "scholar.google.com",
-      "status": "SUCCESS",
-      "token": {
-        "article_number": 129067,
-        "article_value": 2139,
-        "article_color": "\ud83d\udc9b YELLOW",
-        "generated": "2025-12-07T20:51:24.562860",
-        "title": "Utopia or oblivion: The prospects for humanity"
-      }
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9a60f7bffc4902b18c5f54daa32dd28e001bd4b2db060ea93c76632e793d0df
+size 1319

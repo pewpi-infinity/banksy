@@ -1,11 +1,3 @@
-{
-  "NASA": "scraped_sources/NASA_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
-  "TESLA": "scraped_sources/TESLA_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
-  "MIT": "scraped_sources/MIT_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
-  "HARVARD": "scraped_sources/HARVARD_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
-  "IBM_RESEARCH": "scraped_sources/IBM_RESEARCH_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
-  "NATURE": "scraped_sources/NATURE_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
-  "CERN": "scraped_sources/CERN_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
-  "DOE": "scraped_sources/DOE_hydrogen_raw_2025-12-07T22:48:14.039702.txt",
-  "ARXIV": "scraped_sources/ARXIV_hydrogen_raw_2025-12-07T22:48:14.039702.txt"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:027abefa65897d49bfb2136c83e14a16d178ca0399d24e1db8dd494c28bb70ec
+size 730

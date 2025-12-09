@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 773342,
-    "token_value": 3825,
-    "token_color": "\ud83d\udc9a GREEN",
-    "generated": "2025-12-08T00:15:59.019583",
-    "topic": "rhenium linear teaching order gold order from chaos non linear strontium non chaotic equations"
-  },
-  "articles": [
-    {
-      "source_id": 7,
-      "url": "https://arxiv.org/search/?query=rhenium+linear+teaching+order+gold+order+from+chaos+non+linear+strontium+non+chaotic+equations",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a2af84939e9097cdae20f91c8190343260c728e9abc9db63bb4644a4fecdddb
+size 595

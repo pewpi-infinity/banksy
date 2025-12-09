@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 321532,
-    "token_value": 4000,
-    "token_color": "\ud83d\udc9b YELLOW",
-    "generated": "2025-12-08T01:11:04.886824",
-    "topic": "carbon order from chaos periodic elements"
-  },
-  "articles": [
-    {
-      "source_id": 3,
-      "url": "https://arxiv.org/search/?query=carbon+order+from+chaos+periodic+elements",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cd68bc36d81c3ed300d8e3ced9d275cf90811970855ef6007e75dee0345a9fb
+size 490

@@ -1,17 +1,3 @@
-{
-  "header": {
-    "token_number": 482958,
-    "token_value": 2994,
-    "token_color": "\ud83d\udc9c PURPLE",
-    "generated": "2025-12-08T00:12:14.204395",
-    "topic": "germanium linear non chaotic equations xenon periodic table teaching order ytterbium teaching linear non linear aluminum non linear dynamics order"
-  },
-  "articles": [
-    {
-      "source_id": 7,
-      "url": "https://arxiv.org/search/?query=germanium+linear+non+chaotic+equations+xenon+periodic+table+teaching+order+ytterbium+teaching+linear+non+linear+aluminum+non+linear+dynamics+order",
-      "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Read timed out. (read timeout=10)",
-      "status": "ERROR"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbe88cf3fd5faf79abacb52d65209dab183ef4843a5ff2a77b893f654a8f48d6
+size 700
