@@ -32,3 +32,5 @@
 [2025-12-10T03:49:05Z] [∞] CART_LIVE_RESEARCH: Emitted research/research_20251210_034900.txt (12383 bytes) and research/research_20251210_034900.json (1048662 bytes)
 [2025-12-10T03:50:11Z] [∞] CART_LIVE_RESEARCH: Emitted research/research_20251210_035000.txt (12815 bytes) and research/research_20251210_035000.json (1048662 bytes)
 [2025-12-10T03:52:06Z] [∞] CART_LIVE_RESEARCH: Emitted research/research_20251210_035200.txt (27435 bytes) and research/research_20251210_035200.json (1048662 bytes)
+[2025-12-10T03:53:03Z] [∞] CART_INFINITY_LIVE: Start live text stream + continuous push (no JSON artifacts)
+[2025-12-10T03:53:13Z] [∞] CART_INFINITY_LIVE: Emitted research/infinity_20251210_035313.txt (9964 bytes); pushing…
