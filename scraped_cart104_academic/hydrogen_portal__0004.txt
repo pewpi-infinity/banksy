@@ -86,7 +86,7 @@ URL: https://pubmed.ncbi.nlm.nih.gov?q=hydrogen+portal
   
 
   
-    <meta name="ncbi_phid" content="80B40001A00BF4F5000038DE4187DAFE.1.m_1" />
+    <meta name="ncbi_phid" content="D3A20001D755BAA500003B9A8AE202AF.1.m_1" />
   
 
   
@@ -294,7 +294,7 @@ URL: https://pubmed.ncbi.nlm.nih.gov?q=hydrogen+portal
 
 
 
-<input type="hidden" name="csrfmiddlewaretoken" value="U4Ms1zceef0JakbRBWXdbm64erB0OMzuqUaXPGP4fauWTKPj9Aq4FekoPSxsfqCc">
+<input type="hidden" name="csrfmiddlewaretoken" value="c4OxVmqG1tn0CxFd4jb6mXmKftsy5YBn0blfOaADxLsMPw0fkZnQAyvTQjvl5x7E">
 <form action="/" method="get" autocomplete="off" class="usa-search usa-search-big search-form " id="search-form" role="search">
   <div class="inner-wrap">
     <a class="pubmed-logo"
@@ -546,6 +546,35 @@ URL: https://pubmed.ncbi.nlm.nih.gov?q=hydrogen+portal
             </li>
           
             <li class="full-docsum">
+              <a href="/1301674/"
+                 data-ga-category="result_click"
+                 data-ga-action="trending"
+                 data-ga-label="1301674">
+                [Elaboration of the hearing disability scale].
+              </a>
+              <div class="docsum-citation">
+  
+    
+    <span class="docsum-authors short-authors">Cuda D, et al.</span>
+    
+    <span class="docsum-journal-citation short-journal-citation">Acta Otorhinolaryngol Ital. 1992.</span>
+  
+  
+  
+  <span class="citation-part">PMID: <span class="docsum-pmid">1301674</span></span>
+  
+  
+    
+  
+  
+  <span class="language spaced-citation-item citation-part">Italian.</span>
+  
+  
+</div>
+
+            </li>
+          
+            <li class="full-docsum">
               <a href="/41339555/"
                  data-ga-category="result_click"
                  data-ga-action="trending"
@@ -574,7 +603,7 @@ URL: https://pubmed.ncbi.nlm.nih.gov?q=hydrogen+portal
 
             </li>
           
-            <li class="full-docsum">
+            <li class="full-docsum hide-on-mobile">
               <a href="/41344792/"
                  data-ga-category="result_click"
                  data-ga-action="trending"
@@ -604,51 +633,22 @@ URL: https://pubmed.ncbi.nlm.nih.gov?q=hydrogen+portal
             </li>
           
             <li class="full-docsum hide-on-mobile">
-              <a href="/1301674/"
+              <a href="/41349546/"
                  data-ga-category="result_click"
                  data-ga-action="trending"
-                 data-ga-label="1301674">
-                [Elaboration of the hearing disability scale].
+                 data-ga-label="41349546">
+                A fin-loop-like structure in GPX4 underlies neuroprotection from ferroptosis.
               </a>
               <div class="docsum-citation">
   
     
-    <span class="docsum-authors short-authors">Cuda D, et al.</span>
+    <span class="docsum-authors short-authors">Lorenz SM, et al.</span>
     
-    <span class="docsum-journal-citation short-journal-citation">Acta Otorhinolaryngol Ital. 1992.</span>
+    <span class="docsum-journal-citation short-journal-citation">Cell. 2025.</span>
   
   
   
-  <span class="citation-part">PMID: <span class="docsum-pmid">1301674</span></span>
-  
-  
-    
-  
-  
-  <span class="language spaced-citation-item citation-part">Italian.</span>
-  
-  
-</div>
-
-            </li>
-          
-            <li class="full-docsum hide-on-mobile">
-              <a href="/41344322/"
-                 data-ga-category="result_click"
-                 data-ga-action="trending"
-                 data-ga-label="41344322">
-                Excessive vigorous exercise impairs cognitive function through a muscle-derived mitochondrial pretender.
-              </a>
-              <div class="docsum-citation">
-  
-    
-    <span class="docsum-authors short-authors">Huang Y, et al.</span>
-    
-    <span class="docsum-journal-citation short-journal-citation">Cell Metab. 2025.</span>
-  
-  
-  
-  <span class="citation-part">PMID: <span class="docsum-pmid">41344322</span></span>
+  <span class="citation-part">PMID: <span class="docsum-pmid">41349546</span></span>
   
   
     

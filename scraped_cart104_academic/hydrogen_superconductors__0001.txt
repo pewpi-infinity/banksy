@@ -302,7 +302,7 @@ URL: https://www.nature.com?q=hydrogen+superconductors
     <meta property="og:site_name" content="Nature"/>
     <meta property="og:title" content="Nature"/>
     <meta property="og:description" content="Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest ..."/>
-    <meta property="og:image" content="http:https://media.springernature.com/lw630/nature-cms/uploads/cms/pages/2913/top_item_image/20251204_NEWS_Chatbot-Elections_THUMB-a1928fe527e1f0d3070c74ef5093d7c0.jpg"/>
+    <meta property="og:image" content="http:https://media.springernature.com/lw630/nature-cms/uploads/cms/pages/2913/top_item_image/N10-efcbeea056b2f353e15889a171079bc4.jpg"/>
     
 
     <meta name="pocket-site-verification" content="b8135c5da1171af18a4aa6a264d0a2" />
@@ -536,26 +536,26 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                         <source
                             type="image/webp"
                             srcset="
-                                https://media.springernature.com/w450h245/nature-cms/uploads/cms/pages/2913/top_item_image/20251204_NEWS_Chatbot-Elections_THUMB-a1928fe527e1f0d3070c74ef5093d7c0.jpg?as=webp 450w,
-                                https://media.springernature.com/w735h400/nature-cms/uploads/cms/pages/2913/top_item_image/20251204_NEWS_Chatbot-Elections_THUMB-a1928fe527e1f0d3070c74ef5093d7c0.jpg?as=webp 735w"
+                                https://media.springernature.com/w450h245/nature-cms/uploads/cms/pages/2913/top_item_image/N10-efcbeea056b2f353e15889a171079bc4.jpg?as=webp 450w,
+                                https://media.springernature.com/w735h400/nature-cms/uploads/cms/pages/2913/top_item_image/N10-efcbeea056b2f353e15889a171079bc4.jpg?as=webp 735w"
                             sizes="
                             (max-width: 1024px) 450px,
                             (max-width: 100vw) 735px
                             735px">
-                        <img src="https://media.springernature.com/w735h400/nature-cms/uploads/cms/pages/2913/top_item_image/20251204_NEWS_Chatbot-Elections_THUMB-a1928fe527e1f0d3070c74ef5093d7c0.jpg"
-                             alt="Three wind-up clockwork toy robots walk across an American flag towards a black ballot box">
+                        <img src="https://media.springernature.com/w735h400/nature-cms/uploads/cms/pages/2913/top_item_image/N10-efcbeea056b2f353e15889a171079bc4.jpg"
+                             alt="3D molecular illustration showing protein complexes in shades of blue and purple. The structures are composed of tightly packed globular units and are arranged to form the digits 1 and 0.">
                     </picture>
                 </div>
                 <div class="c-hero__copy">
                     <h2 class="c-hero__title u-mt-0">
                         <a class="c-hero__link"
-                           href="https://www.nature.com/articles/d41586-025-03975-9"
+                           href="https://www.nature.com/immersive/d41586-025-03848-1/index.html"
                            data-track="click"
                            data-track-action="view announcement"
-                           data-track-label="link">AI chatbots can sway voters with remarkable ease — is it time to worry?</a>
+                           data-track-label="link">Nature's 10: The people who helped shape science in 2025</a>
                     </h2>
                     
-                        <p class="c-hero__summary u-mt-0">Experiments involving real-world voters show how talking to a chatbot can shape people’s political opinions.
+                        <p class="c-hero__summary u-mt-0">A fired public-health official, a mosquito breeder and a baby with a smile seen around the world. These are just a few of the remarkable people chosen for <em>Nature</em>’s 10.
 </p>
                     
                     
@@ -586,13 +586,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                 <source
                                         type="image/webp"
                                         srcset="
-                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03937-1/d41586-025-03937-1_51783362.jpg?as=webp 160w,
-                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03937-1/d41586-025-03937-1_51783362.jpg?as=webp 290w"
+                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03965-x/d41586-025-03965-x_51787532.jpg?as=webp 160w,
+                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03965-x/d41586-025-03965-x_51787532.jpg?as=webp 290w"
                                         sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03937-1/d41586-025-03937-1_51783362.jpg"
+                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03965-x/d41586-025-03965-x_51787532.jpg"
                                      alt=""
                                      itemprop="image">
                             </picture>
@@ -602,26 +602,26 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/d41586-025-03937-1"
+                    <a href="/articles/d41586-025-03965-x"
                        class="c-card__link u-link-inherit"
                        itemprop="url"
                        data-track="click"
                        data-track-action="view article"
                        
-                       data-track-label="link">Hepatitis B vaccine guidance set to be rolled back for US babies: what the science says</a>
+                       data-track-label="link">What will be the first AI-designed drug? These disease-fighting antibodies are top contenders</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max"
                              itemprop="description">
-                            <p>A panel of US vaccine advisers voted to rescind a recommendation that all newborns should receive a hepatitis B vaccine at birth.</p>
+                            <p>Just a year after the first AI-designed antibody was made, scientists say clinical trials are on the horizon.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="app-author-list app-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Mariana Lenharo</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Heidi Ledford</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ewen Callaway</span></li>
 </ul>
 
                 
@@ -631,7 +631,7 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News Explainer</span></span><time class="c-meta__item" datetime="2025-12-05" itemprop="datePublished">05 Dec 2025</time>
+        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News</span></span><time class="c-meta__item" datetime="2025-12-09" itemprop="datePublished">09 Dec 2025</time>
         
         
     </div>
@@ -659,13 +659,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                 <source
                                         type="image/webp"
                                         srcset="
-                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03936-2/d41586-025-03936-2_51782662.jpg?as=webp 160w,
-                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03936-2/d41586-025-03936-2_51782662.jpg?as=webp 290w"
+                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03838-3/d41586-025-03838-3_51757014.jpg?as=webp 160w,
+                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03838-3/d41586-025-03838-3_51757014.jpg?as=webp 290w"
                                         sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03936-2/d41586-025-03936-2_51782662.jpg"
+                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03838-3/d41586-025-03838-3_51757014.jpg"
                                      alt=""
                                      itemprop="image">
                             </picture>
@@ -675,26 +675,26 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/d41586-025-03936-2"
+                    <a href="/articles/d41586-025-03838-3"
                        class="c-card__link u-link-inherit"
                        itemprop="url"
                        data-track="click"
                        data-track-action="view article"
                        
-                       data-track-label="link">AI is saving time and money in research — but at what cost?</a>
+                       data-track-label="link">The top US health director who stood up for science — and was fired</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max"
                              itemprop="description">
-                            <p>Artificial intelligence tools are boosting researchers’ productivity, but some worry about the effect of a growing reliance on them.</p>
+                            <p>Susan Monarez is part of <i>Nature</i>’s 10, a list of people who shaped science in 2025.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="app-author-list app-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Rachel Fieldhouse</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Max Kozlov</span></li>
 </ul>
 
                 
@@ -704,7 +704,7 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News</span></span><time class="c-meta__item" datetime="2025-12-05" itemprop="datePublished">05 Dec 2025</time>
+        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News Feature</span></span><time class="c-meta__item" datetime="2025-12-08" itemprop="datePublished">08 Dec 2025</time>
         
         
     </div>
@@ -732,13 +732,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                 <source
                                         type="image/webp"
                                         srcset="
-                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03955-z/d41586-025-03955-z_51787800.jpg?as=webp 160w,
-                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03955-z/d41586-025-03955-z_51787800.jpg?as=webp 290w"
+                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03845-4/d41586-025-03845-4_51756988.jpg?as=webp 160w,
+                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03845-4/d41586-025-03845-4_51756988.jpg?as=webp 290w"
                                         sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03955-z/d41586-025-03955-z_51787800.jpg"
+                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03845-4/d41586-025-03845-4_51756988.jpg"
                                      alt=""
                                      itemprop="image">
                             </picture>
@@ -748,26 +748,26 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/d41586-025-03955-z"
+                    <a href="/articles/d41586-025-03845-4"
                        class="c-card__link u-link-inherit"
                        itemprop="url"
                        data-track="click"
                        data-track-action="view article"
                        
-                       data-track-label="link">Aluminium is crucial to vaccines — and safe. Why are US advisers debating it?</a>
+                       data-track-label="link">The Chinese finance whizz whose DeepSeek AI model stunned the world</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max"
                              itemprop="description">
-                            <p>RFK Jr’s vaccine advisory panel will be discussing the inclusion of adjuvants in childhood vaccinations this week. Here’s what’s at stake.</p>
+                            <p>Liang Wenfeng is part of <i>Nature</i>’s 10, a list of people who shaped science in 2025.</p>
                         </div>
                     
                 
                 
                     
 <ul data-test="author-list" class="app-author-list app-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Heidi Ledford</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Elizabeth Gibney</span></li>
 </ul>
 
                 
@@ -777,7 +777,7 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
             
     <div class="c-card__section c-meta">
-        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News</span></span><time class="c-meta__item" datetime="2025-12-04" itemprop="datePublished">04 Dec 2025</time>
+        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News Feature</span></span><time class="c-meta__item" datetime="2025-12-08" itemprop="datePublished">08 Dec 2025</time>
         
         
     </div>
@@ -941,9 +941,9 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=-1649106424&amp;t=pos%3Dbillboard%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=667520779&amp;t=pos%3Dbillboard%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=-1649106424&amp;t=pos%3Dbillboard%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=970x250&amp;c=667520779&amp;t=pos%3Dbillboard%26artid%3D/nature"
                  alt="Advertisement"
                  width="970"
                  height="250"/>
@@ -990,13 +990,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                 <source
                                     type="image/webp"
                                     srcset="
-                                https://media.springernature.com/w290h158/magazine-assets/d41586-025-03996-4/d41586-025-03996-4_51790958.jpg?as=webp 290w,
-                                https://media.springernature.com/w485h264/magazine-assets/d41586-025-03996-4/d41586-025-03996-4_51790958.jpg?as=webp 485w"
+                                https://media.springernature.com/w290h158/magazine-assets/d41586-025-03970-0/d41586-025-03970-0_51793276.jpg?as=webp 290w,
+                                https://media.springernature.com/w485h264/magazine-assets/d41586-025-03970-0/d41586-025-03970-0_51793276.jpg?as=webp 485w"
                                     sizes="
                                 (max-width: 768px) 290px,
                                 (max-width: 1200px) 485px,
                                 485px">
-                                <img src="https://media.springernature.com/w485h264/magazine-assets/d41586-025-03996-4/d41586-025-03996-4_51790958.jpg"
+                                <img src="https://media.springernature.com/w485h264/magazine-assets/d41586-025-03970-0/d41586-025-03970-0_51793276.jpg"
                                      alt=""
                                      itemprop="image">
                             </picture>
@@ -1006,19 +1006,19 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/d41586-025-03996-4"
+                    <a href="/articles/d41586-025-03970-0"
                        class="c-card__link u-link-inherit"
                        itemprop="url"
                        data-track="click"
                        data-track-action="view article"
                        
-                       data-track-label="link">These are a few of my favourite sounds: Books in brief</a>
+                       data-track-label="link">Food will be more affordable — if we double funds for agriculture research now</a>
                 </h3>
                 
                     
                         <div data-test="article-description" class="c-card__summary u-mb-16"
                              itemprop="description">
-                            <p>Andrew Robinson reviews five of the best science picks.</p>
+                            <p>A global drop in public and private investment in agricultural science in the past four decades is partly to blame for high food prices, an analysis reveals.</p>
                         </div>
                     
                 
@@ -1028,13 +1028,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
     <div class="c-card__section c-meta">
             <div>
                 
-<ul data-test="author-list" class="u-color-inherit app-author-list app-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Andrew Robinson</span></li>
+<ul data-test="author-list" class="u-color-inherit app-author-list app-author-list--compact app-author-list--truncated">
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Philip G. Pardey</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Connie Chan-Kang</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Hernán Muñoz</span></li>
 </ul>
 
             </div>
         
-        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">Book Review</span></span><time class="c-meta__item" datetime="2025-12-05" itemprop="datePublished">05 Dec 2025</time>
+        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">Comment</span></span><time class="c-meta__item" datetime="2025-12-09" itemprop="datePublished">09 Dec 2025</time>
         
         
     </div>
@@ -1067,13 +1067,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                 <source
                                         type="image/webp"
                                         srcset="
-                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03973-x/d41586-025-03973-x_51787838.jpg?as=webp 160w,
-                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03973-x/d41586-025-03973-x_51787838.jpg?as=webp 290w"
+                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03977-7/d41586-025-03977-7_51787774.jpg?as=webp 160w,
+                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03977-7/d41586-025-03977-7_51787774.jpg?as=webp 290w"
                                         sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03973-x/d41586-025-03973-x_51787838.jpg"
+                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03977-7/d41586-025-03977-7_51787774.jpg"
                                      alt=""
                                      itemprop="image">
                             </picture>
@@ -1083,13 +1083,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/d41586-025-03973-x"
+                    <a href="/articles/d41586-025-03977-7"
                        class="c-card__link u-link-inherit"
                        itemprop="url"
                        data-track="click"
                        data-track-action="view article"
                        
-                       data-track-label="link">The Indian Ocean disaster is a climate tragedy — and needs more attention</a>
+                       data-track-label="link">What we eat is making us obese and sick — but science shows solutions are within reach</a>
                 </h3>
                 
                 
@@ -1102,12 +1102,12 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             <div>
                 
 <ul data-test="author-list" class="app-author-list app-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Dyna Rochmyaningsih</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tim Spector</span></li>
 </ul>
 
             </div>
         
-        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">World View</span></span><time class="c-meta__item" datetime="2025-12-05" itemprop="datePublished">05 Dec 2025</time>
+        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">Book Review</span></span><time class="c-meta__item" datetime="2025-12-09" itemprop="datePublished">09 Dec 2025</time>
         
         
     </div>
@@ -1137,13 +1137,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                 <source
                                         type="image/webp"
                                         srcset="
-                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03936-2/d41586-025-03936-2_51782662.jpg?as=webp 160w,
-                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03936-2/d41586-025-03936-2_51782662.jpg?as=webp 290w"
+                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03965-x/d41586-025-03965-x_51787532.jpg?as=webp 160w,
+                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03965-x/d41586-025-03965-x_51787532.jpg?as=webp 290w"
                                         sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03936-2/d41586-025-03936-2_51782662.jpg"
+                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03965-x/d41586-025-03965-x_51787532.jpg"
                                      alt=""
                                      itemprop="image">
                             </picture>
@@ -1153,13 +1153,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/d41586-025-03936-2"
+                    <a href="/articles/d41586-025-03965-x"
                        class="c-card__link u-link-inherit"
                        itemprop="url"
                        data-track="click"
                        data-track-action="view article"
                        
-                       data-track-label="link">AI is saving time and money in research — but at what cost?</a>
+                       data-track-label="link">What will be the first AI-designed drug? These disease-fighting antibodies are top contenders</a>
                 </h3>
                 
                 
@@ -1172,12 +1172,12 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             <div>
                 
 <ul data-test="author-list" class="app-author-list app-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Rachel Fieldhouse</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Ewen Callaway</span></li>
 </ul>
 
             </div>
         
-        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News</span></span><time class="c-meta__item" datetime="2025-12-05" itemprop="datePublished">05 Dec 2025</time>
+        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News</span></span><time class="c-meta__item" datetime="2025-12-09" itemprop="datePublished">09 Dec 2025</time>
         
         
     </div>
@@ -1207,13 +1207,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                 <source
                                         type="image/webp"
                                         srcset="
-                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03955-z/d41586-025-03955-z_51787800.jpg?as=webp 160w,
-                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03955-z/d41586-025-03955-z_51787800.jpg?as=webp 290w"
+                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03848-1/d41586-025-03848-1_51782552.jpg?as=webp 160w,
+                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03848-1/d41586-025-03848-1_51782552.jpg?as=webp 290w"
                                         sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03955-z/d41586-025-03955-z_51787800.jpg"
+                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03848-1/d41586-025-03848-1_51782552.jpg"
                                      alt=""
                                      itemprop="image">
                             </picture>
@@ -1223,13 +1223,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/d41586-025-03955-z"
+                    <a href="/articles/d41586-025-03848-1"
                        class="c-card__link u-link-inherit"
                        itemprop="url"
                        data-track="click"
                        data-track-action="view article"
                        
-                       data-track-label="link">Aluminium is crucial to vaccines — and safe. Why are US advisers debating it?</a>
+                       data-track-label="link"><i>Nature</i>’s 10: Ten people who shaped science in 2025</a>
                 </h3>
                 
                 
@@ -1241,13 +1241,9 @@ URL: https://www.nature.com?q=hydrogen+superconductors
     <div class="c-card__section c-meta">
             <div>
                 
-<ul data-test="author-list" class="app-author-list app-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Heidi Ledford</span></li>
-</ul>
-
             </div>
         
-        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News</span></span><time class="c-meta__item" datetime="2025-12-04" itemprop="datePublished">04 Dec 2025</time>
+        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News Feature</span></span><time class="c-meta__item" datetime="2025-12-08" itemprop="datePublished">08 Dec 2025</time>
         
         
     </div>
@@ -1277,13 +1273,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                 <source
                                         type="image/webp"
                                         srcset="
-                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03956-y/d41586-025-03956-y_51791002.jpg?as=webp 160w,
-                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03956-y/d41586-025-03956-y_51791002.jpg?as=webp 290w"
+                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03979-5/d41586-025-03979-5_51787808.jpg?as=webp 160w,
+                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03979-5/d41586-025-03979-5_51787808.jpg?as=webp 290w"
                                         sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03956-y/d41586-025-03956-y_51791002.jpg"
+                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03979-5/d41586-025-03979-5_51787808.jpg"
                                      alt=""
                                      itemprop="image">
                             </picture>
@@ -1293,13 +1289,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/d41586-025-03956-y"
+                    <a href="/articles/d41586-025-03979-5"
                        class="c-card__link u-link-inherit"
                        itemprop="url"
                        data-track="click"
                        data-track-action="view article"
                        
-                       data-track-label="link">China’s scientific clout is growing as US influence wanes: the data show how</a>
+                       data-track-label="link">Five important financial moves for PhD students</a>
                 </h3>
                 
                 
@@ -1312,12 +1308,12 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             <div>
                 
 <ul data-test="author-list" class="app-author-list app-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Jeff Tollefson</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Maddi Langweil</span></li>
 </ul>
 
             </div>
         
-        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News</span></span><time class="c-meta__item" datetime="2025-12-04" itemprop="datePublished">04 Dec 2025</time>
+        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">Career Feature</span></span><time class="c-meta__item" datetime="2025-12-08" itemprop="datePublished">08 Dec 2025</time>
         
         
     </div>
@@ -1347,13 +1343,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                 <source
                                         type="image/webp"
                                         srcset="
-                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03975-9/d41586-025-03975-9_51793056.jpg?as=webp 160w,
-                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03975-9/d41586-025-03975-9_51793056.jpg?as=webp 290w"
+                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03844-5/d41586-025-03844-5_51757008.jpg?as=webp 160w,
+                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03844-5/d41586-025-03844-5_51757008.jpg?as=webp 290w"
                                         sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03975-9/d41586-025-03975-9_51793056.jpg"
+                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03844-5/d41586-025-03844-5_51757008.jpg"
                                      alt=""
                                      itemprop="image">
                             </picture>
@@ -1363,13 +1359,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/d41586-025-03975-9"
+                    <a href="/articles/d41586-025-03844-5"
                        class="c-card__link u-link-inherit"
                        itemprop="url"
                        data-track="click"
                        data-track-action="view article"
                        
-                       data-track-label="link">AI chatbots can sway voters with remarkable ease — is it time to worry?</a>
+                       data-track-label="link">This scientist is breeding billions of mosquitoes to fight disease in Brazil</a>
                 </h3>
                 
                 
@@ -1382,12 +1378,12 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             <div>
                 
 <ul data-test="author-list" class="app-author-list app-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Max Kozlov</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Mariana Lenharo</span></li>
 </ul>
 
             </div>
         
-        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News</span></span><time class="c-meta__item" datetime="2025-12-04" itemprop="datePublished">04 Dec 2025</time>
+        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News Feature</span></span><time class="c-meta__item" datetime="2025-12-08" itemprop="datePublished">08 Dec 2025</time>
         
         
     </div>
@@ -1417,13 +1413,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                 <source
                                         type="image/webp"
                                         srcset="
-                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03959-9/d41586-025-03959-9_51786846.jpg?as=webp 160w,
-                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03959-9/d41586-025-03959-9_51786846.jpg?as=webp 290w"
+                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03847-2/d41586-025-03847-2_51757004.jpg?as=webp 160w,
+                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03847-2/d41586-025-03847-2_51757004.jpg?as=webp 290w"
                                         sizes="
                                     (max-width: 640px) 160px,
                                     (max-width: 1200px) 290px,
                                     290px">
-                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03959-9/d41586-025-03959-9_51786846.jpg"
+                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03847-2/d41586-025-03847-2_51757004.jpg"
                                      alt=""
                                      itemprop="image">
                             </picture>
@@ -1433,13 +1429,13 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/d41586-025-03959-9"
+                    <a href="/articles/d41586-025-03847-2"
                        class="c-card__link u-link-inherit"
                        itemprop="url"
                        data-track="click"
                        data-track-action="view article"
                        
-                       data-track-label="link">DeepSeek’s self-correcting AI model aces tough maths proofs</a>
+                       data-track-label="link">The baby whose life was saved by the first personalized CRISPR therapy</a>
                 </h3>
                 
                 
@@ -1452,12 +1448,12 @@ URL: https://www.nature.com?q=hydrogen+superconductors
             <div>
                 
 <ul data-test="author-list" class="app-author-list app-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Mohana Basu</span></li>
+    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Heidi Ledford</span></li>
 </ul>
 
             </div>
         
-        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News</span></span><time class="c-meta__item" datetime="2025-12-04" itemprop="datePublished">04 Dec 2025</time>
+        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News Feature</span></span><time class="c-meta__item" datetime="2025-12-08" itemprop="datePublished">08 Dec 2025</time>
         
         
     </div>
@@ -1497,9 +1493,9 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-1636562725&amp;t=pos%3Dnative%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-1801095154&amp;t=pos%3Dnative%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-1636562725&amp;t=pos%3Dnative%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=2x2&amp;c=-1801095154&amp;t=pos%3Dnative%26artid%3D/nature"
                  alt="Advertisement"
                  width="2"
                  height="2"/>
@@ -1558,13 +1554,86 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                 <source
                                     type="image/webp"
                                     srcset="
-                                https://media.springernature.com/w290h158/magazine-assets/d41586-025-03733-x/d41586-025-03733-x_51778158.jpg?as=webp 290w,
-                                https://media.springernature.com/w485h264/magazine-assets/d41586-025-03733-x/d41586-025-03733-x_51778158.jpg?as=webp 485w"
+                                https://media.springernature.com/w290h158/magazine-assets/d41586-025-03739-5/d41586-025-03739-5_16029882.jpg?as=webp 290w,
+                                https://media.springernature.com/w485h264/magazine-assets/d41586-025-03739-5/d41586-025-03739-5_16029882.jpg?as=webp 485w"
                                     sizes="
                                 (max-width: 768px) 290px,
                                 (max-width: 1200px) 485px,
                                 485px">
-                                <img src="https://media.springernature.com/w485h264/magazine-assets/d41586-025-03733-x/d41586-025-03733-x_51778158.jpg"
+                                <img src="https://media.springernature.com/w485h264/magazine-assets/d41586-025-03739-5/d41586-025-03739-5_16029882.jpg"
+                                     alt=""
+                                     itemprop="image">
+                            </picture>
+                        </div>
+                    
+                
+            
+            <div class="c-card__body u-display-flex u-flex-direction-column">
+                <h3 class="c-card__title" itemprop="name headline">
+                    <a href="/articles/d41586-025-03739-5"
+                       class="c-card__link u-link-inherit"
+                       itemprop="url"
+                       data-track="click"
+                       data-track-action="view article"
+                       
+                       data-track-label="link">A poetic ode to eddies and an earwig’s brush with death</a>
+                </h3>
+                
+                    
+                        <div data-test="article-description" class="c-card__summary u-mb-16"
+                             itemprop="description">
+                            <p>The question of where eddies come from is immortalized in verse, and an earwig emerges remarkably unscathed from inside a vacuum tube, in this week’s peek at <i>Nature</i>’s archive.</p>
+                        </div>
+                    
+                
+                
+                
+                    
+    <div class="c-card__section c-meta">
+            <div>
+                
+            </div>
+        
+        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News &amp; Views</span></span><time class="c-meta__item" datetime="2025-12-09" itemprop="datePublished">09 Dec 2025</time>
+        
+        
+    </div>
+
+                
+            </div>
+        </div>
+        
+    </article>
+
+
+    
+    </div>
+</div>
+                            </li>
+                        
+                    
+                        
+                            <li class="app-reviews-row__item">
+                                <div class="u-full-height">
+    <div class="u-full-height" data-native-ad-placement="false">
+    
+    <article class="u-full-height c-card c-card--flush" itemscope itemtype="http://schema.org/ScholarlyArticle">
+        <div class="c-card__layout u-full-height">
+            
+                
+                    
+                        <div class="c-card__image">
+                            <picture>
+                                <source
+                                        type="image/webp"
+                                        srcset="
+                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03733-x/d41586-025-03733-x_51778158.jpg?as=webp 160w,
+                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03733-x/d41586-025-03733-x_51778158.jpg?as=webp 290w"
+                                        sizes="
+                                    (max-width: 640px) 160px,
+                                    (max-width: 1200px) 290px,
+                                    290px">
+                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03733-x/d41586-025-03733-x_51778158.jpg"
                                      alt=""
                                      itemprop="image">
                             </picture>
@@ -1584,7 +1653,7 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                 </h3>
                 
                     
-                        <div data-test="article-description" class="c-card__summary u-mb-16"
+                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max"
                              itemprop="description">
                             <p>Conversations with AI can sway people’s political views. Concerningly, a chatbot’s facts are not always accurate, especially when it supports right-wing positions.</p>
                         </div>
@@ -1592,7 +1661,10 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                 
                 
                 
-                    
+            </div>
+        </div>
+        
+            
     <div class="c-card__section c-meta">
             <div>
                 
@@ -1607,9 +1679,6 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
     </div>
 
-                
-            </div>
-        </div>
         
     </article>
 
@@ -1843,34 +1912,18 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                             </li>
                         
                     
+                </ul>
+            </li>
+            
+                <li>
+                    <ul class="app-reviews-row__side">
                         
-                            <li class="app-reviews-row__item">
+                            <li class="app-reviews-row__side-item">
                                 <div class="u-full-height">
     <div class="u-full-height" data-native-ad-placement="false">
     
     <article class="u-full-height c-card c-card--flush" itemscope itemtype="http://schema.org/ScholarlyArticle">
         <div class="c-card__layout u-full-height">
-            
-                
-                    
-                        <div class="c-card__image">
-                            <picture>
-                                <source
-                                        type="image/webp"
-                                        srcset="
-                                    https://media.springernature.com/w165h90/magazine-assets/d41586-025-03725-x/d41586-025-03725-x_51696926.jpg?as=webp 160w,
-                                    https://media.springernature.com/w290h158/magazine-assets/d41586-025-03725-x/d41586-025-03725-x_51696926.jpg?as=webp 290w"
-                                        sizes="
-                                    (max-width: 640px) 160px,
-                                    (max-width: 1200px) 290px,
-                                    290px">
-                                <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03725-x/d41586-025-03725-x_51696926.jpg"
-                                     alt=""
-                                     itemprop="image">
-                            </picture>
-                        </div>
-                    
-                
             
             <div class="c-card__body u-display-flex u-flex-direction-column">
                 <h3 class="c-card__title" itemprop="name headline">
@@ -1882,13 +1935,6 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                        
                        data-track-label="link">Even in space, telescopes can’t escape photobombers</a>
                 </h3>
-                
-                    
-                        <div data-test="article-description" class="c-card__summary u-mb-16 u-hide-sm-max"
-                             itemprop="description">
-                            <p>Light reflected from satellites pollutes the images taken by telescopes orbiting Earth, as well as those on the ground. Without mitigations, this will only get worse.</p>
-                        </div>
-                    
                 
                 
                 
@@ -1918,13 +1964,6 @@ URL: https://www.nature.com?q=hydrogen+superconductors
     </div>
 </div>
                             </li>
-                        
-                    
-                </ul>
-            </li>
-            
-                <li>
-                    <ul class="app-reviews-row__side">
                         
                             <li class="app-reviews-row__side-item">
                                 <div class="u-full-height">
@@ -2047,53 +2086,6 @@ URL: https://www.nature.com?q=hydrogen+superconductors
     <div class="c-card__section c-meta">
             <div>
                 
-            </div>
-        
-        <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News &amp; Views</span></span><time class="c-meta__item" datetime="2025-12-02" itemprop="datePublished">02 Dec 2025</time>
-        
-        
-    </div>
-
-        
-    </article>
-
-
-    
-    </div>
-</div>
-                            </li>
-                        
-                            <li class="app-reviews-row__side-item">
-                                <div class="u-full-height">
-    <div class="u-full-height" data-native-ad-placement="false">
-    
-    <article class="u-full-height c-card c-card--flush" itemscope itemtype="http://schema.org/ScholarlyArticle">
-        <div class="c-card__layout u-full-height">
-            
-            <div class="c-card__body u-display-flex u-flex-direction-column">
-                <h3 class="c-card__title" itemprop="name headline">
-                    <a href="/articles/d41586-025-03730-0"
-                       class="c-card__link u-link-inherit"
-                       itemprop="url"
-                       data-track="click"
-                       data-track-action="view article"
-                       
-                       data-track-label="link">Practical alternative to explosive reaction will improve lab safety</a>
-                </h3>
-                
-                
-                
-            </div>
-        </div>
-        
-            
-    <div class="c-card__section c-meta">
-            <div>
-                
-<ul data-test="author-list" class="app-author-list app-author-list--compact">
-    <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tim Schulte</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">Tobias Ritter</span></li>
-</ul>
-
             </div>
         
         <span class="c-meta__item" data-test="article.type"><span class="c-meta__type">News &amp; Views</span></span><time class="c-meta__item" datetime="2025-12-02" itemprop="datePublished">02 Dec 2025</time>
@@ -2608,9 +2600,9 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-485867028&amp;t=pos%3Dright%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1989644845&amp;t=pos%3Dright%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-485867028&amp;t=pos%3Dright%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-1989644845&amp;t=pos%3Dright%26artid%3D/nature"
                  alt="Advertisement"
                  width="300"
                  height="250"/>
@@ -2642,8 +2634,8 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                    class="app-trending-row__link"
                                    itemprop="url"
                                    data-track="click" data-track-action="view article" data-track-label="link">
-                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;4970&amp;types&#x3D;mbrtwudo"
-                                         alt="Score 4970"
+                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;4983&amp;types&#x3D;mbrtwudo"
+                                         alt="Score 4983"
                                          class="u-mb-8" width="55" height="55" itemprop="image">
                                     <h3 class="u-ma-0 u-h4" itemprop="name headline">
                                         RETRACTED ARTICLE: The economic commitment of climate change
@@ -2658,8 +2650,8 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                    class="app-trending-row__link"
                                    itemprop="url"
                                    data-track="click" data-track-action="view article" data-track-label="link">
-                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;1003&amp;types&#x3D;mmbvttuu"
-                                         alt="Score 1003"
+                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;1091&amp;types&#x3D;mmbvttuu"
+                                         alt="Score 1091"
                                          class="u-mb-8" width="55" height="55" itemprop="image">
                                     <h3 class="u-ma-0 u-h4" itemprop="name headline">
                                         Satellite megaconstellations will threaten space-based astronomy
@@ -2674,8 +2666,8 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                    class="app-trending-row__link"
                                    itemprop="url"
                                    data-track="click" data-track-action="view article" data-track-label="link">
-                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;560&amp;types&#x3D;mtfuuuuu"
-                                         alt="Score 560"
+                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;672&amp;types&#x3D;mtfuuuuu"
+                                         alt="Score 672"
                                          class="u-mb-8" width="55" height="55" itemprop="image">
                                     <h3 class="u-ma-0 u-h4" itemprop="name headline">
                                         Hepatitis B vaccine guidance set to be rolled back for US babies: what the science says
@@ -2686,15 +2678,15 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                     
                         <li class="app-trending-row__item">
                             <article itemscope="" itemtype="http://schema.org/Article">
-                                <a href="http://dx.doi.org/10.1038/s41586-025-09893-0"
+                                <a href="http://dx.doi.org/10.1038/s41586-025-09823-0"
                                    class="app-trending-row__link"
                                    itemprop="url"
                                    data-track="click" data-track-action="view article" data-track-label="link">
-                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;557&amp;types&#x3D;mbttwuuo"
-                                         alt="Score 557"
+                                    <img src="https://badges.altmetric.com/?size&#x3D;64&amp;score&#x3D;492&amp;types&#x3D;mmmvtuuo"
+                                         alt="Score 492"
                                          class="u-mb-8" width="55" height="55" itemprop="image">
                                     <h3 class="u-ma-0 u-h4" itemprop="name headline">
-                                        Sustained HIV-1 remission after heterozygous CCR5Δ32 stem cell transplantation
+                                        Video-call glitches trigger uncanniness and harm consequential life outcomes
                                     </h3>
                                 </a>
                             </article>
@@ -2739,10 +2731,76 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                             
                                 <li class="c-list-group__item u-display-flex">
                                     <div class="u-display-flex u-flex-direction-column">
-                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12850660/dean-of-systems-hub/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
+                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12850686/associate-or-senior-editor-nature-computational-science/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
                                                               class="u-link-inherit"
                                                               data-track="click"
                                                               data-track-action="Rank:(0)"
+                                                              data-track-category="job-list"
+                                                              data-track-label="12850686">Associate or Senior Editor, Nature Computational Science</a></h4>
+
+                                        <div class="u-mt-auto c-meta">
+                                            <p class="u-ma-0">Title: Associate or Senior Editor, Nature Computational Science  Organization: Nature Portfolio  Location: Shanghai, Beijing, New York or New Jerse...</p>
+                                            <p class="u-ma-0 u-mt-8">Shanghai, Beijing, New York or New Jersey - Hybrid Working Model</p>
+                                            <p class="u-ma-0 u-mt-8">Springer Nature Ltd</p>
+                                        </div>
+                                    </div>
+                                    
+                                        <div class="u-hide u-show-at-sm" style="max-width: 150px;">
+                                            <img src="https://www.nature.com/naturecareers/getasset/7387bab3-756d-4666-8199-d6e4d0b97d0f/" alt="" class="u-ml-8" loading="lazy">
+                                        </div>
+                                    
+                                </li>
+                            
+                                <li class="c-list-group__item u-display-flex">
+                                    <div class="u-display-flex u-flex-direction-column">
+                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12846764/principal-investigator-positions-at-the-institute-for-molecular-and-cellular-therapeutics/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
+                                                              class="u-link-inherit"
+                                                              data-track="click"
+                                                              data-track-action="Rank:(1)"
+                                                              data-track-category="job-list"
+                                                              data-track-label="12846764">Principal Investigator Positions at The Institute for Molecular and Cellular Therapeutics</a></h4>
+
+                                        <div class="u-mt-auto c-meta">
+                                            <p class="u-ma-0">Assistant Investigator, Associate Investigator,Senior Investigator.</p>
+                                            <p class="u-ma-0 u-mt-8">Beijing (CN)</p>
+                                            <p class="u-ma-0 u-mt-8">The Chinese Institutes for Medical Research (CIMR), Beijing</p>
+                                        </div>
+                                    </div>
+                                    
+                                        <div class="u-hide u-show-at-sm" style="max-width: 150px;">
+                                            <img src="https://www.nature.com/naturecareers/getasset/562bceae-a097-44d8-9d5f-62b78744f506/" alt="" class="u-ml-8" loading="lazy">
+                                        </div>
+                                    
+                                </li>
+                            
+                                <li class="c-list-group__item u-display-flex">
+                                    <div class="u-display-flex u-flex-direction-column">
+                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12838612/principal-investigator-positions-at-the-institute-for-cancer-research-cimr-beijing/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
+                                                              class="u-link-inherit"
+                                                              data-track="click"
+                                                              data-track-action="Rank:(2)"
+                                                              data-track-category="job-list"
+                                                              data-track-label="12838612">Principal Investigator Positions at the Institute for Cancer Research, CIMR, Beijing</a></h4>
+
+                                        <div class="u-mt-auto c-meta">
+                                            
+                                            <p class="u-ma-0 u-mt-8">Beijing (CN)</p>
+                                            <p class="u-ma-0 u-mt-8">The Chinese Institutes for Medical Research (CIMR), Beijing</p>
+                                        </div>
+                                    </div>
+                                    
+                                        <div class="u-hide u-show-at-sm" style="max-width: 150px;">
+                                            <img src="https://www.nature.com/naturecareers/getasset/5e16f0ab-2bd1-4aa7-80bc-5540d737ba23/" alt="" class="u-ml-8" loading="lazy">
+                                        </div>
+                                    
+                                </li>
+                            
+                                <li class="c-list-group__item u-display-flex">
+                                    <div class="u-display-flex u-flex-direction-column">
+                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12850660/dean-of-systems-hub/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
+                                                              class="u-link-inherit"
+                                                              data-track="click"
+                                                              data-track-action="Rank:(3)"
                                                               data-track-category="job-list"
                                                               data-track-label="12850660">Dean of Systems Hub</a></h4>
 
@@ -2764,7 +2822,7 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                         <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12850659/dean-of-function-hub/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
                                                               class="u-link-inherit"
                                                               data-track="click"
-                                                              data-track-action="Rank:(1)"
+                                                              data-track-action="Rank:(4)"
                                                               data-track-category="job-list"
                                                               data-track-label="12850659">Dean of Function Hub</a></h4>
 
@@ -2777,72 +2835,6 @@ URL: https://www.nature.com?q=hydrogen+superconductors
                                     
                                         <div class="u-hide u-show-at-sm" style="max-width: 150px;">
                                             <img src="https://www.nature.com/naturecareers/getasset/5d603ab0-769c-4f9e-af1f-bd405490c222/" alt="" class="u-ml-8" loading="lazy">
-                                        </div>
-                                    
-                                </li>
-                            
-                                <li class="c-list-group__item u-display-flex">
-                                    <div class="u-display-flex u-flex-direction-column">
-                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12846678/faculty-positions-at-the-center-for-machine-learning-research-cmlr-peking-university/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
-                                                              class="u-link-inherit"
-                                                              data-track="click"
-                                                              data-track-action="Rank:(2)"
-                                                              data-track-category="job-list"
-                                                              data-track-label="12846678">Faculty Positions at the Center for Machine Learning Research (CMLR), Peking University</a></h4>
-
-                                        <div class="u-mt-auto c-meta">
-                                            <p class="u-ma-0">CMLR&#x27;s goal is to advance machine learning-related research across a wide range of disciplines.</p>
-                                            <p class="u-ma-0 u-mt-8">Beijing (CN)</p>
-                                            <p class="u-ma-0 u-mt-8">Center for Machine Learning Research (CMLR), Peking University</p>
-                                        </div>
-                                    </div>
-                                    
-                                        <div class="u-hide u-show-at-sm" style="max-width: 150px;">
-                                            <img src="https://www.nature.com/naturecareers/getasset/a54e1688-cc0b-4a92-92cd-8d9e85615e82/" alt="" class="u-ml-8" loading="lazy">
-                                        </div>
-                                    
-                                </li>
-                            
-                                <li class="c-list-group__item u-display-flex">
-                                    <div class="u-display-flex u-flex-direction-column">
-                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12850652/early-career-group-leader-opportunities-xuemin-investigator-fudan-university/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
-                                                              class="u-link-inherit"
-                                                              data-track="click"
-                                                              data-track-action="Rank:(3)"
-                                                              data-track-category="job-list"
-                                                              data-track-label="12850652">Early-Career Group Leader Opportunities: Xuemin Investigator, Fudan University</a></h4>
-
-                                        <div class="u-mt-auto c-meta">
-                                            <p class="u-ma-0">Build your own independent research group with long-term support at the Xuemin Institute, Fudan University!</p>
-                                            <p class="u-ma-0 u-mt-8">Shanghai (CN)</p>
-                                            <p class="u-ma-0 u-mt-8">Xuemin Institute of Advanced Studies, Fudan University</p>
-                                        </div>
-                                    </div>
-                                    
-                                        <div class="u-hide u-show-at-sm" style="max-width: 150px;">
-                                            <img src="https://www.nature.com/naturecareers/getasset/16cd3c1d-29ea-4db0-812d-15b17440a7a1/" alt="" class="u-ml-8" loading="lazy">
-                                        </div>
-                                    
-                                </li>
-                            
-                                <li class="c-list-group__item u-display-flex">
-                                    <div class="u-display-flex u-flex-direction-column">
-                                        <h4 class="u-mb-8 u-mt-0"><a href="https://www.nature.com/naturecareers/job/12840795/global-recruitment-for-faculty-postdocs-and-specialists-at-hangzhou-institute-of-medicine-cas-/?TrackID&#x3D;62&amp;utm_source&#x3D;widget&amp;utm_medium&#x3D;referral&amp;utm_campaign&#x3D;62"
-                                                              class="u-link-inherit"
-                                                              data-track="click"
-                                                              data-track-action="Rank:(4)"
-                                                              data-track-category="job-list"
-                                                              data-track-label="12840795">Global Recruitment for Faculty, Postdocs, and Specialists at Hangzhou Institute of Medicine, CAS</a></h4>
-
-                                        <div class="u-mt-auto c-meta">
-                                            <p class="u-ma-0">Seeking exceptional Senior/Junior PIs, Postdocs, and Core Specialists globally year-round</p>
-                                            <p class="u-ma-0 u-mt-8">Hangzhou, China</p>
-                                            <p class="u-ma-0 u-mt-8">Hangzhou Institute of Medicine Chinese Academy of Sciences (HIMCAS)</p>
-                                        </div>
-                                    </div>
-                                    
-                                        <div class="u-hide u-show-at-sm" style="max-width: 150px;">
-                                            <img src="https://www.nature.com/naturecareers/getasset/1c3bae40-91a7-4f46-8e23-c2fa83848be4/" alt="" class="u-ml-8" loading="lazy">
                                         </div>
                                     
                                 </li>
@@ -2884,9 +2876,9 @@ URL: https://www.nature.com?q=hydrogen+superconductors
         
     </script>
     <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=871863952&amp;t=pos%3Dright%26artid%3D/nature">
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-642668306&amp;t=pos%3Dright%26artid%3D/nature">
             <img data-test="gpt-advert-fallback-img"
-                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=871863952&amp;t=pos%3Dright%26artid%3D/nature"
+                 src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/homepage&amp;sz=300x250&amp;c=-642668306&amp;t=pos%3Dright%26artid%3D/nature"
                  alt="Advertisement"
                  width="300"
                  height="250"/>
@@ -3484,7 +3476,7 @@ data-track-label="Briefing banner visible: Flagship">
         
 
     <p class="c-meta u-ma-0">
-        Top headline image: Marcus Harrison/Alamy
+        Top headline image: Shehryar (Shay) Saharan
     </p>
 
 

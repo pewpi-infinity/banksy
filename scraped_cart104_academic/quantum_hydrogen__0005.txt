@@ -2171,7 +2171,7 @@ exports.headerWidgetClientInit = headerWidgetClientInit;
 			<div class="eds-c-footer__user">
 				<p class="eds-c-footer__user-info">
 					
-					<span data-test="footer-user-ip">174.235.214.125</span>
+					<span data-test="footer-user-ip">174.235.208.254</span>
 				</p>
 				<p class="eds-c-footer__user-info" data-test="footer-business-partners">Not affiliated</p>
 			</div>
