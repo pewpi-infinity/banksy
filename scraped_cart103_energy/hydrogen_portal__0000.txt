@@ -6,8 +6,8 @@ URL: https://www.energy.gov?q=hydrogen+portal
   <meta charset="utf-8" />
 <script type="text/javascript">/*
  Copyright and licenses see https://www.dynatrace.com/company/trust-center/customers/reports/ */
-(function(){function $a(){var ta;(ta=void 0===db.dialogArguments&&navigator.cookieEnabled)||(document.cookie="__dTCookie=1;SameSite=Lax",ta=document.cookie.includes("__dTCookie"),ta=(document.cookie="__dTCookie=1; expires=Thu, 01-Jan-1970 00:00:01 GMT",ta));return ta}function Ea(){if($a()){var ta=db.dT_,Fa=null==ta?void 0:ta.platformPrefix,gb;if(gb=!ta||Fa){var Wa;gb=(null===(Wa=document.currentScript)||void 0===Wa?void 0:Wa.getAttribute("data-dtconfig"))||"domain=energy.gov|reportUrl=/rb_33bb55c9-1410-4de1-8b54-d592dfdc60af|app=cff6532c80af1c10|owasp=1|featureHash=A7NVfgqrux|xb=^bs/sitewide_alert^bs/load^p^bs/sitewide^bs_alert^bs/load|rdnt=1|uxrgce=1|cuc=dgtcdnr2|mel=100000|expw=1|dpvc=1|lastModification=1764767319075|postfix=dgtcdnr2|tp=500,50,0|srbbv=2|agentUri=/ruxitagentjs_A7NVfgqrux_10323250822043923.js|auto=1|domain=energy.gov|rid=RID_-661512195|rpid=709426228";
-gb=(Wa=null==ta?void 0:ta.minAgentVersion)&&"10323250822043923"<`${Wa}`?(console.log("[CookiePrefix/initConfig] Min agent version detected, and javascript agent is older - the javascript agent will not be initialized!"),!1):Fa&&!gb.includes(`cuc=${Fa}`)?(console.log(`[CookiePrefix/initConfig] value of platformPrefix [${Fa}] does not match the "cuc" value in the current config - initConfig will not initialize!`),!1):!0}gb&&(ta={cfg:"domain=energy.gov|reportUrl=/rb_33bb55c9-1410-4de1-8b54-d592dfdc60af|app=cff6532c80af1c10|owasp=1|featureHash=A7NVfgqrux|xb=^bs/sitewide_alert^bs/load^p^bs/sitewide^bs_alert^bs/load|rdnt=1|uxrgce=1|cuc=dgtcdnr2|mel=100000|expw=1|dpvc=1|lastModification=1764767319075|postfix=dgtcdnr2|tp=500,50,0|srbbv=2|agentUri=/ruxitagentjs_A7NVfgqrux_10323250822043923.js|auto=1|domain=energy.gov|rid=RID_-661512195|rpid=709426228",
+(function(){function $a(){var ta;(ta=void 0===db.dialogArguments&&navigator.cookieEnabled)||(document.cookie="__dTCookie=1;SameSite=Lax",ta=document.cookie.includes("__dTCookie"),ta=(document.cookie="__dTCookie=1; expires=Thu, 01-Jan-1970 00:00:01 GMT",ta));return ta}function Ea(){if($a()){var ta=db.dT_,Fa=null==ta?void 0:ta.platformPrefix,gb;if(gb=!ta||Fa){var Wa;gb=(null===(Wa=document.currentScript)||void 0===Wa?void 0:Wa.getAttribute("data-dtconfig"))||"domain=energy.gov|reportUrl=/rb_33bb55c9-1410-4de1-8b54-d592dfdc60af|app=cff6532c80af1c10|owasp=1|featureHash=A7NVfgqrux|xb=^bs/sitewide_alert^bs/load^p^bs/sitewide^bs_alert^bs/load|rdnt=1|uxrgce=1|cuc=dgtcdnr2|mel=100000|expw=1|dpvc=1|lastModification=1764767319075|postfix=dgtcdnr2|tp=500,50,0|srbbv=2|agentUri=/ruxitagentjs_A7NVfgqrux_10323250822043923.js|auto=1|domain=energy.gov|rid=RID_-661512195|rpid=-1556670028";
+gb=(Wa=null==ta?void 0:ta.minAgentVersion)&&"10323250822043923"<`${Wa}`?(console.log("[CookiePrefix/initConfig] Min agent version detected, and javascript agent is older - the javascript agent will not be initialized!"),!1):Fa&&!gb.includes(`cuc=${Fa}`)?(console.log(`[CookiePrefix/initConfig] value of platformPrefix [${Fa}] does not match the "cuc" value in the current config - initConfig will not initialize!`),!1):!0}gb&&(ta={cfg:"domain=energy.gov|reportUrl=/rb_33bb55c9-1410-4de1-8b54-d592dfdc60af|app=cff6532c80af1c10|owasp=1|featureHash=A7NVfgqrux|xb=^bs/sitewide_alert^bs/load^p^bs/sitewide^bs_alert^bs/load|rdnt=1|uxrgce=1|cuc=dgtcdnr2|mel=100000|expw=1|dpvc=1|lastModification=1764767319075|postfix=dgtcdnr2|tp=500,50,0|srbbv=2|agentUri=/ruxitagentjs_A7NVfgqrux_10323250822043923.js|auto=1|domain=energy.gov|rid=RID_-661512195|rpid=-1556670028",
 iCE:$a,platformCookieOffset:null==ta?void 0:ta.platformCookieOffset},Fa&&(ta.platformPrefix=Fa),db.dT_=ta)}}function Xa(ta){return"function"==typeof ta}function hb(){let ta=window.performance;return ta&&Ca&&Va&&!!ta.timeOrigin&&Xa(ta.now)&&Xa(ta.getEntriesByType)&&Xa(ta.getEntriesByName)&&Xa(ta.setResourceTimingBufferSize)&&Xa(ta.clearResourceTimings)}this.dT_&&dT_.prm&&dT_.prm();var db="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof window?window:void 0,Va="function"==typeof PerformanceResourceTiming||
 "object"==typeof PerformanceResourceTiming,Ca="function"==typeof PerformanceNavigationTiming||"object"==typeof PerformanceNavigationTiming;if((!("documentMode"in document)||Number.isNaN(document.documentMode))&&hb()){let ta=db.dT_;!ta||!ta.cfg&&ta.platformPrefix?Ea():ta.gCP||(db.console.log("Duplicate agent injection detected, turning off redundant initConfig."),ta.di=1)}})();
 (function(){function $a(){let g=0;try{g=Math.round(Oa.performance.timeOrigin)}catch(q){}if(0>=g||Number.isNaN(g)||!Number.isFinite(g))fe.push({severity:"Warning",type:"ptoi",text:`performance.timeOrigin is invalid, with a value of [${g}]. Falling back to performance.timing.navigationStart`}),g=We;return Ad=g,ld=Ea,Ad}function Ea(){return Ad}function Xa(){return ld()}function hb(){let g=0;try{g=Math.round(Oa.performance.now())}catch(q){}return 0>=g||Number.isNaN(g)||!Number.isFinite(g)?Date.now()-
@@ -97,8 +97,8 @@ zd))}})()})();
 <style>.page-hero, .topic-banner-wrapper .hero { background-image: linear-gradient(180deg, transparent 33%, rgba(41, 41, 41, .7)), url(https://www.energy.gov/sites/default/files/2024-11/Power%20Admin%20Banner%20Option%201.jpeg) !important } .page-title { color: #ffffff !important }</style>
 <link rel="icon" href="/themes/custom/energy_gov/favicon.ico" type="image/vnd.microsoft.icon" />
 <link rel="alternate" hreflang="en" href="https://www.energy.gov/" />
-<script src="/sites/default/files/google_tag/eere.energy.gov/google_tag.script.js?t6y1vb" defer></script>
-<script src="/sites/default/files/google_tag/energygov/google_tag.script.js?t6y1vb" defer></script>
+<script src="/sites/default/files/google_tag/eere.energy.gov/google_tag.script.js?t6zwjc" defer></script>
+<script src="/sites/default/files/google_tag/energygov/google_tag.script.js?t6zwjc" defer></script>
 
   <title>Department of Energy</title>
   <link rel="stylesheet" media="all" href="/sites/default/files/css/css_cYxo6hMrUKFcYEqtZuMeBKTXdMRzN-PuX6jOfOGlgAg.css?delta=0&amp;language=en&amp;theme=energy_gov&amp;include=eJxNjFEOwyAMQy_EypFQWjwaLQVEoF1vP1YNrT-R857lJRVYX1ommTyTpGAQUcLplq-55cFD2i2pouqdaBb2vfOuwvE1Fn-vyVQoFMqrDvMnU4u5zcK6whvliqMPORKUajlyNXpqxWZnUpi9u-SwzfDuyRBvCzSnqLzjcclewaH2utOWfBN8AA4HWaI" />
@@ -1704,8 +1704,33 @@ zd))}})()})();
 
 <div class="paragraph paragraph--type--collection paragraph--view-mode--default">
   <div class="paragraph__column">
-          <ul class="collection collection--xtra-sm-dates js-view-dom-id-dfaa2edbc3ce38fa175a9b52bc55f2b12cd5b5fad86aee9136dcd8f3ac004f7d">
+          <ul class="collection collection--xtra-sm-dates js-view-dom-id-a08950b02afbe34c7b49df58b8f553c9e81e717494edab6b54be4e7b4eeef4d8">
           <li class="collection-item">
+<div  class="collection-item--type-press-releases collection-item-wrapper">
+  
+  
+      <div class="collection-item__topics micro">
+        <ul>
+  <li>Nuclear</li><li><a href="/topics/nuclear-energy">Nuclear Energy</a></li></ul>
+
+
+    </div>
+  
+  <div class="collection-item__title title-sm">
+            <a class="collection-item__link" href="/articles/energy-department-announces-11-million-awards-develop-haleu-transportation-packages">
+      Energy Department Announces $11 Million in Awards to Develop HALEU Transportation Packages
+    </a>
+      </div>
+
+
+
+  <div class="collection-item__date p2">
+    December 8, 2025
+  </div>
+</div>
+
+</li>
+    <li class="collection-item">
 <div  class="collection-item--type-press-releases collection-item-wrapper">
   
   
@@ -1776,31 +1801,6 @@ zd))}})()})();
 
   <div class="collection-item__date p2">
     December 2, 2025
-  </div>
-</div>
-
-</li>
-    <li class="collection-item">
-<div  class="collection-item--type-press-releases collection-item-wrapper">
-  
-  
-      <div class="collection-item__topics micro">
-        <ul>
-  <li>Manufacturing</li><li>Funding Opportunities</li><li>Funding Opportunities</li><li>Funding Opportunities</li><li>Funding Opportunities</li></ul>
-
-
-    </div>
-  
-  <div class="collection-item__title title-sm">
-            <a class="collection-item__link" href="/articles/energy-department-announces-134-million-funding-strengthen-rare-earth-element-supply">
-      Energy Department Announces $134 Million in Funding to Strengthen Rare Earth Element Supply Chains, Advancing American Energy Independence
-    </a>
-      </div>
-
-
-
-  <div class="collection-item__date p2">
-    December 1, 2025
   </div>
 </div>
 
@@ -2221,7 +2221,7 @@ zd))}})()})();
 
 
 
-  <input autocomplete="off" data-drupal-selector="form-y9t2e60ocxnrn9epusi2lm21tavcz5gcvw5htoelk-g" type="hidden" name="form_build_id" value="form-Y9T2E60OcXnrn9epUSi2lm21TAVcz5GcVW5HtOeLk_g" class="usa-input" />
+  <input autocomplete="off" data-drupal-selector="form-188f2oxemjltqn5tbgnkggbnbyvhajicalvq-twaju" type="hidden" name="form_build_id" value="form--188F2oXemJlTqN5TbgNKGGBNbYVhajicAlvQ-TWaJU" class="usa-input" />
 
 
 
@@ -2436,7 +2436,7 @@ zd))}})()})();
 
 <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/2791","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en","currentQuery":{"q":"hydrogen portal"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0},"es":{"id":"es","name":"Spanish","direction":"ltr","weight":1}}},"external_link_popup":{"whitelist":"","width":"85%","popups":[{"id":"default","name":"Default","status":true,"weight":10,"close":true,"title":"You Are Now Leaving This Site","body":"\u003Cp\u003EWould you like to leave this site?\u003C\/p\u003E\n","labelyes":"OK","labelno":"Cancel","domains":"*","target":"_self"}]},"google_analytics":{"account":"G-GS1KB7R8DY","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":true,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"\\.gov","extInclude":"isExternalResource","extCssExclude":"footer, .social-bar-utility, .media-type-image, .energy-social-links","extCssInclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"0","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":[],"extExcludeNoreferrer":""}},"energyAnalytics":{"accounts":["UA-17192165-1"],"pageTitle":"Powering today, Transforming tomorrow.","settings":[["_setAccount","UA-17192165-1"],["_trackPageview"],["_setDomainName",".energy.gov"]]},"searchSettings":{"bestBetsHeadingText":"Recommended by DOE:","defaultThumbnailUrl":"https:\/\/www.energy.gov\/sites\/default\/files\/2025-04\/white-fallback_0.png","enableTopicsAutocomplete":true,"events":{"showUpcomingEventsSection":true,"viewAllEventsLinkTitle":"View All Events","viewEventDetailsLinkTitle":"View Event Details"},"isSearchEventsPage":false,"isSearchEventsCalendarPage":false,"searchHeaderMessage":{"generic":"What are you looking for?","events":"What event are you looking for?"},"popularSearchTerm1":"Artificial Intelligence","popularSearchTerm2":"LNG","popularSearchTerm3":"Geothermal","popularSearchTerm4":"Nuclear Energy","popularSearchTerm5":"Hydropower","popularSearchTerm6":"","facetsFooterMessage":"\u003Cp\u003E\u003Cstrong\u003ELooking for compliance docs?\u003C\/strong\u003E\u003Cbr\u003E\u003Ca href=\u0022#\u0022\u003EVisit our Compliance Document search page\u003C\/a\u003E\u003C\/p\u003E","noResultsFoundMessage":"No matches were found using the filters you have selected.","suggestedTopicsMessage":"Suggested Topics based on Your Search","spellcheck":{"labelPrefix":"Did you mean: ","labelSuffix":"? Suggestion based on closest match(es)."},"timeZone":"America\/New_York","topics":{"topicsCountForSearchPage":"3"}},"ajaxTrustedUrl":{"https:\/\/public.govdelivery.com\/accounts\/USDOE\/subscribers\/qualify":true},"sitewideAlert":{"refreshInterval":150000,"automaticRefresh":true},"user":{"uid":0,"permissionsHash":"9c9c480e7af7c661408c60c46bc6b4cece620e7005df99e7baae3961aab99997"}}</script>
 <script src="/sites/default/files/js/js_YoldFWfqlq1lGNPqMt1fkWWhAQBd4EY8Bldaw5dSaIA.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=energy_gov&amp;include=eJxtjUEOgzAMBD-E6kv_E5nEDRYmiWxDy-9LBVF76NGz492EjoI7KYw04cZVbaBCmveABWV3jgYZ74E2Kh5cMc5c8h-n1iz0Bd2ItfjxCddJLxcuc09z3QDNyO2XWBNO1MlCiRHial6XT92D86oURqlxPsNuGqHGCbC14dqBpGtDufVZY6fn0R1QSB24sL8BBoBmpw"></script>
-<script src="/modules/custom/energy_search/js/search-uswds/build/static/js/bundle.js?t6y1vb"></script>
+<script src="/modules/custom/energy_search/js/search-uswds/build/static/js/bundle.js?t6zwjc"></script>
 <script src="/sites/default/files/js/js_f0ocZKYH50FwjVzOnMO-BB6abKFlLaO-i2i3Wpic1ho.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=energy_gov&amp;include=eJxtjUEOgzAMBD-E6kv_E5nEDRYmiWxDy-9LBVF76NGz492EjoI7KYw04cZVbaBCmveABWV3jgYZ74E2Kh5cMc5c8h-n1iz0Bd2ItfjxCddJLxcuc09z3QDNyO2XWBNO1MlCiRHial6XT92D86oURqlxPsNuGqHGCbC14dqBpGtDufVZY6fn0R1QSB24sL8BBoBmpw"></script>
 
 </body>

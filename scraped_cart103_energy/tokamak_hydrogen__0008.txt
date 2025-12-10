@@ -66,16 +66,16 @@ URL: https://www.iea.org?q=tokamak+hydrogen
     <![endif]-->
 
     <!--[if IE]>
-    <script nonce="qA7WdeuhPHrY13j9bc9kaMk4PLZ95I3G">var de = document.documentElement; de.className = de.className.replace('not-ie','ie');</script>
+    <script nonce="sXnqnKod2HusvwYbwaDUp1XO0WMcgAf4">var de = document.documentElement; de.className = de.className.replace('not-ie','ie');</script>
     <![endif]-->
 
     
-    <script nonce="qA7WdeuhPHrY13j9bc9kaMk4PLZ95I3G">
+    <script nonce="sXnqnKod2HusvwYbwaDUp1XO0WMcgAf4">
 !function(i){var e,t=window.A17||{},n=i.documentElement,s=window,r=i.getElementsByTagName("head")[0];t.browserSpec=(i.querySelectorAll,"addEventListener"in s&&s.history.pushState&&i.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#BasicStructure","1.1")?"html5":"html4"),t.touch=!!("ontouchstart"in s||s.documentTouch&&i instanceof DocumentTouch),t.objectFit="objectFit"in n.style,t.isIE=function(){var e=window.navigator.userAgent,t=e.indexOf("MSIE ");if(0<t)return parseInt(e.substring(t+5,e.indexOf(".",t)),10);if(0<e.indexOf("Trident/")){var n=e.indexOf("rv:");return parseInt(e.substring(n+3,e.indexOf(".",n)),10)}var i=e.indexOf("Edge/");if(0<i)return parseInt(e.substring(i+5,e.indexOf(".",i)),10);return!1}(),window.A17=t,n.className=n.className.replace(/\bno-js\b/," js "+t.browserSpec+(t.touch?" touch":" no-touch")+(t.objectFit?" objectFit":" no-objectFit")+(t.isIE?" ie":" no-ie")),"html4"===t.browserSpec&&((e=i.createElement("link")).rel="stylesheet",e.title="html4css",e.href="/dist/styles/html4css.css",r.appendChild(e),function e(){!i.readyState&&i.addEventListener&&(i.body?setTimeout(function(){i.readyState="complete"},500):setTimeout(e,9))}(),function e(){if(/in/.test(i.readyState))setTimeout(e,9);else for(var t=0;t<i.styleSheets.length;t++){var n=i.styleSheets[t];"html4css"!==n.title&&(n.disabled=!0)}}())}(document);
 </script>
 
     <!-- Google Tag Manager -->
-    <script nonce="qA7WdeuhPHrY13j9bc9kaMk4PLZ95I3G">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script nonce="sXnqnKod2HusvwYbwaDUp1XO0WMcgAf4">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -1728,7 +1728,7 @@ URL: https://www.iea.org?q=tokamak+hydrogen
     <a href="/commentaries/opportunities-for-district-heating-in-the-changing-energy-landscape" class="o-hero-latest__link" data-behavior="track" data-track-event="HomepageFeature" data-track-eventcategory="Homepage" data-track-eventaction="click featured" data-track-eventlabel="Opportunities for district heating in the changing energy landscape">
         <div class="o-hero-latest__content">
                             <span class="a-tag-small" >
-    Electricity
+    Heating
 </span>
                         <h2 class="o-hero-latest__title f-title-8"><span class="o-hero-latest__hover">Opportunities for district heating in the changing energy landscape</span></h2>
 
@@ -1765,6 +1765,28 @@ URL: https://www.iea.org?q=tokamak+hydrogen
 </article>
                                 </li>
                                                                                                                                                                                             <li class="o-hero-latest__list-item">
+                                    <article class="o-hero-latest__listing o-hero-latest__listing--commentary
+    
+    "
+>
+    <a href="/commentaries/can-low-temperature-heat-in-factories-be-electrified-competitively" class="o-hero-latest__link" data-behavior="track" data-track-event="HomepageFeature" data-track-eventcategory="Homepage" data-track-eventaction="click featured" data-track-eventlabel="Can low-temperature heat in factories be electrified competitively?">
+        <div class="o-hero-latest__content">
+                            <span class="a-tag-small" >
+    Electricity
+</span>
+                        <h2 class="o-hero-latest__title f-title-8"><span class="o-hero-latest__hover">Can low-temperature heat in factories be electrified competitively?</span></h2>
+
+                    </div>
+                    <div class="o-hero-latest__img">
+                <div class="o-hero-latest__imgSpacer">
+                    <img src="https://iea.imgix.net/9583d087-f902-4a5b-8509-e90f365beb9d/shutterstock_2425459329_Canlow-temperatureheatinfactoriesbeelectrifiedcompetitively.jpg?auto=compress%2Cformat&fit=min&q=80&rect=48%2C61%2C752%2C423&w=322&h=181&fit=crop&fm=jpg&q=70&auto=format" srcset="https://iea.imgix.net/9583d087-f902-4a5b-8509-e90f365beb9d/shutterstock_2425459329_Canlow-temperatureheatinfactoriesbeelectrifiedcompetitively.jpg?auto=compress%2Cformat&fit=min&q=80&rect=48%2C61%2C752%2C423&w=120&fit=crop&fm=jpg&q=70&auto=format&h=68 120w,https://iea.imgix.net/9583d087-f902-4a5b-8509-e90f365beb9d/shutterstock_2425459329_Canlow-temperatureheatinfactoriesbeelectrifiedcompetitively.jpg?auto=compress%2Cformat&fit=min&q=80&rect=48%2C61%2C752%2C423&w=240&fit=crop&fm=jpg&q=70&auto=format&h=135 240w,https://iea.imgix.net/9583d087-f902-4a5b-8509-e90f365beb9d/shutterstock_2425459329_Canlow-temperatureheatinfactoriesbeelectrifiedcompetitively.jpg?auto=compress%2Cformat&fit=min&q=80&rect=48%2C61%2C752%2C423&w=250&fit=crop&fm=jpg&q=70&auto=format&h=141 250w,https://iea.imgix.net/9583d087-f902-4a5b-8509-e90f365beb9d/shutterstock_2425459329_Canlow-temperatureheatinfactoriesbeelectrifiedcompetitively.jpg?auto=compress%2Cformat&fit=min&q=80&rect=48%2C61%2C752%2C423&w=500&fit=crop&fm=jpg&q=70&auto=format&h=281 500w,https://iea.imgix.net/9583d087-f902-4a5b-8509-e90f365beb9d/shutterstock_2425459329_Canlow-temperatureheatinfactoriesbeelectrifiedcompetitively.jpg?auto=compress%2Cformat&fit=min&q=80&rect=48%2C61%2C752%2C423&w=322&fit=crop&fm=jpg&q=70&auto=format&h=181 322w,https://iea.imgix.net/9583d087-f902-4a5b-8509-e90f365beb9d/shutterstock_2425459329_Canlow-temperatureheatinfactoriesbeelectrifiedcompetitively.jpg?auto=compress%2Cformat&fit=min&q=80&rect=48%2C61%2C752%2C423&w=644&fit=crop&fm=jpg&q=70&auto=format&h=362 644w" sizes="(max-width: 729px) 120px,(min-width: 730px) and (max-width:959px) 120px,(min-width: 960px) and (max-width:1279px) 250px,(min-width: 1280px) and (max-width:1479px) 322px,(min-width: 1480px) 322px" alt="photo depicts Industrial equipment for heating and cooling urban rooftops with brass installation on insulated copper pipes" />
+                </div>
+            </div>
+        
+            </a>
+</article>
+                                </li>
+                                                                                                                                                                                            <li class="o-hero-latest__list-item">
                                     <article class="o-hero-latest__listing o-hero-latest__listing--news
     
     "
@@ -1786,28 +1808,6 @@ URL: https://www.iea.org?q=tokamak+hydrogen
             </a>
 </article>
                                 </li>
-                                                                                                                                                                                            <li class="o-hero-latest__list-item">
-                                    <article class="o-hero-latest__listing o-hero-latest__listing--technology-report
-    
-    "
->
-    <a href="/reports/policy-options-to-accelerate-distributed-solar-pv-in-ukraine" class="o-hero-latest__link" data-behavior="track" data-track-event="HomepageFeature" data-track-eventcategory="Homepage" data-track-eventaction="click featured" data-track-eventlabel="Policy options to accelerate distributed solar PV in Ukraine">
-        <div class="o-hero-latest__content">
-                            <span class="a-tag-small" >
-    Solar PV
-</span>
-                        <h2 class="o-hero-latest__title f-title-8"><span class="o-hero-latest__hover">Policy options to accelerate distributed solar PV in Ukraine</span></h2>
-
-                    </div>
-                    <div class="o-hero-latest__img">
-                <div class="o-hero-latest__imgSpacer">
-                    <img src="https://iea.imgix.net/3e631749-a294-4a20-916b-f7f7e694313e/shutterstock_2023406210_PolicyoptionstoacceleratedistributedsolarPVinUkraine.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C0%2C5452%2C3070&w=322&h=181&fit=crop&fm=jpg&q=70&auto=format" srcset="https://iea.imgix.net/3e631749-a294-4a20-916b-f7f7e694313e/shutterstock_2023406210_PolicyoptionstoacceleratedistributedsolarPVinUkraine.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C0%2C5452%2C3070&w=120&fit=crop&fm=jpg&q=70&auto=format&h=68 120w,https://iea.imgix.net/3e631749-a294-4a20-916b-f7f7e694313e/shutterstock_2023406210_PolicyoptionstoacceleratedistributedsolarPVinUkraine.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C0%2C5452%2C3070&w=240&fit=crop&fm=jpg&q=70&auto=format&h=135 240w,https://iea.imgix.net/3e631749-a294-4a20-916b-f7f7e694313e/shutterstock_2023406210_PolicyoptionstoacceleratedistributedsolarPVinUkraine.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C0%2C5452%2C3070&w=250&fit=crop&fm=jpg&q=70&auto=format&h=141 250w,https://iea.imgix.net/3e631749-a294-4a20-916b-f7f7e694313e/shutterstock_2023406210_PolicyoptionstoacceleratedistributedsolarPVinUkraine.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C0%2C5452%2C3070&w=500&fit=crop&fm=jpg&q=70&auto=format&h=282 500w,https://iea.imgix.net/3e631749-a294-4a20-916b-f7f7e694313e/shutterstock_2023406210_PolicyoptionstoacceleratedistributedsolarPVinUkraine.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C0%2C5452%2C3070&w=322&fit=crop&fm=jpg&q=70&auto=format&h=181 322w,https://iea.imgix.net/3e631749-a294-4a20-916b-f7f7e694313e/shutterstock_2023406210_PolicyoptionstoacceleratedistributedsolarPVinUkraine.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C0%2C5452%2C3070&w=644&fit=crop&fm=jpg&q=70&auto=format&h=363 644w" sizes="(max-width: 729px) 120px,(min-width: 730px) and (max-width:959px) 120px,(min-width: 960px) and (max-width:1279px) 250px,(min-width: 1280px) and (max-width:1479px) 322px,(min-width: 1480px) 322px" alt="Photo depicts an Eco house with sun panels energy" />
-                </div>
-            </div>
-        
-            </a>
-</article>
-                                </li>
                                                                                         </ul>
             </div>
             
@@ -1819,14 +1819,6 @@ URL: https://www.iea.org?q=tokamak+hydrogen
 
                 </header>
                 <div class="o-hero-latest__event">
-                                            <article class="m-latest-event-listing" data-slidereventhome-item>
-    <a href="/events/accelerating-hydrogen-in-southeast-asia-from-promise-to-practical-pathways" class="m-latest-event-listing__link">
-        <span class="m-latest-event-listing__date">9 Dec 2025 06:00—07:00</span>
-        <h6 class="m-latest-event-listing__title">
-            <span class="m-latest-event-listing__hover">Accelerating hydrogen in Southeast Asia: From promise to practical pathways</span>
-        </h6>
-    </a>
-</article>
                                             <article class="m-latest-event-listing" data-slidereventhome-item>
     <a href="/events/oil-market-report-december-2025" class="m-latest-event-listing__link">
         <span class="m-latest-event-listing__date">11 Dec 2025</span>
@@ -1840,6 +1832,14 @@ URL: https://www.iea.org?q=tokamak+hydrogen
         <span class="m-latest-event-listing__date">16 Dec 2025 09:00—10:00</span>
         <h6 class="m-latest-event-listing__title">
             <span class="m-latest-event-listing__hover">Financing Nuclear Energy in Southeast Asia: Investment Needs, Risks and Pathways</span>
+        </h6>
+    </a>
+</article>
+                                            <article class="m-latest-event-listing" data-slidereventhome-item>
+    <a href="/events/coal-2025" class="m-latest-event-listing__link">
+        <span class="m-latest-event-listing__date">Dec 2025</span>
+        <h6 class="m-latest-event-listing__title">
+            <span class="m-latest-event-listing__hover">Coal 2025</span>
         </h6>
     </a>
 </article>
@@ -2400,4 +2400,4 @@ URL: https://www.iea.org?q=tokamak+hydrogen
                 </div>
                             <div role="listitem" class="m-slider-topics__item">
                     <a href="/topics/energy-and-gender" class="m-slider-topics__link">
-                                                    <img data-src="https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=600&h=132&fit=crop&fm=jpg&q=70&auto=format" data-lazyload data-srcset="https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=790&fit=crop&fm=jpg&q=70&auto=format&h=174 790w,https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=1580&fit=crop&fm=jpg&q=70&auto=format&h=348 1580w,https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=550&fit=crop&fm=jpg&q=70&auto=format&h=121 550w,https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=1100&fit=crop&fm=jpg&q=70&auto=format&h=242 1100w,https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=600&fit=crop&fm=jpg&q=70&auto=format&h=132 600w,https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=1200&fit=crop&fm=jpg&q=70&auto=format&h=264 1200w" sizes="(max-width: 729px) 790px,(min-width: 730px) and (max-width:959px) 790px,(min-width: 960px) and (max-width:1279px) 550px,(min-width: 1
+                                                    <img data-src="https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=600&h=132&fit=crop&fm=jpg&q=70&auto=format" data-lazyload data-srcset="https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=790&fit=crop&fm=jpg&q=70&auto=format&h=174 790w,https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=1580&fit=crop&fm=jpg&q=70&auto=format&h=348 1580w,https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=550&fit=crop&fm=jpg&q=70&auto=format&h=121 550w,https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=1100&fit=crop&fm=jpg&q=70&auto=format&h=242 1100w,https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=600&fit=crop&fm=jpg&q=70&auto=format&h=132 600w,https://iea.imgix.net/827d6197-2b82-4e62-85de-2c49070eba8a/thisisengineering-X7cls0azgKg-unsplash.jpg?auto=compress%2Cformat&fit=min&q=80&rect=0%2C1221%2C7952%2C1752&w=1200&fit=crop&fm=jpg&q=70&auto=format&h=264 1200w" sizes="(max-width: 729px) 790px,(min-width: 730px) and (max-width:959px) 790px,(min-width: 960px) and (max-width:1279px) 550px,(min-width: 1280px

@@ -43,7 +43,7 @@ URL: https://www.toyota-global.com?q=hydrogen+fuel+cell
 
 	<link rel="stylesheet" href="/pages/_system/css/slick.css">
 	<script type="text/javascript" src="/pages/_system/js/lib/slick.min.js"></script>
-	<script type="text/javascript" src="/include/js/tgn_webbeacon.js?v=2025120819"></script>
+	<script type="text/javascript" src="/include/js/tgn_webbeacon.js?v=2025121010"></script>
 <script type="application/json" id="download-data">
 		{"list":[]}</script>
 	<script type="application/json" id="article-data">
@@ -51,7 +51,7 @@ URL: https://www.toyota-global.com?q=hydrogen+fuel+cell
 	<script type="application/json" id="sns-data">
 		{"hasZip":false,"zipItemId":"","hasPdf":false,"pdfItemId":"","zipName":"Download all images","showShareIcon":false}</script>
 	
-	<script type="text/javascript" src="/pages/_system/js/detail.bundle.js?v=2025120819"></script>
+	<script type="text/javascript" src="/pages/_system/js/detail.bundle.js?v=2025121010"></script>
 	
 	<link rel="stylesheet" href="/pages/contents/css/normalize.css">
 <link rel="stylesheet" href="/pages/contents/css/common.css">

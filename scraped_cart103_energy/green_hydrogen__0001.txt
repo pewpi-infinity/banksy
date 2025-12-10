@@ -321,11 +321,6 @@ a[href$=".pdf"].brochure::after {
 			</a>
 		</li>
 		<li class="child-node">
-			<a href="/about/economic-impact">
-				Economic Impact
-			</a>
-		</li>
-		<li class="child-node">
 			<a href="/about/energy-education">
 				Education
 			</a>
@@ -333,6 +328,11 @@ a[href$=".pdf"].brochure::after {
 		<li class="child-node">
 			<a href="/about/community">
 				Community
+			</a>
+		</li>
+		<li class="child-node">
+			<a href="/about/business-volume">
+				Business Volume
 			</a>
 		</li>
 		<li class="child-node">
@@ -695,6 +695,10 @@ a[href$=".pdf"].brochure::after {
         </header>
         
        <div class="link-item">
+           <a href="https://www.nrel.gov/news/detail/program/2025/new-report-illuminates-geothermal-cooling-potential-in-hawaii">New Report Illuminates Geothermal Cooling Potential in Hawaii</a>
+           <p class="date">Dec. 8, 2025</p>
+        </div>
+       <div class="link-item">
            <a href="https://www.nrel.gov/news/detail/program/2025/nlr-analysis-identifies-reservoir-thermal-energy-storage-as-a-solution-for-data-center-cooling-needs">NLR Analysis Identifies Reservoir Thermal Energy Storage as a Solution for Data Center Cooling Needs</a>
            <p class="date">Dec. 4, 2025</p>
         </div>
@@ -704,10 +708,6 @@ a[href$=".pdf"].brochure::after {
         </div>
        <div class="link-item">
            <a href="https://www.nrel.gov/news/detail/press/2025/news-release-energy-department-renames-nrel-&#39;national-lab-of-the-rockies&#39;">News Release: Energy Department Renames NREL &#39;National Laboratory of the Rockies&#39;</a>
-           <p class="date">Dec. 1, 2025</p>
-        </div>
-       <div class="link-item">
-           <a href="https://www.nrel.gov/news/detail/program/2025/scientists-describe-exciton-formation-in-thin-magnetic-crystals-with-potential-for-quantum-computing-or-other-advanced-technologies">Scientists Describe Exciton Formation in Thin Magnetic Crystals—With Potential for Quantum Computing or Other Advanced Technologies</a>
            <p class="date">Dec. 1, 2025</p>
         </div>
     </section>
