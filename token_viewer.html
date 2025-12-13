@@ -194,6 +194,11 @@
   <div class="controls">
     <button class="btn" onclick="loadSampleTokens()">Load Sample Tokens</button>
     <button class="btn" onclick="filterByColor('all')">Show All</button>
+    <button class="btn" onclick="filterByColor('blue')">🔵 Blue</button>
+    <button class="btn" onclick="filterByColor('purple')">🟣 Purple</button>
+    <button class="btn" onclick="filterByColor('green')">🟢 Green</button>
+    <button class="btn" onclick="filterByColor('red')">🔴 Red</button>
+    <button class="btn" onclick="filterByColor('gold')">🟡 Gold</button>
     <a href="mongoose_hub.html" class="btn" style="text-decoration: none; display: inline-block;">Back to Hub</a>
   </div>
   
@@ -360,6 +365,15 @@
     
     function updateStats(tokens) {
       const count = tokens.length;
+      
+      // Guard against empty array
+      if (count === 0) {
+        document.getElementById('tokenCount').textContent = '0';
+        document.getElementById('avgValue').textContent = '0';
+        document.getElementById('totalValue').textContent = '0';
+        return;
+      }
+      
       const totalValue = tokens.reduce((sum, t) => sum + t.value, 0);
       const avgValue = Math.round(totalValue / count);
       

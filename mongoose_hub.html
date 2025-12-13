@@ -421,6 +421,9 @@
       ]
     };
 
+    // Token value projection constant
+    const TOKEN_10Y_MULTIPLIER = 6; // 10-year value is 6x current value
+    
     // Sample tokens with color tiers
     const sampleTokens = [
       { id: "INF-00000001", color: "Watson Blue", tier: "watson-blue", value: 1262 },
@@ -564,7 +567,7 @@
       desc.innerHTML = `
         <p><strong>Color Tier:</strong> ${token.color}</p>
         <p><strong>Infinity Value:</strong> ${token.value}</p>
-        <p><strong>Projected 10y Value:</strong> ${token.value * 6}</p>
+        <p><strong>Projected 10y Value:</strong> ${token.value * TOKEN_10Y_MULTIPLIER}</p>
         <p style="margin-top: 15px;">This token is part of the color-coded research network. It links to other tokens through shared research terms and can be used to track value across the Mongoose.OS ecosystem.</p>
         <p style="margin-top: 10px;"><strong>Connected Research:</strong></p>
         <ul style="margin-left: 30px; margin-top: 10px; line-height: 1.8;">
