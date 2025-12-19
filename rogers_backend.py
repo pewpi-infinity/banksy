@@ -1,3 +1,4 @@
+from carts.cart_firmware_repo_brain import brain_bp
 """
 Rogers AI Backend Server
 Simple Flask server for the Rogers AI Console
@@ -8,6 +9,7 @@ from flask_cors import CORS
 import os
 
 app = Flask(__name__)
+app.register_blueprint(brain_bp)
 CORS(app)  # Enable CORS for frontend access
 
 # Simple in-memory token storage (replace with database in production)
