@@ -1,3 +1,0 @@
-Token: INF-62536503
-Timestamp: 2025-12-08T12:34:49.491545+00:00
-Lore: Neutrino pulse phasing matter…

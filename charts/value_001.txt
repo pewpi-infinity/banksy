@@ -1,1 +1,0 @@
-[Chart] Token #1 Value = 1007

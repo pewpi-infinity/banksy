@@ -1,0 +1,10 @@
+{
+  "spine_id": "e068db59079e8182cffc0dfc9bbfdad4189fdfcdb786165a5027ed6642289344",
+  "timestamp_utc": "2025-12-24T09:15:04Z",
+  "repo": "banksy",
+  "head": "6f4887a395eec9f79561d8386f6a1f59b5879570",
+  "intent": "memory-spine-append",
+  "authority": "pewpi-infinity",
+  "type": "append-only",
+  "notes": "Repo-anchored memory node. No local persistence."
+}
